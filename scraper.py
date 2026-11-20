@@ -10,6 +10,23 @@ def load_channels() -> list[str]:
         return json.load(f)
 
 
+def extract_photo_url(wrap) -> str:
+    # Check CSS background-image on .tgme_widget_message_photo_wrap
+    photo_wrap = wrap.select_one(".tgme_widget_message_photo_wrap")
+    if photo_wrap:
+        style = photo_wrap.get("style", "")
+        match = re.search(r"background-image\s*:\s*url\(['\"]?(.*?)['\"]?\)", style, re.IGNORECASE)
+        if match:
+            return match.group(1)
+
+    # Fallback: check for an <img> inside photo/media containers
+    img = wrap.select_one(".tgme_widget_message_photo img, .tgme_widget_message_photo_wrap img")
+    if img and img.get("src"):
+        return img["src"]
+
+    return ""
+
+
 def parse_post(wrap, channel: str) -> dict | None:
     msg_el = wrap.select_one(".tgme_widget_message_text")
     if not msg_el:
@@ -42,7 +59,10 @@ def parse_post(wrap, channel: str) -> dict | None:
     external_link = ""
     bullets = []
 
-    clock_icons = ("🕐", "🕑", "🕒", "🕓", "🕔", "🕕", "🕖", "🕗", "🕘", "🕙", "🕚", "🕛", "🕣", "🕤", "🕥", "🕦", "🕧")
+    clock_icons = (
+        "🕐", "🕑", "🕒", "🕓", "🕔", "🕕", "🕖", "🕗", "🕘", "🕙", "🕚", "🕛",
+        "🕣", "🕤", "🕥", "🕦", "🕧"
+    )
 
     for line in lines[1:]:
         if line.startswith("📆"):
@@ -60,13 +80,20 @@ def parse_post(wrap, channel: str) -> dict | None:
             bullets.append(line)
 
     full_lower = raw_text.lower()
-    is_free = any(w in full_lower for w in ["free entry", "free admission", "freebies", "free gift", "complimentary", "free "])
-    is_weekend = any(w in full_lower for w in ["weekend", "sat", "sun", "fri - sun", "daily"])
+    is_free = any(
+        w in full_lower
+        for w in ["free entry", "free admission", "freebies", "free gift", "complimentary", "free "]
+    )
+    is_weekend = any(
+        w in full_lower
+        for w in ["weekend", "sat", "sun", "fri - sun", "daily"]
+    )
 
     return {
         "source": f"@{channel}",
         "category": category,
         "title": headline,
+        "image": extract_photo_url(wrap),
         "bullets": bullets,
         "date": date_info,
         "time": time_info,
@@ -105,7 +132,6 @@ def main():
         except Exception as exc:
             print(f"Warning: failed @{ch}: {exc}")
 
-    # Sort newest first by timestamp when available
     all_events.sort(key=lambda x: x.get("posted_at", ""), reverse=True)
 
     payload = {
