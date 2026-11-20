@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Weekend Activities Radar</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      max-width: 780px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+      background: #f8fafc;
+      color: #0f172a;
+    }
+    h1 { margin-bottom: 0.25rem; }
+    .meta { color: #64748b; font-size: 0.9rem; margin-bottom: 1.25rem; }
+    .controls { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1.25rem; align-items: center; }
+    input[type="search"], select {
+      padding: 0.5rem 0.75rem;
+      border: 1px solid #cbd5e1;
+      border-radius: 8px;
+      background: #fff;
+      font-size: 0.92rem;
+    }
+    label.chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      padding: 0.45rem 0.75rem;
+      background: #fff;
+      border: 1px solid #cbd5e1;
+      border-radius: 8px;
+      font-size: 0.9rem;
+      cursor: pointer;
+    }
+    .card {
+      background: #fff;
+      border: 1px solid #e2e8f0;
+      border-radius: 12px;
+      padding: 1.1rem 1.25rem;
+      margin-bottom: 0.9rem;
+    }
+    .badges { display: flex; gap: 0.4rem; flex-wrap: wrap; margin-bottom: 0.45rem; }
+    .badge {
+      font-size: 0.75rem;
+      font-weight: 600;
+      padding: 0.15rem 0.5rem;
+      border-radius: 6px;
+      background: #e0f2fe;
+      color: #0369a1;
+    }
+    .badge.source { background: #f1f5f9; color: #334155; }
+    .badge.free { background: #dcfce7; color: #15803d; }
+    .title { font-weight: 700; font-size: 1.05rem; margin-bottom: 0.5rem; }
+    ul { margin: 0 0 0.65rem 1.1rem; padding: 0; color: #334155; font-size: 0.92rem; line-height: 1.45; }
+    .details { font-size: 0.86rem; color: #475569; margin-bottom: 0.65rem; display: flex; flex-direction: column; gap: 0.2rem; }
+    .links a { color: #2563eb; font-size: 0.88rem; font-weight: 600; text-decoration: none; margin-right: 1rem; }
+    .links a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>SG Weekend & Free Activities</h1>
+  <div class="meta" id="updated">Loading latest posts...</div>
+
+  <div class="controls">
+    <input type="search" id="search" placeholder="Search (exhibition, free, Sentosa)..." />
+    <select id="sourceFilter"><option value="all">All channels</option></select>
+    <select id="catFilter"><option value="all">All categories</option></select>
+    <label class="chip"><input type="checkbox" id="freeOnly" /> Free / Perks only</label>
+    <label class="chip"><input type="checkbox" id="weekendOnly" /> Weekend / Daily</label>
+  </div>
+
+  <div id="list"></div>
+
+  <script>
+    let allEvents = [];
+
+    function render() {
+      const q = document.getElementById("search").value.toLowerCase().trim();
+      const src = document.getElementById("sourceFilter").value;
+      const cat = document.getElementById("catFilter").value;
+      const freeOnly = document.getElementById("freeOnly").checked;
+      const weekendOnly = document.getElementById("weekendOnly").checked;
+      const list = document.getElementById("list");
+
+      const filtered = allEvents.filter(ev => {
+        if (src !== "all" && ev.source !== src) return false;
+        if (cat !== "all" && ev.category !== cat) return false;
+        if (freeOnly && !ev.is_free) return false;
+        if (weekendOnly && !ev.is_weekend) return false;
+        if (q) {
+          const blob = `${ev.title} ${ev.location} ${ev.date} ${(ev.bullets || []).join(" ")}`.toLowerCase();
+          if (!blob.includes(q)) return false;
+        }
+        return true;
+      });
+
+      if (!filtered.length) {
+        list.innerHTML = "<p>No matching activities found.</p>";
+        return;
+      }
+
+      list.innerHTML = filtered.map(ev => `
+        <article class="card">
+          <div class="badges">
+            <span class="badge source">${ev.source}</span>
+            <span class="badge">${ev.category}</span>
+            ${ev.is_free ? `<span class="badge free">FREE / PERKS</span>` : ""}
+          </div>
+          <div class="title">${ev.title}</div>
+          ${ev.bullets?.length ? `<ul>${ev.bullets.map(b => `<li>${b}</li>`).join("")}</ul>` : ""}
+          <div class="details">
+            ${ev.date ? `<div><strong>Date:</strong> ${ev.date}</div>` : ""}
+            ${ev.time ? `<div><strong>Time:</strong> ${ev.time}</div>` : ""}
+            ${ev.location ? `<div><strong>Location:</strong> ${ev.location}</div>` : ""}
+          </div>
+          <div class="links">
+            <a href="${ev.post_url}" target="_blank" rel="noopener noreferrer">View on Telegram →</a>
+            ${ev.external_link ? `<a href="${ev.external_link}" target="_blank" rel="noopener noreferrer">Official Link →</a>` : ""}
+          </div>
+        </article>
+      `).join("");
+    }
+
+    async function init() {
+      const res = await fetch("./events.json?t=" + Date.now());
+      const data = await res.json();
+      allEvents = data.events || [];
+      document.getElementById("updated").textContent =
+        `Last synced: ${data.updated_at || "Never"} · ${allEvents.length} posts`;
+
+      const srcSelect = document.getElementById("sourceFilter");
+      for (const s of [...new Set(allEvents.map(e => e.source))]) {
+        const opt = document.createElement("option");
+        opt.value = s;
+        opt.textContent = s;
+        srcSelect.appendChild(opt);
+      }
+
+      const catSelect = document.getElementById("catFilter");
+      for (const c of [...new Set(allEvents.map(e => e.category))]) {
+        const opt = document.createElement("option");
+        opt.value = c;
+        opt.textContent = c;
+        catSelect.appendChild(opt);
+      }
+
+      ["search", "sourceFilter", "catFilter", "freeOnly", "weekendOnly"].forEach(id => {
+        document.getElementById(id).addEventListener("input", render);
+        document.getElementById(id).addEventListener("change", render);
+      });
+      render();
+    }
+
+    init().catch(() => {
+      document.getElementById("updated").textContent = "Run the GitHub Action once to generate events.json.";
+    });
+  </script>
+</body>
+</html>
