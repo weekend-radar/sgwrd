@@ -1,11 +1,34 @@
 {
-  "updated_at": "2026-11-22 01:10 UTC",
+  "updated_at": "2026-11-23 01:17 UTC",
   "events": [
     {
       "source": "@sgweekend",
       "category": "General",
+      "title": "Ongoing Free Exhibitions in SG 🎊",
+      "image": "https://cdn5.telesco.pe/file/b4TaxUSdBr-Hdil-dAb8V8CfStuwdsWeZgJfx3nl3lT-b4mS0NsT7KSXC-nVd9xIK6GL0ljAhJPCnqdlTcDDVf2-kugRk1CDiZ4Q8Kmv6Qhkv479CkXUikwXV_4m5J8yyoPBUI1-EqR4wDebb90qPriZs35zhVv3pcReb0lRqWF55CU7HuaL5gMBRqMac-IE4Po17uSCQiCCM_xNfWEIpQ-cWKw__Q6GGEtXJYnaF9-LZ1P-aruywlBID6jXjDOIT5S_q9aHwMkPR-4qxNU9ysfPXFwWdPMk1zjFq7p5YvVRcESi3MDo4v45MwJFFkP55Au6Z0CSKxzLJsYJj2WmyQ.jpg",
+      "bullets": [
+        "✨ Enjoy free admission to these cultural & art exhibitions:",
+        "1️⃣ Till 22 Nov: Atomic Daydream",
+        "2️⃣ Till 29 Nov: Dramatis Personae: 1001 Lives",
+        "3️⃣ Till 6 Dec: Worlds in Motion",
+        "4️⃣ Till 12 Dec: The Blank Puzzle",
+        "5️⃣ Till 31 Mar 2027: SHIPPED! Vessels of Taste",
+        "6️⃣ Till 26 Sep 2027: Let’s Imagine the World Together"
+      ],
+      "date": "",
+      "time": "",
+      "location": "",
+      "is_free": true,
+      "is_weekend": true,
+      "post_url": "https://t.me/sgweekend/3888",
+      "external_link": "",
+      "posted_at": "2026-11-22T04:01:02+00:00"
+    },
+    {
+      "source": "@sgweekend",
+      "category": "General",
       "title": "Free entry to Santai: In Progress 🎭",
-      "image": "https://cdn5.telesco.pe/file/gJniuUegk_WjZ_Y9Ul_ei4XFusU_p8LVBh6zTiFGsVisaE9QiwDxpytupFnRf7NGU-AqIJZ4t4KFKE5vsNXdeYcVGsJD7T1gHZNAQ7DjF_3ZfgbaEis1RYlH9AxUj6Ix6sv8wnPmBkLQ5y3TBqO80QS0-xCuEIP5cFo3KwGAtz5woc6AwZoaK4kHm7tD0Bh6IvHU7AMMTlonKgiPwB0SkoMJZvpeVUGfvtMiZciLZEeNMvJB1ooTQWAKF-sXdmDEESAf50jdccShiRzlAq1ME3DSeLh9BMZsVzXYkeLr98R1L_q7ONQK4nHQTXDw2ExhePFw1T3sYfVrqldz-WZFSA.jpg",
+      "image": "https://cdn5.telesco.pe/file/eWUHafstH-vWx5f8iuZ-BAyynL_UsaFJSz502hwvQ8Zmdw2tG2xLkJiyBvWhmKt3NL6YPbUqfJEgSvf2OkB6NH1gx7ZYiQH05fX8oIj2KbQtICUtfs15YqmcJX6zdfn8x6UiW0i0AOkK9SXe499gBkW1vOklPhe1MLi3jnRPTm7yv06211js8TovPaaUNKAdh5YRxFBkmPfC4sr0xqL9O0jsMFszufF82WiQEs-qSUVll9bjVSsvSJ6Gmq3Oi7XMD2RHysm7M_7kZJ_3O_7HrhXlusVZRp6DHtl1T5hn8e5A79XItgqzwnvBvkHZ83g5djnAkF0lMlW4mtvVzB_hKw.jpg",
       "bullets": [
         "✨ Discover a creative gathering of independent makers featuring live performances & hands-on activities",
         "✨ Browse a market with original artworks, prints, jewellery & more",
@@ -27,7 +50,7 @@
       "source": "@sgweekend",
       "category": "General",
       "title": "Christmas Snowfall & Festive Fair at Chinatown Point 🎄",
-      "image": "https://cdn5.telesco.pe/file/b7C3JtNG6x7oEMnTayspyoHxOvAvvRTpOH86UCpvPkooO1ZzAtzQVO0pKBDtnn-u7PLAtD3hyP3iARXmJMl0xHWTGSahAMqCWhuYMZ351reu93o4YD07sL1scb702Cn2iscsW2oidOqpSgs9hVC57WjvT0eyrlUY-bIAeI363HaudVKgTgpZk27FsUZtTNKcv7cDXTzMPuT1RjqiH-ONURBZldUwlbVOrE7s7lv4DbeaMEiqPYk9x-_yzIzs63OmhDni8K8Jzz9TvXwv9vaPmQd95xiBi8HA4gQ1fvcQKB3VsuNBffZUHxnJa15w4G7z9gwzca8f0aiCsSoJbDBfXA.jpg",
+      "image": "https://cdn5.telesco.pe/file/tTZG3KiUaOJqCgHhEWS0yrstebc94Vlf7XCGaP6xZ63ZJ01f3maVeGoukZ8pTo_MCukyp_vgu889FpXa6UxR8eop1jx5zUFsfmpIuuP09uB2QfWx4nM6pi88IrCQS9pDmkjMKbodpW85HIyzKrogewMcHRfLHzMpofXjWZRoPlSKiwC67snBfmibFD3FXvAhHWHi5hUBRofL1XQ2-3bkHzhQO9sN4kHcS4xS60-az7todZGxIa9dlvCjKhmF8rSs3ra3JZ9qyRsA4jsYkOv_maSrAe84hq7j5H3AspyDZtc9fGQkaPK5hfC868wSoNGj1eFD6LHrgDcwW9EuIzaKaQ.jpg",
       "bullets": [
         "✨ Catch snowfalls drift from a stunning 10-metre-tall Christmas tree on selected days including Christmas Eve & Christmas Day",
         "✨ Sing along to Festive & C-pop favourites with live performances by Jeff & Friends",
@@ -49,7 +72,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🇯🇵 Hey, have you heard of o/sio? Tanjong Pagar’s newest pasta spot is open and is inviting you to try its extensive menu.",
-      "image": "https://cdn5.telesco.pe/file/B2jFcmPneoiLFypgQQ-oR-vQOTK9pStbZ2XDpx7zk1zLM2bgeI49bLt-IzuTx9Iu_Xu_HOOKtrVC78MidGRFx7-D8Ss6cKOBypMeQDBM0bSEfVWCUmr2lu4VNbDIBTrt8CqtApa11mdphCleyY9EsWVwUcEkAY-wtbwqSrLKF7MW03xthDZJS1ttRlTBOv9m6tKFYcMtpbQ9QUvs2aI_mAyTbGjoNCl1nlBxdmsO5R20yf0-kANU5OBQ2Rpp7sKlDS2_iqM-vglK2K41HLiYo7Y1kcL5xcOUetvUvfnNTcvAajGNQfRVrUakgxl1CKDtFnlYfMsENBblsvVI1e_b8A.jpg",
+      "image": "https://cdn5.telesco.pe/file/TGCRDv7YemYFcwuLPFCWEhmZ29Gla77lBL-SD-6Wq47T10KDuDd_nqKPgRg3lNMREt7-YEqEpRZ9MX9wFrMzahYG_-8oZh4i33buWAphSqRt5BVVn7rrteWrMv8snv3rcrako5SfA8hVXjmEgHxtDEZFHrgPEod-WdLFCvkkKzX2Ps-nphLSuvDQeq1XyLdpgHHbphh3NNYUoGUzPinwwR3u_aj8hZzQ6JypU3vCm3rMmpeclb2hqnpXhunuAJJmQf72aVibJgLq04s47WbhCLf3S3eKuiJwrlN3FSHHbbhiN-USTWE6IXgfJrEoSlB-yB2DPkZv5hqykwON2Rf25A.jpg",
       "bullets": [
         "🍽️ Read more: bit.ly/4iYbG3S"
       ],
@@ -66,7 +89,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🇯🇵 Hey, have you heard of o/sio? Tanjong Pagar’s newest pasta spot is open and is inviting you to try its extensive menu.",
-      "image": "https://cdn5.telesco.pe/file/B2jFcmPneoiLFypgQQ-oR-vQOTK9pStbZ2XDpx7zk1zLM2bgeI49bLt-IzuTx9Iu_Xu_HOOKtrVC78MidGRFx7-D8Ss6cKOBypMeQDBM0bSEfVWCUmr2lu4VNbDIBTrt8CqtApa11mdphCleyY9EsWVwUcEkAY-wtbwqSrLKF7MW03xthDZJS1ttRlTBOv9m6tKFYcMtpbQ9QUvs2aI_mAyTbGjoNCl1nlBxdmsO5R20yf0-kANU5OBQ2Rpp7sKlDS2_iqM-vglK2K41HLiYo7Y1kcL5xcOUetvUvfnNTcvAajGNQfRVrUakgxl1CKDtFnlYfMsENBblsvVI1e_b8A.jpg",
+      "image": "https://cdn5.telesco.pe/file/TGCRDv7YemYFcwuLPFCWEhmZ29Gla77lBL-SD-6Wq47T10KDuDd_nqKPgRg3lNMREt7-YEqEpRZ9MX9wFrMzahYG_-8oZh4i33buWAphSqRt5BVVn7rrteWrMv8snv3rcrako5SfA8hVXjmEgHxtDEZFHrgPEod-WdLFCvkkKzX2Ps-nphLSuvDQeq1XyLdpgHHbphh3NNYUoGUzPinwwR3u_aj8hZzQ6JypU3vCm3rMmpeclb2hqnpXhunuAJJmQf72aVibJgLq04s47WbhCLf3S3eKuiJwrlN3FSHHbbhiN-USTWE6IXgfJrEoSlB-yB2DPkZv5hqykwON2Rf25A.jpg",
       "bullets": [
         "🍽️ Read more: bit.ly/4iYbG3S"
       ],
@@ -83,7 +106,7 @@
       "source": "@sgweekend",
       "category": "General",
       "title": "Things To Do This Weekend (20 - 22 Nov) 📝",
-      "image": "https://cdn5.telesco.pe/file/enF5NPmoEBipFTpR8B-VQEhWsZDJqEnRvcxfIjQ6U2ggsT7Yo_tMB8qeVZjaYY2ryWQVe5PeMTcfNuUaggeSgZnXLMUM7K-d4aiadNXcfwJfg9LTN7LrRoLQi3cO00GpNxGFVxGeTa6QnEoWfaBRH0m5HVB6LdSRTvb64CsCa_O3mKO4S8mCUWPQ973OLtqKRl4VjLG7mcKmioNO_D7_rhF_RqiEhvODaSp8-_vEb1QSe7Vo3dSqt13xcSHg7Ag93hhGmF490JSenYdVjBtLUvoldRVjTHT5UiOAa1EfqvonJ9fhBAO8rgjrM9jwN4yvpRutYw00qOkdstE7W3NgXQ.jpg",
+      "image": "https://cdn5.telesco.pe/file/kVhbHgVMC0_B6qONWpKF6WyTHoyMXBMq3fmvdcmTYC2-R92Ws59DZ046YZ71M1aqBoe93TAEH3WUZTUG647HWCDF29qLGPv6KFjKRiLEAn9qqfyaUSDLu9JpQ-h_kaCkh_MN7wrUHGaraQx6FsWT7g4tyQvZOOJXpvPIU_CkWXenyyHV56p7VDtSg92a4npFlT3WoqPVtzXqJVpE6XiXmsUxwMuoA6UtsrnOcmwW2Lv37YGcJ-vk_bY363MqnPfHNpRQPKWk2KjP2JJPkrleI4pq1C0PFW4CVeL6k5GQ06feh-Zp6okW2BDBaL2uFNTEXf83ZDRq3RcV6eL8mXCXgA.jpg",
       "bullets": [
         "✨ 1-for-1 China's Famous Coconut Drinks",
         "✨ Visit Boutiques Fair Gifting Edition",
@@ -106,7 +129,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🎄 The Great Christmas Village is back with Avengers: Doomsday installations, more carnival games, and a LEGO Santa’s Toy Factory.",
-      "image": "https://cdn5.telesco.pe/file/cE8o5Iy7m03oD4b9mmbo5RoQWIWZwtw39LBRdqAPukThY7qeDqvxqmZs8jeIfBASaAiheI1_DK9Gok9MAy2aTT7-Gl7sDC0f3S8Qv7ZqbeHkdmrUUPTjVRTWvuF7IJFHJRNjvNjnpD_l-Mz6H6Mr-9DLRgRaPye9WBqJ0zz5wXwEuDCM-lxbGzvj1Cm-UQXVCE68rTZgh5cTLTQ_ogdIwFmvJ_SYQyMcyaN5E3L2HV2GU9WGihF5KsByCZYLAYDI0DKnfL_vjQh_1QmZpsr2DwTVGaVoBG5rvoFGbBl_hSus7s-xVKfv2P0A-koiimYvw0IxLiho1_dePYW-75qJ0A.jpg",
+      "image": "https://cdn5.telesco.pe/file/dh927M1wHliNdy7Lf4fzvFtYXo3kbKtTpxAtzc4Qi9R_SH6OmZ_S-mk55FIzEaDCxOw-OKUG6RZc40puArzbRoam_1yhZy6_TTrXv6VGdAuNGuwHw_BtkNsMynH9wEb4j2zWT2ZpJ1DELc-Z0mjFqCSlv7dqH_OMVtIiRDii2NkML8xyeJhil7RIVuiTbTMUK7wABOaEY-MzQvmftO5E7tU1GHQX48TG68K9hdV-z0Xeum1CGZ_QiBP538vhDayBOPdW0RNyVHjKJdRPfwU6j3dbqsO27JE45hq7bqRg4aFHpMb-HzHc6frVeerFFfsBOtKkF9hcPTQsPbE92VuVqQ.jpg",
       "bullets": [
         "🎪 Read more: bit.ly/4krfpt4"
       ],
@@ -123,7 +146,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🎄 The Great Christmas Village is back with Avengers: Doomsday installations, more carnival games, and a LEGO Santa’s Toy Factory.",
-      "image": "https://cdn5.telesco.pe/file/cE8o5Iy7m03oD4b9mmbo5RoQWIWZwtw39LBRdqAPukThY7qeDqvxqmZs8jeIfBASaAiheI1_DK9Gok9MAy2aTT7-Gl7sDC0f3S8Qv7ZqbeHkdmrUUPTjVRTWvuF7IJFHJRNjvNjnpD_l-Mz6H6Mr-9DLRgRaPye9WBqJ0zz5wXwEuDCM-lxbGzvj1Cm-UQXVCE68rTZgh5cTLTQ_ogdIwFmvJ_SYQyMcyaN5E3L2HV2GU9WGihF5KsByCZYLAYDI0DKnfL_vjQh_1QmZpsr2DwTVGaVoBG5rvoFGbBl_hSus7s-xVKfv2P0A-koiimYvw0IxLiho1_dePYW-75qJ0A.jpg",
+      "image": "https://cdn5.telesco.pe/file/dh927M1wHliNdy7Lf4fzvFtYXo3kbKtTpxAtzc4Qi9R_SH6OmZ_S-mk55FIzEaDCxOw-OKUG6RZc40puArzbRoam_1yhZy6_TTrXv6VGdAuNGuwHw_BtkNsMynH9wEb4j2zWT2ZpJ1DELc-Z0mjFqCSlv7dqH_OMVtIiRDii2NkML8xyeJhil7RIVuiTbTMUK7wABOaEY-MzQvmftO5E7tU1GHQX48TG68K9hdV-z0Xeum1CGZ_QiBP538vhDayBOPdW0RNyVHjKJdRPfwU6j3dbqsO27JE45hq7bqRg4aFHpMb-HzHc6frVeerFFfsBOtKkF9hcPTQsPbE92VuVqQ.jpg",
       "bullets": [
         "🎪 Read more: bit.ly/4krfpt4"
       ],
@@ -140,7 +163,7 @@
       "source": "@good2gosg",
       "category": "Things2Do",
       "title": "Singapore Comic Con 2026 🦹🏻",
-      "image": "https://cdn5.telesco.pe/file/qh0PmuxJVY-c2CJiThwNLR42D6WvggjC93-YfegizphkniisG0AVsNu23BYdU7h0cazB6WAHQlRxBGftPw6ulwM4fZyioO7HQz2HyUrubcvKeArSvOyfB7yRatLXh9uvRt-EhLOiXR_C4dEvbr27MTndikhVVbUxnCWoxrlcPgs5qDUffZJI113y9E8O0MZUqK7lyQZl25L4-F8lUHR7L4dFilZN0s7-oQbldfK7LHlpYhs9dsE_4NMmfvYG1QUlUIxmuHnktpQF1KKG790_cUXyCzfL7euYf2mzv-yERwj4j2K7T7b9S0DLe2Yg7FPahgM8aT1nVg3Tp23469nd5w.jpg",
+      "image": "https://cdn5.telesco.pe/file/bW3lTSJraBbxPK9VaWkWKEHZ0nIvr7P_4-zCpvoL8yH2-oh0fDSbiTPaotGxxN9pt_fGn0TOPFJdZXEuv5MeNfvqVISE2n3O6brJF7YwLEzbs393-gumvnTiwd-aFlA2kD66N6-1h5MvGnzO4UhDb-UoLIVgxHctuV2vSMxe3Kn-hN7iCkNCqBfVq5Y6HvvnXlL9SQ3iMAF4lw_9iYBOmrh1Omq7MrljKBeBGQRVbx_WRJrWU_bbrLmwAE2sm0cW6jMLz6Ic1kmDR_KmpEh-zti62yM9baY-l5gz4FFfzRrktBILdmIkBsLbSgDe49VBIa__JkHWkOOmltqN5S7WKA.jpg",
       "bullets": [
         "➡️ Ultimate pop culture convention ft. comics, anime, gaming & more",
         "➡️ Incl. celebrity meet & greets (Uji Kiyotaka & Negishi Takuya), creator panels, tabletop gaming & more",
@@ -159,7 +182,7 @@
       "source": "@goodlobang",
       "category": "General",
       "title": "💚 Boost 💚",
-      "image": "https://cdn5.telesco.pe/file/c0PCHCW9SSQ45vZdlGjH7engyoci5YwvnACf70hlPCNmFwtLDg5heWyxufguzkWgKvRMdJk9yGEfrCQyZWcvtR4Vlohs6UCIybUj67Bg0Xj9nhwLMK0hHoMqvLoip6LNqwHy-N0ybCDp7_KAIgDZbCwDG7Fh81AO34F70AUJuroqc9LT6x9oAAy0LDTanEqPhcoYmQyHk0dshY9Lf-5cLz6z8o59j-SLHqjEdPfFzk-dzqk5vWUctptnQ-yxFLdgGUsOHdUIFg2_n_up6M02ocJifCAJTH09tG6qyQ1Qk6T2WRP5TOnLeqorXmGcGElflZaUy6PWwt7O3khPEa63eQ.jpg",
+      "image": "https://cdn5.telesco.pe/file/MYFGuSB97kG_A8UAIy0Gpt7imYHCpfObS5ZCkW3l_8Jq3qv5eDsa6Kbuoo18BJVD5QQI6beSo9FBJKzYYCIZz6o9acxQ1b0n-gx-Lzc4Jl4DtR5WCD6cOZJqvzoBf-F-sQn95I2nx7PJgSl44s8LYHlgq0DDdAG6s805bmTQwbZskYpm6pBeekbnFmkXrcbpGkTwgQuA4RlplqXEWSjwH9UDI8SICxUC32kOZCXIIc6YHez4KP7eU7Pwh-PwzPupq2udtan6enf-AW57p0D-Vg4NBY15b9cRZIuCYFJYXj1mOAkoMMa_9Qho54lLlSJ1LU4ZIYoGazg0ABsPgOMORw.jpg",
       "bullets": [
         "➡️ $1 for 2nd Berries & Tropical Drink",
         "➡️ Incl. All Berry Bang, Superfruit Smoothie, Mango Magic & more",
@@ -178,7 +201,7 @@
       "source": "@sgweekend",
       "category": "General",
       "title": "Spend your weekend with free trip down memory lane 📺",
-      "image": "https://cdn5.telesco.pe/file/NL4_IKFRvpV_ow_6xUjbFJIBCkwGoM2lclfdXpadFilxaKlHwQ_O9zc75tk1KpshpZwONkhme0PbgEbtCwankurerW5QZO_Fkng6cuQBCZ8qpD7A_DljrXzKYy4STdQqmOkvOBkZtTdOO41sWk5fqQSpcOFwZCegNDgtCRVOGDvOJsNMnGxkvudDBL0uZDwBUpWxfMYg3xB6KGgKFyTlcKSCI3aBfPE3IhMymXay-z5aD-_jZIQbHlaKvJ1xbBnAnIZR7oFRMRzAH1ivfubDeHA2bUCk64kldjtBOECVg5HfQqZOdTkmiQjPObsRA7ND5QjerWXMuEnNwWMEVm6g6g.jpg",
+      "image": "https://cdn5.telesco.pe/file/u-1OtJkfi6yTrfSfnuH9C9UJnqlcaJ37xI7xU9UpkV-8ukOWM98ms2WjNbWOGlnhnXzUPyMXOnq_WQqQw1Zp3wdau0YLDpU6hgYSp1QqV_V6ufUk0vLfW0oBhoC3jwVuSBWTDX9KsTzKooamwNTSC8QbQNNdp9LzNOt1Wm3jvZs_gZM5trr-Z7_uCwhY-GopPyujmTbuhhCfak370Q9dkEYcjk7JlZply5GOQuxUlmYmZ6C3YGyQ4CezANYW91QodtH8YdffTsmG1wSDHseAiTsxVZiob9JTGVbfI2LunXSRwioFun8uo3LyG4AGSOeYWMMLUJ6PEFdquqMh44n0Lw.jpg",
       "bullets": [
         "✨ Explore A Walk Through Time, an interactive exhibition that takes visitors through generations of technology",
         "✨ Step into nostalgic living room setup & rediscover familiar gadgets from the past like radios, CRT TVs & more",
@@ -199,7 +222,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🥵 South & East is a hidden spot at NUS where Western barbecue meets Southeast Asian flavours. Here’s a list of new & festive items.",
-      "image": "https://cdn5.telesco.pe/file/piubINN7AgSUmxdy1pBnhs3eIp1lRgfJrnNjEDwHPslbrjI6vNyNi21Wu6ukFeOiHh8E2R18hU4bKmnmaBU564i0vFEicitXj1Af8yyBgpAwCCZ8Q1wdRAEBHNKlOBjTDwK9tH-FfJpOA8A-C-QQpMBj79n4LwvphSXdthl9wkSpl9ISTzGWNs8NVHGWdwYPmWrK-XDEt1e47LScMMtuShefa9vMLDEgd8LjkWwFnDVCR1dKWEDgCfRNGv7X5MjPJW0q8t9mn0BRSJhfg6fA21y1RcrHUpZMBJdBnF4gbtnTM-jxVnHy5TaNH_K-X0YPLPxa_DMUeC-Ec-MH0f8Ang.jpg",
+      "image": "https://cdn5.telesco.pe/file/rIP9EvLDL-FAeubmwD2YJH-O-QTteu3ngO7K7_qGo78FU_5N5OLKtkDsmUbQZJFLRJAR2A7ARUNEC0BYESJ_RHd7dyukbhjaI40uKrStGgFYRmAyBK-q31w7sBx6sGhNEzXzhZ6-9VZZirIgYxW1DRXmCP9LLy3gT1COZB-sj_3mdUAVOH9tBwnpziCFx1mBksevaogqVbEdD9EGjFzzjh2J0fbFD5_usLPES90n-y5g0Eyee_ij3zxizNm7l7sJTKaSPrLT-krJNkWdBLcqXYcFnvazcnPSN9NzKvdb0yAiPwmnqIrrOTss86Dh5i1MYnMOKE63-XThg5uiUGX6Jw.jpg",
       "bullets": [
         "🥩 Read more: bit.ly/4kmYYOs"
       ],
@@ -216,7 +239,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🥵 South & East is a hidden spot at NUS where Western barbecue meets Southeast Asian flavours. Here’s a list of new & festive items.",
-      "image": "https://cdn5.telesco.pe/file/piubINN7AgSUmxdy1pBnhs3eIp1lRgfJrnNjEDwHPslbrjI6vNyNi21Wu6ukFeOiHh8E2R18hU4bKmnmaBU564i0vFEicitXj1Af8yyBgpAwCCZ8Q1wdRAEBHNKlOBjTDwK9tH-FfJpOA8A-C-QQpMBj79n4LwvphSXdthl9wkSpl9ISTzGWNs8NVHGWdwYPmWrK-XDEt1e47LScMMtuShefa9vMLDEgd8LjkWwFnDVCR1dKWEDgCfRNGv7X5MjPJW0q8t9mn0BRSJhfg6fA21y1RcrHUpZMBJdBnF4gbtnTM-jxVnHy5TaNH_K-X0YPLPxa_DMUeC-Ec-MH0f8Ang.jpg",
+      "image": "https://cdn5.telesco.pe/file/rIP9EvLDL-FAeubmwD2YJH-O-QTteu3ngO7K7_qGo78FU_5N5OLKtkDsmUbQZJFLRJAR2A7ARUNEC0BYESJ_RHd7dyukbhjaI40uKrStGgFYRmAyBK-q31w7sBx6sGhNEzXzhZ6-9VZZirIgYxW1DRXmCP9LLy3gT1COZB-sj_3mdUAVOH9tBwnpziCFx1mBksevaogqVbEdD9EGjFzzjh2J0fbFD5_usLPES90n-y5g0Eyee_ij3zxizNm7l7sJTKaSPrLT-krJNkWdBLcqXYcFnvazcnPSN9NzKvdb0yAiPwmnqIrrOTss86Dh5i1MYnMOKE63-XThg5uiUGX6Jw.jpg",
       "bullets": [
         "🥩 Read more: bit.ly/4kmYYOs"
       ],
@@ -233,7 +256,7 @@
       "source": "@goodlobang",
       "category": "General",
       "title": "🌯 Guzman y Gomez 🌯",
-      "image": "https://cdn5.telesco.pe/file/OFGvJZhvZYUFDTtkXrv6le0B6cMCZZJ7SNziVXvQOoVli_0VB03skBE2kM9P5qKrtcVwy9qEFSPe_D_bt_JitukkDy7fmiH2-2tuW9cCl1nQFQFxCGyHqExZ9N1sPk8zw1a2ZHSzwJBRpV35cQ_35Ltbme2mJV1OsFthkVODF-m02LeJuUZlM2PVoN5p3fEhRcTFAqs9knwuK19A14A68onVL_eWqY1qyr2RWV5x8CSPCkp98lYigqjs3xS3Fdme-ARcKanXEZb5vpN2UtUCV0Rf5XOn2IKSOkh5rXkKT5AQEmbGkd8p0FGREtd2_l_vdcFxFvWwJTTqzkffaSU6ZQ.jpg",
+      "image": "https://cdn5.telesco.pe/file/tNK4RLnV_sYPzE6uautpybCz6_iG76A2PtuPuddvhL0xtS4KAFFj36GTzfUjeFzota_Enjjh3rKIEgeHKC9iT7t_L6swJykcXmNvQsBwb-zy58LyR4TUD0YuEJZikjetFGPOj0m-_8Jh68CMbs_1MCi_2kmd_FY3Mf8N7WzA3Hx0YMsez5jj79gVZvm5LDKJlBqLVl9z9tp-WdaMspDXoQZpQkGF6YT0BW-N0FzoNUUEixqSalkSJ5BY0BqM0i5uEqfiKHO4flhC83k35qV7zJjDeJ_GgJCNlM45SPeXC1Vnz7izyKzc1j_iK3IqBHMZxV7Z90f9gEuKSu8UvaYzjg.jpg",
       "bullets": [
         "➡️ FREE Brekkie Burrito (worth $7)",
         "💃 Show proof of Grand Theft Auto VI playtime or trophy to redeem",
@@ -252,7 +275,7 @@
       "source": "@goodlobang",
       "category": "General",
       "title": "🥥 Yee3 🥥",
-      "image": "https://cdn5.telesco.pe/file/nKR8moZJ73eXifFL4KGsoCCrdxhgHP7RsvpOBPh4arU7bnVW4Y2Xh3CXTx4LtF3E5x3gdJ0RI2q2ZCK9eJ_h0J7ZyXIOxbanZcQvDH4NCF_lWcj17r8taImuRtxKKhnNDIoV7DP6oV7JywX0VBx7gscMtEEGiQy0iK707Igp9KhvYI1Nzuo8eWtjmNoQHxyBkM2zQMUglOFtR4FanJ2ZN-LqRsKHscAxG79B77bK9uo0FlEUKUeZ6m3JQU0rZCEfFeNo8-Jil7bFJ8i_BDvsKjYQEfAFarXWhKd0jgPZGN_bqEBO1BmV1EXRzXuA9BkP2AumhCyEOBQIYu1CudVAzw.jpg",
+      "image": "https://cdn5.telesco.pe/file/jJxE-ezQNZsTcVAyPBUDZ7Ya7lJtKYpRTtM5rQJ4HOGyL9wWVaQpY621OAr49I9A_vYtVR8XM0psAPZZh43n0Ryls2LJLjoLzRZGIchktWFeUwE6_Vf9gHgf8SNhY_aP2QZxxQdWbNWSy4fngyOLNEbWZkDgwCbhGvpQBOWA1Z5z1DIEvDN0HTraJzqChm2y6FWAgx6XrcLCGovs80Os65GtBDlKaZW-06FLe9zBa_fAUpuzdapjzXuA1XJfODkoThs6fBIQ4FpV55gVLYRIPynAWXxL-3kcf0wEMAYADXPUTyl8tAgs4Pw1mwXVlERPxgNxXlz8L6OuLJXalB1bfw.jpg",
       "bullets": [
         "➡️ 1-for-1 all drinks",
         "❗️️️️️️️ Excl. Coconut Frost Shake series. T&Cs apply."
@@ -270,7 +293,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🥃 Bar Somma refreshes its menu with bolder cocktails and plates, serving delightful pours and delicious plates at New Bahru.",
-      "image": "https://cdn5.telesco.pe/file/XyOQtR6DPh3YKY9OmOTNXf381BT7F-09o4W5319O-jGAxfgGrzgwnxlgTjExHknDwGSFfAjA6gyzs2tP_dQg8MM0tB61xMw5qpNqLaR8g23rYVgpFF5t_5l7mB_Hi8YCNdx8N8p8THOofwbd_rARTG6UXaiz0Uji49IxzQMleBAiZjgQr4-fOl4K6qFePThflJfWiID3c6-qlPLM7dIv_y1iWN3pTI4V2P0d2ZAJTASPpersQe01of9lnrKUVeENDwRnH92jTjLofseT3VQbG3uE5E-LgPFi83ni6i0-o4mVaEB2s82Uvd24tAterzUf73Br1ndGmhYqeBUKfo1Z5g.jpg",
+      "image": "https://cdn5.telesco.pe/file/VEwzAX408WL-Rxj0LEJcekxGOfwn5laMfTDzWq1ZPVOlMEov8Utpo1EtuQr-w2dD6rKdlWbuoT23McCwymatRaOLWEP-SWQj6yO3kZk5mWub4stmQ-OIZihNQd_U47XS20sX4bw3avpeR63ptryBoOhWhkbWH3QGCDkdPQvjpF99RF_4KKtUxBZ750YwrhpUbzjToixm4sCURyNgxA-Bk_Qx-8RqfYOZza4Z7ee-5PLnVTweE_kpGCdWh5bh2RY0lPrrHQg3nFaUE39bAJ9JMWIVlAaSo5Z1T_GMK182VtBfJKQEF52SrSYY7nltgKUW-KnZyyeMeEGOLYSuAw8fBA.jpg",
       "bullets": [
         "🍸 Read more: bit.ly/48v5Dio"
       ],
@@ -287,7 +310,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🥃 Bar Somma refreshes its menu with bolder cocktails and plates, serving delightful pours and delicious plates at New Bahru.",
-      "image": "https://cdn5.telesco.pe/file/XyOQtR6DPh3YKY9OmOTNXf381BT7F-09o4W5319O-jGAxfgGrzgwnxlgTjExHknDwGSFfAjA6gyzs2tP_dQg8MM0tB61xMw5qpNqLaR8g23rYVgpFF5t_5l7mB_Hi8YCNdx8N8p8THOofwbd_rARTG6UXaiz0Uji49IxzQMleBAiZjgQr4-fOl4K6qFePThflJfWiID3c6-qlPLM7dIv_y1iWN3pTI4V2P0d2ZAJTASPpersQe01of9lnrKUVeENDwRnH92jTjLofseT3VQbG3uE5E-LgPFi83ni6i0-o4mVaEB2s82Uvd24tAterzUf73Br1ndGmhYqeBUKfo1Z5g.jpg",
+      "image": "https://cdn5.telesco.pe/file/VEwzAX408WL-Rxj0LEJcekxGOfwn5laMfTDzWq1ZPVOlMEov8Utpo1EtuQr-w2dD6rKdlWbuoT23McCwymatRaOLWEP-SWQj6yO3kZk5mWub4stmQ-OIZihNQd_U47XS20sX4bw3avpeR63ptryBoOhWhkbWH3QGCDkdPQvjpF99RF_4KKtUxBZ750YwrhpUbzjToixm4sCURyNgxA-Bk_Qx-8RqfYOZza4Z7ee-5PLnVTweE_kpGCdWh5bh2RY0lPrrHQg3nFaUE39bAJ9JMWIVlAaSo5Z1T_GMK182VtBfJKQEF52SrSYY7nltgKUW-KnZyyeMeEGOLYSuAw8fBA.jpg",
       "bullets": [
         "🍸 Read more: bit.ly/48v5Dio"
       ],
@@ -304,7 +327,7 @@
       "source": "@good2gosg",
       "category": "Things2Do",
       "title": "Free Entry to Home Team Festival 2026 🚒",
-      "image": "https://cdn5.telesco.pe/file/u_nA3xNu3N-IVTPYbVsICA8J7DRFQwI9buub7GUxBy8uk3wq9WIaBvfb5EVt69pFNDMLDgPXaFfGRssWmkjZEQv512Tm9Pi2RotFBTnNToqXmltTypyu4bwdCAJ8tq1D5aS18XvZOqVZGkjK3-I0e-HZOCs623T1brRI56KzYSV1KjwJRqrhwolWkX_3A51e1cRPimTF8_8rjVi-1qaIDkdMFaLQlkXmPe_LxNw2GjfVq5WLhJ-DF8GOldNreEajyYYaruPNr71TTZv6Yry3KnwOEuUqUs64I41UwM5ejT_XeyNqDwsKGknzAFtiia3trWewF-cOnkK6nPY00524uw.jpg",
+      "image": "https://cdn5.telesco.pe/file/aOjaz5QTQZ_dzY4REGasgeTwmzoPUsEvaFoz5LBieQJ99SccGFzoaTTW9I0ssuzmmOgrL5ovoabpxu2sPEDik3dJxru88IpZbUrdA-6Zbxp29BY6ZT6_4i-GQgE_vyfwKbBfBO_A1EOUWibATAcowT2wOROVeoyyOstBFUtf50LtxqINxHryTr6E41pFhjZvjon_I6CQQL2DpjNt6OmdRKXTsZRIS5SL4DUtAOrPLWwUXNzka_V1evwFZP3Yl-OYF2cSI8UJwdCjvG0pdm8HuyYN7kKkoLsoED2aqZESu4tDmhL7uOveNs66mMvSUDPTz3aRpAWxr94YBH9rFjt9MA.jpg",
       "bullets": [
         "➡️ Get up close with Home Team officers across 4 thematic zones, live ops demos, next-gen tech & more",
         "➡️ Complete the Virtual Mission to redeem a limited-edition Home Team keycap keychain",
@@ -323,7 +346,7 @@
       "source": "@sgweekend",
       "category": "General",
       "title": "Amazon Black Friday: Fun DIY Kits for the Weekend 🪡",
-      "image": "https://cdn5.telesco.pe/file/FBscekrfZVWVmysnwI01WCJMSg5cdwxwl9s_lna0wC9xL2h9h5M6-bJQYPCD298FBk1bXubSndOXE0dO5xlINbLFyCLbjBWeKUc0pI1gtw5wd4rXqdrX5u2aHcKwf3OgkTxEfqaJ0e3bXzpsM0pJI7PsqKUKhP4prosDkaDY66qo4tAltapGEuP-RPgeTJrKafx7-sJvuclFH7I_HSU0jBSCcSw5pwTn1MSUKJJhyCiQ_rnwaIuOJJQN8Z0L-5KLpS0bHZlAxqtJsangt6dfnQWWAhL8VKiDkxfDQX_R6TaI301ZoGDaAKP0ztFxkk6hgvKOwdGQLInN9Je-jFknSA.jpg",
+      "image": "https://cdn5.telesco.pe/file/Pmsj0YMgNNdv6OFVp6KoHiRVkUZrXxYJ08PCxnkztB3TFJXbWeE0UMkqFuQ-aiDJvRrAfUDRqVC-AwciYfxJE8PkXscFWcM8a1BsITBwKaVAhfFQAIXy5OZTYRSJNUOHHwbHEIG0NQqyMrN9IhWmnMUxCOTALATh6gMl3RY7vHwDeSAfqWdfEY1yBpAwJ81igQYLoE4M38JTqoykEGDCg62aWPjKuLwNlACW1ptSNTCSvpomlgN0HIRghv0meEE7RSMPOIgAPxmQlEAy1ijXQco8iMfkk22d8DVk498Ij0TFkMUzc0-0kXDDKy5Fww6LGjbEnL09ftH4SVvNF1UVBg.jpg",
       "bullets": [
         "✨ Try Amazon Prime for free & enjoy Black Friday Deals on fun DIY projects at home:",
         "1️⃣ Coaster Embroidery Kit",
@@ -347,7 +370,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🐈 Last chance to catch CATS! Is it worth the hype? Here’s our honest verdict before the final curtain falls on 22 November.",
-      "image": "https://cdn5.telesco.pe/file/eeIIDzr8vUXYxqillDWhvjPF-aMkK65V5dlWJsTYLNFNgaU24HyX9vQ0Yh7yS3pZFVoeCDlMHqeOeP4YIZ9lAeMH4S1gH1EmzJLC5ReJwnk20ctrxy-5sP0xlGwM1E2VXYyrjeC3PYOFlAYV5ZYXqRSv6Va4LvbnaXi8_A7uvsodcIovWO7PxaQXNUf4baxRK9qQZkI42-FkLVdWEHSDsxRv4WUS80Tw8mS_haXRS6ICNSANSnALhMptkF6bsq3SzSmpOiPxrpqG_IAUWelXhO2flSQmVP-XACtu-Zi9otXw5CC-SXlhfkz6XePz-WF9Z6SnUf155LF9N62f1hvpyQ.jpg",
+      "image": "https://cdn5.telesco.pe/file/HUr_B9fJLtcLsNK4cmXW8Y4p59gwNVR0VV5md8FCseRU-R1bgp2yG0LCdf4HE88P8xUdGqwB-R8U_rPF3X21wLRtNBcPCF-oww2Re3EOBUw2BO-seq7gHqq0O8lw4yEAx5DxjXsC5jRAaGA-NX1ePk6dOhVWaaYUtgFov-475zJgzUjqQESXJbQ40Uiw7cec-0kJx3aHWLjqtP58eQYUYLg3ZJSlGNeMAnhluSkv4S6VxCIiYIW2XlYaZWj02b0k7GZNjD41u2NGeWFeUCSzHD-C8Ivd18LdAQ4FupYolN5YfqYga69gNZRYtNSLD-OZS4hjUcpB9_4Qv5plmv3yLA.jpg",
       "bullets": [
         "😸 Read more: bit.ly/4934Bud"
       ],
@@ -364,7 +387,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🐈 Last chance to catch CATS! Is it worth the hype? Here’s our honest verdict before the final curtain falls on 22 November.",
-      "image": "https://cdn5.telesco.pe/file/eeIIDzr8vUXYxqillDWhvjPF-aMkK65V5dlWJsTYLNFNgaU24HyX9vQ0Yh7yS3pZFVoeCDlMHqeOeP4YIZ9lAeMH4S1gH1EmzJLC5ReJwnk20ctrxy-5sP0xlGwM1E2VXYyrjeC3PYOFlAYV5ZYXqRSv6Va4LvbnaXi8_A7uvsodcIovWO7PxaQXNUf4baxRK9qQZkI42-FkLVdWEHSDsxRv4WUS80Tw8mS_haXRS6ICNSANSnALhMptkF6bsq3SzSmpOiPxrpqG_IAUWelXhO2flSQmVP-XACtu-Zi9otXw5CC-SXlhfkz6XePz-WF9Z6SnUf155LF9N62f1hvpyQ.jpg",
+      "image": "https://cdn5.telesco.pe/file/HUr_B9fJLtcLsNK4cmXW8Y4p59gwNVR0VV5md8FCseRU-R1bgp2yG0LCdf4HE88P8xUdGqwB-R8U_rPF3X21wLRtNBcPCF-oww2Re3EOBUw2BO-seq7gHqq0O8lw4yEAx5DxjXsC5jRAaGA-NX1ePk6dOhVWaaYUtgFov-475zJgzUjqQESXJbQ40Uiw7cec-0kJx3aHWLjqtP58eQYUYLg3ZJSlGNeMAnhluSkv4S6VxCIiYIW2XlYaZWj02b0k7GZNjD41u2NGeWFeUCSzHD-C8Ivd18LdAQ4FupYolN5YfqYga69gNZRYtNSLD-OZS4hjUcpB9_4Qv5plmv3yLA.jpg",
       "bullets": [
         "😸 Read more: bit.ly/4934Bud"
       ],
@@ -381,7 +404,7 @@
       "source": "@good2gosg",
       "category": "Things2Do",
       "title": "Free Entry to Almost December Christmas Market 🎄",
-      "image": "https://cdn5.telesco.pe/file/TN8aTpLE8Tdma5RI8UlF4Kt3EaHOr22L7egFXmB0ehgJwgEAjXU3xD69HWsAklFYM30Zj25mpvhW2WnJN8YJC5byHMWL37sIi6DXyPkDXvWcT8-rOnP8l87vx9mcB5tq5d5JHjgHRBEqMQMkPWVjJlnsGF8X0daapHPAJfjAWMdtP7lPOPUf6TyJ19E8x3rfy4_a3p1psi_CoOhboI7ITJkdrOzWwtHH2NY_dxlUHkRwk6Ow7rEbJhSvV-SQaqOtgKzYE6M6aOC2fjrWcKlaxhxCVozi1jcNPa0vD8sf54kA8JfEGsl3OqaINgLy7rZnpVOaANhRgpno43h4bHu1JQ.jpg",
+      "image": "https://cdn5.telesco.pe/file/GfMgPHg0ARsoX7rlfYI3d7Za0OZ4y3FROiiJDV6zWIBfTNgEOHMyXM6G2L0e0sgH_2m6ecVjgFCk45PsET1KXxHoKAX2dliY6n_DiRSdHARkPNMN6Fk6rbzmn78Fs4AZZS2CauMUOgB4XzjBluwSkbEddeV2MdCWcTlcy0hzvLCmtD2HuJyRhARreNeWdTOk9MgTXs3pN15-xJ6kHQ_pu9rp4gqN62_Kpt3WDrb5lV9ZrAeE6uOsVshMimIADQvA2Z67OY-Jcqc9yWaFNJWwfNa2HqqKonUbowfH4KwBl0Gm8JmWp1yrg4vuPmSphIhpx61jg8zyli1uSd4Hh4SUHw.jpg",
       "bullets": [
         "➡️ Ft. unique gifts & festive finds from 25 local lifestyle, home, food & wellness brands",
         "➡️ + Creative workshops incl. Christmas wreath-making, pressed flower art frames & suncatchers & more"
@@ -399,7 +422,7 @@
       "source": "@sgweekend",
       "category": "General",
       "title": "Christmas at Lendlease Malls with Mochiak & AhWoo 🎄",
-      "image": "https://cdn5.telesco.pe/file/saNcO4GDnKAWVh_81syn67yxwd9afGoYvZo1GRR5RA0mI6mtZExmVV4vcFYkYWiDgcLFMgsveFly853MWw7B7dPsmleEHGC-UrlFgHWW_oLQIizarhvuoO09LPYl0dUWmHw11I7cW-7e6SNDH8FZnPlYaOIwR6s7Enu2sKISplS85OjgpZN5Yt8RD2UBleSjn2G6Xo_Iplnv8Y9Px353Za9j2m1ct1aYIxpXBv30fEuVeTzeLzjV7IFWl_vKs2WFfBekNyvmX0NZD198dRwGz-8LJXIuaZ7SVAH7ToAWghezPsP7a-srHQiqYcQfyUkPQkt-iMc8uoJtSA52Ury0Lg.jpg",
+      "image": "https://cdn5.telesco.pe/file/ZEcuZhfVFNOlBf8QchYCvhnnkg53Di9w7AIopMRWYi4OeEZb8d5d0Dtw8n9tDmh64TttbkEyXT4W0xGiMDsG8o27NnRcPn0BUZt7usuJDphgXSaZrNLAP6zm2u7BtoN5yn2eIpyVVgPWRwkb8PqgnMkvrdITknog20XR9fPAqwWiKGi3zJ9wtnR7bBcnJqoS1oxKeSjJ8VikI8lxUwyENzw4FkjVo-3RJ1oQocMGRF9Tt5h4AfCltQO-4AqMi4RtzrEcwgh7GjDuOpNFGXyFhUFquFGy_nVtKf-PxezpsZYhtFXEfEnw8ln1CBSFaULmumGkECXIil7voVtTCBwbRQ.jpg",
       "bullets": [
         "✨ Catch immersive installations, holiday performances & Santa meet & greets",
         "✨ Play Mochiak & AhWoo's Treasure Run on the Lendlease Plus mobile app to win Plus$ rewards",
@@ -423,7 +446,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "☃️ Heading to a cold country and need warm clothes? Check out Decathlon’s pop-up for winter essentials and put them to the test!",
-      "image": "https://cdn5.telesco.pe/file/JmOTrsRKqIGKBWNFAl_sul-TnWqtu3-vFcScAk1XzWgpaziUQrSQnP5lUv4UsG3TILSdtwT9XQBkKcyGMvqyS_wlsXQErjxNAqemsL17XF6Lu2rExcBOL-6jwZTov9QUUNLPvzX5M84eFC0oou-2NpCXfQ1jhJVqIfliqGtcnNNGIwNxMedoG2JdwhSsvoF5YVSY9nVfvTEf7_Owt8AW_rq6CQVE2_CNBGVi-EZbrA0hIii4-1pz5mO9tEWOXhAiJ0bz0Firu76Ar01dR5ELdjzBSeHCALk9vYpmE_HZhI7gor6Gp3D4Y6CFawdDNVXYR-rywfdFUeSwcZxl5x5agw.jpg",
+      "image": "https://cdn5.telesco.pe/file/atQEK8qqGaz0o41yrwxt9e0j25LS3VtEs37imxc1E-iI-WNlgzE5slhETvnsuLMWWniMPu9dm6n2B8h8HSzc7BvzNYhSi0vGuRX4j1lc6MAgyAtn8e_xhUlFjK9FgrBVcewXc71M7HL8ccZQewmDInxoLJw5VtWHNAJKBvvIgFm93ud4y_Uu7GVGl3uliKOJq4_zw0AyylvUP3M0MwHGsniQakAoZNhgf4VS058SHjSh4p2JC-CByAmwg8uL8K065CyT_uhVA1LvEtREqPS0iSa4ujMYVTNwLqe9U0XTWVcAoTMPfTngvaPdSlPR8uJp3tuBYZ1kbapFmpBRWjkUcA.jpg",
       "bullets": [
         "⛷️ Read more: bit.ly/48nklrP"
       ],
@@ -440,7 +463,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "☃️ Heading to a cold country and need warm clothes? Check out Decathlon’s pop-up for winter essentials and put them to the test!",
-      "image": "https://cdn5.telesco.pe/file/JmOTrsRKqIGKBWNFAl_sul-TnWqtu3-vFcScAk1XzWgpaziUQrSQnP5lUv4UsG3TILSdtwT9XQBkKcyGMvqyS_wlsXQErjxNAqemsL17XF6Lu2rExcBOL-6jwZTov9QUUNLPvzX5M84eFC0oou-2NpCXfQ1jhJVqIfliqGtcnNNGIwNxMedoG2JdwhSsvoF5YVSY9nVfvTEf7_Owt8AW_rq6CQVE2_CNBGVi-EZbrA0hIii4-1pz5mO9tEWOXhAiJ0bz0Firu76Ar01dR5ELdjzBSeHCALk9vYpmE_HZhI7gor6Gp3D4Y6CFawdDNVXYR-rywfdFUeSwcZxl5x5agw.jpg",
+      "image": "https://cdn5.telesco.pe/file/atQEK8qqGaz0o41yrwxt9e0j25LS3VtEs37imxc1E-iI-WNlgzE5slhETvnsuLMWWniMPu9dm6n2B8h8HSzc7BvzNYhSi0vGuRX4j1lc6MAgyAtn8e_xhUlFjK9FgrBVcewXc71M7HL8ccZQewmDInxoLJw5VtWHNAJKBvvIgFm93ud4y_Uu7GVGl3uliKOJq4_zw0AyylvUP3M0MwHGsniQakAoZNhgf4VS058SHjSh4p2JC-CByAmwg8uL8K065CyT_uhVA1LvEtREqPS0iSa4ujMYVTNwLqe9U0XTWVcAoTMPfTngvaPdSlPR8uJp3tuBYZ1kbapFmpBRWjkUcA.jpg",
       "bullets": [
         "⛷️ Read more: bit.ly/48nklrP"
       ],
@@ -457,7 +480,7 @@
       "source": "@goodlobang",
       "category": "General",
       "title": "🍝 LUMU Café 🍝",
-      "image": "https://cdn5.telesco.pe/file/iPm2Xa2xE0PLf3AURTglFdCZB4dUw-lYzCYH2uUw-HXDbJTUXAPQFwWJlZP7b0WtqxSy-_JBaH2-4BNKV-zQhwgUyGC5QY-5OP1WjO7rT-SkXa7wmnk7Xir87877PmZSa2PzEEb7W8DI_LTB7anDlwKj4Y66jhpaoOqVmn2DM2uSBaY12bkLGN9Ayc749UZdtsVqvcSd5K8WfjcyKQwiUjLPka_lb8sKcrvmKu6UxbqrZ2IVfefQ4ujkFK9BAEBOE8ZATAkypFndT98x_3C735z9ajdGJmg3qORLr11_k8J3Iw_Zg65GuT-DYdMe5eQC_nzW21PQGfAzYgVnBL54mg.jpg",
+      "image": "https://cdn5.telesco.pe/file/XM0X1nz1H0YRN2ezd6i3Ndqy2uJOc9YCxstYKfgAVCHB2HJCCsiUJRxl2pKq-H4wn4870njvLL2ZqGbJG4eocG-ExBen7q47nQowh-2MQMEqpdZN6tSVXasTVdR9rnkn2t9jLZ7kqyqRf1yCvZswzl07sQIEMPecGIbHI5A8fODIa7snjJwpXydLaK2YhapVXpQ08VyZa8nSSioBD6N_NvVnTHp914AY1bzrQkZwl9mfrS468h6WBwSidbmRLx2x-r1V1hljxFiVm8j51A9iXITT_q4XMzuyaisM6g9EBJ3liiBZOhWSuYw_M_gVJ10DsPGLwJCzMni1fVoruzxgag.jpg",
       "bullets": [
         "➡️ 1-for-1 Pasta & Gnocchi",
         "➡️ Incl. Crabby Capellini, Cumin Beef Gnocchi, Salmon Giardino & more",
@@ -477,7 +500,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🎄 Plan your Christmas gathering with Rasel Catering and The 1872 Clipper Tea Co.’s collab, featuring festive buffet and high tea menus.",
-      "image": "https://cdn5.telesco.pe/file/pJxtd1Te4eB3CLH_gIqTM_xLxfDs4mnidvuebUoPjxFZ6uYj1EVWbdQu8p24rET8Q837J5L6KKpswgMBLOsv8Wd1bVycCMPkJZoF6Rd0D86b2pRD3ST0trob6WKsljmISkcQVxGG34o13RR3mp2hA2mDFidTmG-o-nqzqsff7xgVsMXvASMpMDI-WlqC2YfQRHNb9uXN2sDXJcwlsZ8O2ekBzrF4zKEkVk0CMQHa3OhDJxQpv3u_ucFi5uSUT422Q-sLq1RDcIswurOQayGHF-uuRwvBDAWjOn9L3iTDei5d9pWHkSAnu8_QIuEbLQRCmnTkSFarsHea3VFoyQjIAg.jpg",
+      "image": "https://cdn5.telesco.pe/file/jNeSUcgj-uS0GXaDTUDy2Mb4XE_WxQNUVyivkYZqXRjzKPtEI21xSa92nswhVE-vAVmB16Dkg0nNUKRPy0wuBlXtdiczjix8ptzN5JmhfcvFREaSdCbOzeoq6TVEnBtOpCMdDelmu6_H2TeroRKoWuK9WrOYLh0sJV2dkcne4h0WaNSiKUKm9sH5nsXjSo7lKAlYPzfOm03JjI7yJaWfGYbD56tHsSFpb4GooJHf0MhRT3XSlP_wGMkwqz_QoXDJLZY9zK_PP6JGFqycklh-5sxOCN3EGgTxW2r3Slj_By2adPK5qVov5QZf0pUnhcVIWRgd9j3SZBYjcBkrJhmYCA.jpg",
       "bullets": [
         "🍵 Read more: bit.ly/4zqJblC"
       ],
@@ -494,7 +517,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🎄 Plan your Christmas gathering with Rasel Catering and The 1872 Clipper Tea Co.’s collab, featuring festive buffet and high tea menus.",
-      "image": "https://cdn5.telesco.pe/file/pJxtd1Te4eB3CLH_gIqTM_xLxfDs4mnidvuebUoPjxFZ6uYj1EVWbdQu8p24rET8Q837J5L6KKpswgMBLOsv8Wd1bVycCMPkJZoF6Rd0D86b2pRD3ST0trob6WKsljmISkcQVxGG34o13RR3mp2hA2mDFidTmG-o-nqzqsff7xgVsMXvASMpMDI-WlqC2YfQRHNb9uXN2sDXJcwlsZ8O2ekBzrF4zKEkVk0CMQHa3OhDJxQpv3u_ucFi5uSUT422Q-sLq1RDcIswurOQayGHF-uuRwvBDAWjOn9L3iTDei5d9pWHkSAnu8_QIuEbLQRCmnTkSFarsHea3VFoyQjIAg.jpg",
+      "image": "https://cdn5.telesco.pe/file/jNeSUcgj-uS0GXaDTUDy2Mb4XE_WxQNUVyivkYZqXRjzKPtEI21xSa92nswhVE-vAVmB16Dkg0nNUKRPy0wuBlXtdiczjix8ptzN5JmhfcvFREaSdCbOzeoq6TVEnBtOpCMdDelmu6_H2TeroRKoWuK9WrOYLh0sJV2dkcne4h0WaNSiKUKm9sH5nsXjSo7lKAlYPzfOm03JjI7yJaWfGYbD56tHsSFpb4GooJHf0MhRT3XSlP_wGMkwqz_QoXDJLZY9zK_PP6JGFqycklh-5sxOCN3EGgTxW2r3Slj_By2adPK5qVov5QZf0pUnhcVIWRgd9j3SZBYjcBkrJhmYCA.jpg",
       "bullets": [
         "🍵 Read more: bit.ly/4zqJblC"
       ],
@@ -511,7 +534,7 @@
       "source": "@sgweekend",
       "category": "General",
       "title": "Discover the fun side of Science at Science Centre SG 🔬",
-      "image": "https://cdn5.telesco.pe/file/WWxvKSwXBHPBMDaPswlS4qB9Pm7U_lxEMlfE2jt5rB_Zmuj3IXW13_1tIYPfc6VNufjRdB99DG8Or5D6l8P-OWP0JoZk8gG3KJbWWEXxSjbEM7qZd4sA4okXtwqbgoYxDWUdv73bvRyHzbN4_fnNf9ZD4e8vlR-aaPpIEDomKQGF2mlwADy_YAFQCqGH553GJs0tPGoqBMO-SspBizBI8JH8FxtFpWyM83mMy3yLo21-GNbP1oMJ2CABhU-NfEgjYnuOZCIXieyaRdJ6DZ3MnB-r9hjR6TH9iSBpkgdCQzqHYj4qzHQ03FZGSKga73IyEdGKhl2ayRB2f8rclvYmPw.jpg",
+      "image": "https://cdn5.telesco.pe/file/qJVtvAROrboSFi3jcCyuHOpEuvxmsQUHm6BMWfeUJEl0xaERg9CCmrBPH8Kmg_sMmcqHTiSA3kL4pF80U7tG24cY5Cb_xjSpq-fMN00_WwUDV8YucQuMHbbyID_Vs1q3Kx7fdz5-2bptFKrKwyYmgH24ScsiK42x2Wc9R1UynDxB5KmPlncFKcHXW7hBUGJdiSoUfsgIA8POhZYXNo3gdM8zKbVdLqWTifeiDLbwa8gZaoEDHysDln-9mmO0Yf22g_1e9kegyE7vabnjVfqbb5Bj2TPvSnRey2PgKcRoZpYgypV1dZkUf9dzgdH9BGl3wBjh9AN60FFPEJOqwwIZZA.jpg",
       "bullets": [
         "✨ Feel the wonder of Science come to life through immersive experiences, interactive challenges & more",
         "✨ Experience glowing bioluminescence, dive into immersive marine worlds & more",
@@ -533,7 +556,7 @@
       "source": "@good2gosg",
       "category": "Things2Do",
       "title": "Free Entry to The Model Car Show 🛞",
-      "image": "https://cdn5.telesco.pe/file/WPOUpK7VS5nXcSgSZ5okXFXxF6M20U0af7VkdQggQAbCaEmw9o3AypwqclWlBHjBTkjL37RCoFod9Vl8zWdeZYBX0qWzttNw6ke3ODDLJplUsq0pRDp8WulUjPf69KtjPyxaYYh_k48cZfIRD60TwxDHiGaz9USX1gRd5ZlRrrWLxwlcpGQs_el1gIqQkTdfutTF-iFtNeeTK6Wnaf-1iXTNt-IIU5qypiFXdQI0KZsm02ymQeR7QNbSRSpvSUa_NU_gAYpc-y2nHm1F-oHLLuCLaKZ7LlOIhO5R6jSdABqzotv0ZJOPhE3jNYEPDZ95HEDQ2nDsiXRL4XLgmdCN8w.jpg",
+      "image": "https://cdn5.telesco.pe/file/ONWr4HuVx8ePTiN4PyrkIuaWbCeujLYTZGB8JPMLZHW3rGuhleqLBSQr-xq4jcRa_Xlzzmq55FQhkkE0Nnw0Xk8eCc9MweH_ETyO7X29r4nRzQtuXXTmNumYEcDNH8M55TElst_INIIAWpdQQTnsbQYF-MUC-kZStuUhJ_NgU6wlq-IjbbXfZHZ404BqhTciYlE7teNR7FJp0MJvcHUz1l18hlPo7MvEpudsafLUjDvGJfVZg4HUTnwxG_HWZlXsgwOkmP7-CgE32WPjw11KpSB0zt4W333Wcz-yi1iCpujOG2J0lLa3vARbKLCFL9qGMQsRO71iW6aBx4kbyfW0QQ.jpg",
       "bullets": [
         "➡️ Premier car model collectible event with diecast displays, RC cars, sim racing & more",
         "➡️ Ft. 50+ brands & vendors, Tamiya competitions, sim racing time attacks & more"
@@ -551,7 +574,7 @@
       "source": "@goodlobang",
       "category": "General",
       "title": "🧋 LiHO TEA 🧋",
-      "image": "https://cdn5.telesco.pe/file/paYe8usPsUCoDg3odw6TsqQkzJTYM9zRGRTugmRBQ98zrIVJWvqArl6iipQgtwHBnPH3ntBduCsy83gbbEwDTqF6Ig21G53hJ4p-h8pk2go3pYdX3_hVUXELI8KQrQWRBn7lLMgElt3808R4q7rzvYMWH_XixV9X7Vr-ORCMp0RiXfnhiw2h_7D6ZQvG28lZtL5_mwC078nQHAqIl_-rI4YuCgAOTnIu4PiGw2dvDERaH-uio3rbBFUZw-q3a-WxCCllEQFgyfrcZvPUbri-bBGrJSBpU5MI36N0Sab1MVro3lxaeiZhbxH8_LSpzDbwSpRA-9qvfE2eqJvcHPAqLw.jpg",
+      "image": "https://cdn5.telesco.pe/file/bsyZkUmWsX59mjcicH2XO-4l-ihP7B-Eb4xZge-1omdCIEVzwDk1cDOyHV5kiflirwxscXjCosk8Sx1pk9MIUks3J7HfjZyldnUXKHDZJ7a5GgJ8lGWHTvYZCfeyuB68M7fkNuSM72WULb9sOLRkvTDNuZMoHVt54Dv54TCHGq9VfnOJTSGL8q9NJ3GgDqpAn9_ak4fxaYkQTXGPn7Yz1ih0p6h2dxAk2feH0Wxm7_KX6t4dhPvAP3Lka4MGPPFnk2UupDoOq_8l61mD9vZEJBcLvaKy-6VF7dH729k8W-xHMVi-_2J3nlWo2AUhijnVwC9NINvSJluh2unMAW0WAA.jpg",
       "bullets": [
         "➡️ 1-for-1 all drinks",
         "❗️ Excl. seasonal drinks. Walk-ins & counter orders only. T&Cs apply."
@@ -569,7 +592,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🥗 For anyone who wants to eat better but never has the time, Da Paolo Gastronomia’s Greens & Grains is for you.",
-      "image": "https://cdn5.telesco.pe/file/hjOSZb1OxdokMUGPAjxqPabkkXHZ31_gYo55c41bfGBOh879fGS8U1bNyBAN5URlqnlE-Nzjm3thIxgSSgBAoq6FaEcuhfLsoxRgy6oCn37zi3o7EAvXZ-aai8TMjiQfNm3BUEmie8yTV5H1BpC1f_MK_zbWOYeuHk0QWquWU2eUZjvHiU7UVcC6ZlzST4eNurZsynMtARmKy54BJrqpFwbdp0sGyGM6rGQupG8K_4Vam8kdwqIgS4ng6DVCzH23e7axSfd1XZJcs7SRXdOkOSF4_gIgEX-WWZMOzdUdqa8Jyr2HL-RgHgPz25IyX2YU2ykk1MxlBsTS1Zb_UwPyiw.jpg",
+      "image": "https://cdn5.telesco.pe/file/P3WTKsye8I-QdGSSfUZAtraMWZ_Xe2JxqRjAHwuwQElecHmOjX8-zn9mK_7r-b-YdeKREzeGaDAgVRREsSOgRfmIoFSGrk-xNhLLSetkPJU2F3jrgj7_JNqrVxORAzcGHjR4JVtB1g6rDNUpQaHja0tZbgwhIl00V8wjeU4r01aVqDeRtrt3IUpl_MD288FkVXmoMzfKZTyvh3XXDb0FRulCDCFd7Hvq-Dkj305OiaoqXcaUpzHYzQ2O1L3tmG1rcwPvLPWNrWh9myLs3JntS3ZLULU6tJOF-ceAsfKrTZJ--_xkeWBZvHCZh-jb6z4_M3oQLFbdDti1R82YAkYR8Q.jpg",
       "bullets": [
         "🌽 Read more: bit.ly/4iQfp4D"
       ],
@@ -586,7 +609,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🥗 For anyone who wants to eat better but never has the time, Da Paolo Gastronomia’s Greens & Grains is for you.",
-      "image": "https://cdn5.telesco.pe/file/hjOSZb1OxdokMUGPAjxqPabkkXHZ31_gYo55c41bfGBOh879fGS8U1bNyBAN5URlqnlE-Nzjm3thIxgSSgBAoq6FaEcuhfLsoxRgy6oCn37zi3o7EAvXZ-aai8TMjiQfNm3BUEmie8yTV5H1BpC1f_MK_zbWOYeuHk0QWquWU2eUZjvHiU7UVcC6ZlzST4eNurZsynMtARmKy54BJrqpFwbdp0sGyGM6rGQupG8K_4Vam8kdwqIgS4ng6DVCzH23e7axSfd1XZJcs7SRXdOkOSF4_gIgEX-WWZMOzdUdqa8Jyr2HL-RgHgPz25IyX2YU2ykk1MxlBsTS1Zb_UwPyiw.jpg",
+      "image": "https://cdn5.telesco.pe/file/P3WTKsye8I-QdGSSfUZAtraMWZ_Xe2JxqRjAHwuwQElecHmOjX8-zn9mK_7r-b-YdeKREzeGaDAgVRREsSOgRfmIoFSGrk-xNhLLSetkPJU2F3jrgj7_JNqrVxORAzcGHjR4JVtB1g6rDNUpQaHja0tZbgwhIl00V8wjeU4r01aVqDeRtrt3IUpl_MD288FkVXmoMzfKZTyvh3XXDb0FRulCDCFd7Hvq-Dkj305OiaoqXcaUpzHYzQ2O1L3tmG1rcwPvLPWNrWh9myLs3JntS3ZLULU6tJOF-ceAsfKrTZJ--_xkeWBZvHCZh-jb6z4_M3oQLFbdDti1R82YAkYR8Q.jpg",
       "bullets": [
         "🌽 Read more: bit.ly/4iQfp4D"
       ],
@@ -603,7 +626,7 @@
       "source": "@good2gosg",
       "category": "Things2Do",
       "title": "Free Entry to Swee Lee's SL80 Celebration 🎸",
-      "image": "https://cdn5.telesco.pe/file/BP_Jg8f-IYVQF1wVu_k2QCygym7QPn3rnATvh6ACjsGBbUa-nmxikW47ZEbrrU_4HFZQo70WjKL6l59KzIDMsAJJAitXlE0BTYbKw5eO1Ya68hhf-QbhVEX_Kmow_j11Rt8lZWtrGHAMaN73i_UFp83XOMF1iz01-HZqF04htXDr2nsrWEUvbQcRwOzwLALhnq8zCcZkEUIzukbuqFXvg1r8E6PZlIjKeKVEIGckuaQUfYEXxFsucWCuLsdu4LsFFeQeIJ_Gjx7exRViE62K0VTylczQ6YnNnrHFuOrklECrZ1zGGInhFKfvFvNbAMPTvJcmQdC99_17AsZ6I3IVDQ.jpg",
+      "image": "https://cdn5.telesco.pe/file/BDCPBm8YAYw7pY7oQzOFrtPLBhY1O84oAcYpuId3p3QrxRfUnoV2NL31znRbMWFjgd_sTADRotMjOilfpU9_OcbUXHIhAbmoALOjILdI-rsjauQ7m7W2DiUw88SQaZfGV1bagkqrO4MyBcWidGIxB-GAQDINx66qWbUnBwGG7-Zmf29W5jChhIt28Dz_TTtMf5NOC3BR6Cw2Hlb3FdCD5naGl_lM08TbiirDTOX-oEbgq3LBp6j-QHCwuVTXBAvmVOkqB5cJhnkcMaxZo296mC0wzXDEfjFUMfJhbbL0E7-1qj9FCrhbFmb6ThTKykQ7LGkv7WDqVe8AHdpPdGjSrA.jpg",
       "bullets": [
         "➡️ Celebrate Swee Lee's 80th anniversary with music-led experiences & interactive activations",
         "➡️ Incl. live performances by local & regional acts Weish, Danilla, Lunadira, Alec Orachi & Pink Frog",
@@ -622,7 +645,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🎌 Not sure where to eat? How about tonkatsu or gyukatsu? Here’s a list we’ve put together with our go-to spots.",
-      "image": "https://cdn5.telesco.pe/file/Z9Pt0rgUpvgHrUbXCSUEE8yE-tTtpNzZrR1oc975dwnwOfYdKTjJdLURRf1yLlwnWdEYfrCPsjhc7wCJUd8pmbJPE7nA-3afiY3V14OGk3fx7LlHsU9_FpZZfdzAeW1d-5NjboHVK6OCVJyI6GvIzfj8pZtB_4vXRHde8pfJdslnXbIQWgtO9GREa7Mde1LoxJEd8GrfNtatcTlOMijLP5YyvisemmAZo8utaH83MnLHJnjkTAYHufpqAli_oO12a1dP4wziGM4E-niFcg31azv75m_bTWUg4ioFmWXj-n1yD4aTVoeS3LJGlfXgfU9YNZAKJvm6qhuWcqYkWIUveQ.jpg",
+      "image": "https://cdn5.telesco.pe/file/vJt0X8uhLfs9iSP-EPyFfWOPMVTQ0DnOect6jeUV_5DZt6_sUbtnlAaVJWJs9oFK6PllmU0kW58O6KyNG-vallOf8FXZbVLY-SHo23ruIUap9WJsLOSVJQqPPNr7uSRswF5fZcudXqs1JMgcII3C_munYprccWK6l727WQlki4_zdoqXuyer4H_R03tA9TMfvx4vpGNkIh6DDjqA8abKMW-llDKywF_PrwL5YG-Z8ToYrZbWpWuSEhRe8hWONz4Bape4S0gltgHWYLHsX73gwZ0_L0-Rq8p0eNb-_-rDaf4wwnLqJ4YumYUAvo-BG2Pa0ZQ8Ayy7tANSguDzi17Shw.jpg",
       "bullets": [
         "🍤 Read more: bit.ly/3Xbwldq"
       ],
@@ -639,7 +662,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🎌 Not sure where to eat? How about tonkatsu or gyukatsu? Here’s a list we’ve put together with our go-to spots.",
-      "image": "https://cdn5.telesco.pe/file/Z9Pt0rgUpvgHrUbXCSUEE8yE-tTtpNzZrR1oc975dwnwOfYdKTjJdLURRf1yLlwnWdEYfrCPsjhc7wCJUd8pmbJPE7nA-3afiY3V14OGk3fx7LlHsU9_FpZZfdzAeW1d-5NjboHVK6OCVJyI6GvIzfj8pZtB_4vXRHde8pfJdslnXbIQWgtO9GREa7Mde1LoxJEd8GrfNtatcTlOMijLP5YyvisemmAZo8utaH83MnLHJnjkTAYHufpqAli_oO12a1dP4wziGM4E-niFcg31azv75m_bTWUg4ioFmWXj-n1yD4aTVoeS3LJGlfXgfU9YNZAKJvm6qhuWcqYkWIUveQ.jpg",
+      "image": "https://cdn5.telesco.pe/file/vJt0X8uhLfs9iSP-EPyFfWOPMVTQ0DnOect6jeUV_5DZt6_sUbtnlAaVJWJs9oFK6PllmU0kW58O6KyNG-vallOf8FXZbVLY-SHo23ruIUap9WJsLOSVJQqPPNr7uSRswF5fZcudXqs1JMgcII3C_munYprccWK6l727WQlki4_zdoqXuyer4H_R03tA9TMfvx4vpGNkIh6DDjqA8abKMW-llDKywF_PrwL5YG-Z8ToYrZbWpWuSEhRe8hWONz4Bape4S0gltgHWYLHsX73gwZ0_L0-Rq8p0eNb-_-rDaf4wwnLqJ4YumYUAvo-BG2Pa0ZQ8Ayy7tANSguDzi17Shw.jpg",
       "bullets": [
         "🍤 Read more: bit.ly/3Xbwldq"
       ],
@@ -656,7 +679,7 @@
       "source": "@goodlobang",
       "category": "General",
       "title": "🥟 Yuen Kee Dumpling 🥟",
-      "image": "https://cdn5.telesco.pe/file/SvlPGz5JujFMB4HSKoNaegPmq16kHqpyzi8iRQcP4crP2i47dEWGxVQ2XVdHT6ojStjQba9boWrlZ9m3rJH2ovzBc0XQs0w8EGg_cbutMOkXti5nxGLQBUX-z3e8zpgeHZS1Tj5kN1AfJ0urBfQnvDhwhezWMueD6dwIDRmYLE_mn8MdBg-I5wlE5R7Ft9AeZuu_lduhCfR2drP7uLL_gxzpMwtya3y-r-bHQ53xXSmIQynaZBQl5b0ewgQyVQEK170shSuVi0NqkT7ymwQAZO6fH2oW_GtLYjnxWgvZfCW57JYx9OiiH0DoPeLUBQ4pC9NeNfUmW52ASTz0-4Vyww.jpg",
+      "image": "https://cdn5.telesco.pe/file/bl2LwDDaSlyQptQ0jWnL0POhDAzp0sU7Ti1Q1xgH0jdEk08LNcBh-SkLkK6bAtcRXr1jSzhsK3lQA7yTOiWOw0S5XQ5h3rZljJu-YioYHX49ZEmr3f4SwUzhtOUbLj4x0xKcc8qVin4vrOdbweuMa0tNz48V-JUCJvEkOh1u-qMuYjTJ21rNMvaZGw-G3xdBsWGEYNVLhdff90vDwFvXSW6y3esUx0Qf_Huyd20OrnZPR5MYUZ_R6iZMrZEfspPPfZC1IKN2K-DFf5JuQm5PggwwGnERVaboATz027DCqHnvZHVw-84eRx2EjbZik8S_DDBkOvueEOKqfIK5NDdFqg.jpg",
       "bullets": [
         "➡️ 15% OFF all hot food",
         "❗️️️️️️ For dine-in & takeaway only. T&Cs apply."
@@ -674,7 +697,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🎀 Boutiques Singapore returns with The Gifting Edition from 20 to 22 November 2026 at the F1 Pit Building, featuring over 300 brands!",
-      "image": "https://cdn5.telesco.pe/file/DG63reVoy206UdmOc3X7GEhArqE2i9MoSRA5xl4OH61o0dbKzWcORdSwabDDFzImMsie8YswJmG4BHKUqVkLtnh6HAk541ZXgoZ_wFw5_ardFIffHBrhG1fo7QldEOsLE82Agqt4XwPeDqzYXpaHD2NtaPSUxQwuwl02a20xvjWVFrYQT5MKlXspk0nl5mK3FWTR7kJ8bDSgNc00JpkyYtZIveRpHyo7tOk76l1oMTkhXJp-d82nSj-k_I-BO2UrgoYKEPpQUFTwQ2XV5qEFCuP6XsMHVA_Fc4fa3oX3XPBtTcCSqUpwQYrGzACv54G0JablSQdQmqgesT5sqQ9Xag.jpg",
+      "image": "https://cdn5.telesco.pe/file/VQttS9uW8wXHKLMT5GQ4Hp7btOvXNXFkqA-jdEzLQgETsBtS3U_6ihw2ZLgbY9PAk0vIH-9ZmzUu6TzQn2ZkYNtJ_BbcBAHCBcM81X8GODn80cIzSi9BGPDpuWi9HW9uU85gHSidM5beE9QA_tLQhy3tQlPZJ5EOXOnm-s4HI_THaVXQRNPmmEke419MIEA2WuiR5anQ4c-SbMfnAL1e1Wafz3xrNOFk0fVli1KvTFXXzU_cFpNZVSvvdWv4d2tm6oL-hClkmWcaWCmhcrdd_B58cdWrVSSvRi6mGFYa16JZ4oM0qhMLn9Go5yZnsv7as16g1bPRBAebQduPdotIbQ.jpg",
       "bullets": [
         "👛 Read more: bit.ly/3V0OuKa"
       ],
@@ -691,7 +714,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🎀 Boutiques Singapore returns with The Gifting Edition from 20 to 22 November 2026 at the F1 Pit Building, featuring over 300 brands!",
-      "image": "https://cdn5.telesco.pe/file/DG63reVoy206UdmOc3X7GEhArqE2i9MoSRA5xl4OH61o0dbKzWcORdSwabDDFzImMsie8YswJmG4BHKUqVkLtnh6HAk541ZXgoZ_wFw5_ardFIffHBrhG1fo7QldEOsLE82Agqt4XwPeDqzYXpaHD2NtaPSUxQwuwl02a20xvjWVFrYQT5MKlXspk0nl5mK3FWTR7kJ8bDSgNc00JpkyYtZIveRpHyo7tOk76l1oMTkhXJp-d82nSj-k_I-BO2UrgoYKEPpQUFTwQ2XV5qEFCuP6XsMHVA_Fc4fa3oX3XPBtTcCSqUpwQYrGzACv54G0JablSQdQmqgesT5sqQ9Xag.jpg",
+      "image": "https://cdn5.telesco.pe/file/VQttS9uW8wXHKLMT5GQ4Hp7btOvXNXFkqA-jdEzLQgETsBtS3U_6ihw2ZLgbY9PAk0vIH-9ZmzUu6TzQn2ZkYNtJ_BbcBAHCBcM81X8GODn80cIzSi9BGPDpuWi9HW9uU85gHSidM5beE9QA_tLQhy3tQlPZJ5EOXOnm-s4HI_THaVXQRNPmmEke419MIEA2WuiR5anQ4c-SbMfnAL1e1Wafz3xrNOFk0fVli1KvTFXXzU_cFpNZVSvvdWv4d2tm6oL-hClkmWcaWCmhcrdd_B58cdWrVSSvRi6mGFYa16JZ4oM0qhMLn9Go5yZnsv7as16g1bPRBAebQduPdotIbQ.jpg",
       "bullets": [
         "👛 Read more: bit.ly/3V0OuKa"
       ],
@@ -708,7 +731,7 @@
       "source": "@sgweekend",
       "category": "General",
       "title": "Free entry to For Real Fest Encore at IMBA 🎉",
-      "image": "https://cdn5.telesco.pe/file/rluFxOdKwos6xdwnWsaB55WX11YrMIF4XSuOka-BdgzOwG4VnA8ZaxVKaz-xyVqajUWsfpm_1gEOtks8cz00gueEgIDl0o3LWmbvrBnH0OHBhBhy_m824BbxhG91P1QW7X6uMR7RhkdoyRc4q4_x3BrS-_jceyiHWIvPb5Vi5ZlGsXlhY_P1C4ROdXtvjQlELQVODADoBH6fTRP_fn7wh5dodW6ysHimYIKHMfn8IJXCZTBnouo2r-My08d1g9CyMl8OUj7J7ykmtexm3bZ2oY3ukhELXl9ELS2hrPXv0NbSYE63y2SefvEwphgheXWO5i97IyJWaD69XzjYPl-4ZA.jpg",
+      "image": "https://cdn5.telesco.pe/file/T6DsW67t4i3JFnLO5MXgfEznErjqYcxIKCOLuuw0KZex08IQH6Or4G8wvDA4gCjTovhnCw-06ZDISNOEBq4eOAl0C4aD-ZtOfk4QsHuhAuOMCICPHHWIrzTMD135mp_fxXnKuUkPagj5K_zdrgxj4GWjq6Xqr8w0A73Am4gx89nBcP7sRVi-EFVhKKNl0z7kCinVo5eVOiqVh0QEEyU39qQM2gnOuAtgeksOBTJo_xY1q93pGiYvvi0bFNcCyjj8TKl6I-StRvG9j7zVmKLNMtC96TZ5Agym_osQNqnmrtAsXqrTDnx58u9HOG8tribelEYWriqlXw3NdgWDqOmOVg.jpg",
       "bullets": [
         "✨ For Real Fest returns louder at IMBA with 3 days of immersive experiences, music & more",
         "✨ Explore 3 interactive zones in the biggest Ideas Playground for connection",
@@ -732,7 +755,7 @@
       "source": "@good2gosg",
       "category": "Places2Go",
       "title": "Boutiques: The Gifting Edition 🎁",
-      "image": "https://cdn5.telesco.pe/file/UmPKV1DiYm4i22W9dtQAPOmDFsHtIobNkh3RjINXaHda_WCIhRrEMuoMLeu6dKkq6muwDVbRImxYOBx7gTmFpV7YM1yRgbXs8hTgqJJZggIjWEjiX5GIv5A8dFIIppSUyK-8Cf0t2_ya0OB0X4SX1Wz-gWumCJy0ROojVOSZTKX-RVseYczFJK2zo9fg1b1sIsPUE1QCTlmT0-ErXT-guKjwO2ZJe-4wc_MhbSD4sw_IfLU7-3EO1XK7n0l8upTzoL3OSb-ezGPdiv-B0k6bcxo8hWSnZ8OzuJK9ZHrZvrIjvxrDegYntiwfXrGd100-BoSXi2GRluYm5YADQQAbQg.jpg",
+      "image": "https://cdn5.telesco.pe/file/vv1KI7d--OEaAb0T-NC1EbVYjWLMyud54SZXRGkbEqBFCvjar7otvVSkwGQyb0bTj9-fTxevvzHCs5aN84RmHMOXYuxUj00k2AnRryjyBDZZ7-mXTWaTIbElFoQD4S6DYQBn4tmJnHygFwa2VYfq41R7xoHom3YdAKHOrWdQZKY3UznHn2_Ebvs2F_b7y0peIWOgsQunUWmZYZzONvJtZhElEn8iqj_r8ANXfPGB65H0ny22yefu2VCIYgDm8knlHMev0c3lDU34lkvV4oNYI4tZ8rjbIdIatsEmrZZKHWHCgTYmqQOyIoZhdrPwM2aXCTNx_Jv1ZLFfrScLefZx8Q.jpg",
       "bullets": [
         "➡️ 300+ fashion, beauty, home decor, lifestyle & food brands",
         "➡️ Incl. festive workshops, a massage lounge, customisable gift wrapping & more",
@@ -751,7 +774,7 @@
       "source": "@goodlobang",
       "category": "General",
       "title": "🍮 Beard Papa’s 🍮",
-      "image": "https://cdn5.telesco.pe/file/Wxn-gGwafc1WXFe1nUaUkliMIzK03J2O723vvSK86lksyZdIHHeOhMozfijcrQM6LIPrXn4mVr9LfKISHEd5POl8LfjgFe1q857b38JzmBTn3fQywgIx52pUKM9r8UeztVZf4Nckp9KxgyhK1h_MZ412f-HpZ8AoStp8CLzYGOv8LFTyZdj9soC_eTO1S5x3ok5EUlnPqrEdTxdq5_oyknwfvo0rRIhO6s2wikUKnn2ZhfdwjQQtKkRZE2vp9wORVIqLZmOVqooWtfzR-Zy4wIzoVrcSsdFp7NHk5bvNqorqOzvV5oLjx2E_qZKw24xsAbtBzVibGbSF_dhwr5m-2g.jpg",
+      "image": "https://cdn5.telesco.pe/file/lF6YHRcRJIFgvXmTMzGs6scO0-xHaloJf4dWiMeBHV6QKyYcOEGRRStJRzrNNHxZzrJvvs6maEACKW58WO3F0b-HJTUa6qBXXgWX7XmifnyLGIJXlTN2WjuU1UBpDomyi0-bfpFOmfmLEHSjLJjIOGRFgy2BxBSUMhUAcdvJKDu6Ml7Y1e6DYsjeKroD8eeOdjavZKBhmpNnTxeF_JmmhcEUn4WgbXwqNKcJ2cpxCQfzQuZglUFg8F898vGbJtcPzjy7Wf9QZvaXOGHSw4MB_BKxKW0s_-67PB10dHtogIRXJBF4qwHzA_aFgtNCT39Zc43JjcrI_zL2_k_kyEE7MQ.jpg",
       "bullets": [
         "➡️ 1-for-1 Custard Pie Cream Puffs",
         "❗️ While stocks last. T&Cs apply."
@@ -769,7 +792,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🚗 The Model Car Show (TMCS) returns on 21 & 22 November 2026. Here are the highlights that will span 3 levels of *SCAPE.",
-      "image": "https://cdn5.telesco.pe/file/tyXnqM4LdlXatiYjAc7biqwN0HcAKj0-LNs7cbucfhaaVPipyxs0tTAnFHfGfHS3Wrs-xXajcjdgNUvZ0kP7jo8cG_IIboa5ShjCQG6pyMlByN3R2e-Y0TmZWsXPmgepVzC3ejB96ArRTNYDYbdOnSo_3c676JvnQvMQ1A4jNebn9zcnDxbfdRZW8uKIGOcIFWelvGYhSkABINy5ziN5-CSINdmJm4b7CkG6MW4GZ_82cHxzmrf70qmOKGoHU85nQzhTnvNAWoe33y7y4yap2YvnjS4tYrDL3xwCfRDif7n_CoF734x_Xa5itLQSI0WNPO74PvUM-fXHw9uvhCCIvA.jpg",
+      "image": "https://cdn5.telesco.pe/file/GssZsVKccZwkc_WowsQIvSok87rA1QqM_LyB-4NGRcvm36Vlqvy7pMI16DmXgL_JHc54hr3Qzx6R1qtv7TvJN_bRK6wd6I9uKAwMR4Az7h-jy_uJ6VtC-J8lOzzei5n3bjZLeMcaW-83OjjRHOTEb8UJ4LwHBIrA7cTS-xp1XnIUFaRWyWdZaAW1sLBABSefw9k-coknhxuufb_Tw6woo5jhlD0-5aRk26dcZpME10naFUTEA4Q3EqdiK4RM6kMYvsW2m_tp69XKYwsE5chgsNQOTl1u20iR1-Fp3HYd3BeZ3lMszu7EokKpUfbHJz-cM3CUhM9s1JXH0TWQKsqwrg.jpg",
       "bullets": [
         "🏁 Read more: bit.ly/4znmRt4"
       ],
@@ -786,7 +809,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🚗 The Model Car Show (TMCS) returns on 21 & 22 November 2026. Here are the highlights that will span 3 levels of *SCAPE.",
-      "image": "https://cdn5.telesco.pe/file/tyXnqM4LdlXatiYjAc7biqwN0HcAKj0-LNs7cbucfhaaVPipyxs0tTAnFHfGfHS3Wrs-xXajcjdgNUvZ0kP7jo8cG_IIboa5ShjCQG6pyMlByN3R2e-Y0TmZWsXPmgepVzC3ejB96ArRTNYDYbdOnSo_3c676JvnQvMQ1A4jNebn9zcnDxbfdRZW8uKIGOcIFWelvGYhSkABINy5ziN5-CSINdmJm4b7CkG6MW4GZ_82cHxzmrf70qmOKGoHU85nQzhTnvNAWoe33y7y4yap2YvnjS4tYrDL3xwCfRDif7n_CoF734x_Xa5itLQSI0WNPO74PvUM-fXHw9uvhCCIvA.jpg",
+      "image": "https://cdn5.telesco.pe/file/GssZsVKccZwkc_WowsQIvSok87rA1QqM_LyB-4NGRcvm36Vlqvy7pMI16DmXgL_JHc54hr3Qzx6R1qtv7TvJN_bRK6wd6I9uKAwMR4Az7h-jy_uJ6VtC-J8lOzzei5n3bjZLeMcaW-83OjjRHOTEb8UJ4LwHBIrA7cTS-xp1XnIUFaRWyWdZaAW1sLBABSefw9k-coknhxuufb_Tw6woo5jhlD0-5aRk26dcZpME10naFUTEA4Q3EqdiK4RM6kMYvsW2m_tp69XKYwsE5chgsNQOTl1u20iR1-Fp3HYd3BeZ3lMszu7EokKpUfbHJz-cM3CUhM9s1JXH0TWQKsqwrg.jpg",
       "bullets": [
         "🏁 Read more: bit.ly/4znmRt4"
       ],
@@ -803,7 +826,7 @@
       "source": "@good2gosg",
       "category": "Pop-Ups",
       "title": "Sauce Coffee Pop-Up at Somewhere Nice ☕",
-      "image": "https://cdn5.telesco.pe/file/ScNz5x5MdB-Ws8SlLbt3jXr81Q6-Xs-zvEdrQg4YKaqrrxtQBNLK-d5LAD1l6tS2mG69647VRGymcB6202A50GtPV0uLOrRR-CIXyIoW4P4EAE2e7VzOCWKSY-_xxg8elHFQGXbLbZzBXg88ahPsHFhiMEt95KSbwkAUHybX9QqHI6DvJ2_l4NOkRtEOsdpTGpav3AgAUUiJ4KHK48MQrj6-AeGGl3KypuX2rWmpphHMS784G81TGNhc419kb5M0l87tpZA-KFGTwORoSduyn9b7CNOSIJHMo7jPpUb9VNk5A0ICnfdiielr2GIJIXyFK_okCLf3dBX5ZqATlMVanQ.jpg",
+      "image": "https://cdn5.telesco.pe/file/Tmg5qaobo8Ry6vlPVxgDyVyTyfuyo1bl3WIcydOYGiP8L-8_kguFWkzaG2pKbNxvvIGStnMZgvumSwa0zh7JD-1vBHsDX2FAAc7nTQ8LCU_VFPL_UshPqXeLTxsr8cYsJnfXQxneqM-d3HTz3kJAZfBiVU2Up-bcK1QFenq-8Z2aR30RKJjZPPPThZMdkBrFCCf99kc5bKUT5jMA3LYa4RVeGNACakvNP3-r2R_WNX2VCcgBRSU7tj4pc81cKYWbwQo2nF_Ezby_hTE-SthrXI0DdBuIB_I0djzMYTcqP0Ps9Xb4UtHj_YDF8bEfR_3dMeZmUAo1kB2pHrGNjfNFoA.jpg",
       "bullets": [
         "➡️ Award-winning Thai coffee brand pop-up ft. NEW Chokdee Blend",
         "➡️ Incl. pop-up-exclusive Thai coffee filter sets, signature drinks & merch"
@@ -821,7 +844,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🥥 The coconut drink everyone’s talking about is now at ION. 20% off all drinks ends 19 November, then the 1-for-1 begins on 20 November.",
-      "image": "https://cdn5.telesco.pe/file/N2Geozd1eqopMvThTwD8mergcKpi3Ov5wGx6zIx0HbCOVgfD4Uco4wghkLwIKQnIXpoM5aVvfiqvwS-Hw0yb6UP8rdgPKCNdZPoJ8vyHO4DXcwAm6NpLKAi3M_tDKaRM2ngx7S1xYi0UCZEOSWMa1RnHk8wbnc2VnvwDqTABx99WjiKGfnjz3f5YHOg-MDbqpl_jlCxQ3DwYmGR6nT8KfRTO1BXzcEkt_i4XvlGaGM7ODR8H1K3uTPmhwPpDanmbaTz96nfgD6cYnBKmPxv_rDSjR0Y4l180s95vR_CNvAwlkXajizK8NM34HKlMc1baBEuFw408DM8sYzWSQlKAbg.jpg",
+      "image": "https://cdn5.telesco.pe/file/e-RMRjdWJaZHiceeFuIN6xr-qs9ZWcAVihzQJ6l7yWGZp57Pe_n9PIRALzZ405-bQuLKuS9RVDWDQv1M9W0RDsiOULZ8KyTTdSKAEf6oxyrtJwgVGiGAHvNZimJlYYAglbCj0OLJih2NqK-PK0b2Zq-jwCBm67qUtg6N2taZrVPMdHUu26ay7ISM_UPJ3RwIaInZ_FHG_hceKyvXyzyh1-dZLrruP76LqRRXfhAII-q03VZx9rBnLmdQA_46oCE2Vg0Vy1DIiPV9sBAlG-2uEnz1UpbWEwafAcsY-pm_DNVOQhkFNXe2aFvIphfYpjxHThhjYDBgjwr-fFkQC5beFQ.jpg",
       "bullets": [
         "🍵 Read more: bit.ly/4iGucik"
       ],
@@ -838,7 +861,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🥥 The coconut drink everyone’s talking about is now at ION. 20% off all drinks ends 19 November, then the 1-for-1 begins on 20 November.",
-      "image": "https://cdn5.telesco.pe/file/N2Geozd1eqopMvThTwD8mergcKpi3Ov5wGx6zIx0HbCOVgfD4Uco4wghkLwIKQnIXpoM5aVvfiqvwS-Hw0yb6UP8rdgPKCNdZPoJ8vyHO4DXcwAm6NpLKAi3M_tDKaRM2ngx7S1xYi0UCZEOSWMa1RnHk8wbnc2VnvwDqTABx99WjiKGfnjz3f5YHOg-MDbqpl_jlCxQ3DwYmGR6nT8KfRTO1BXzcEkt_i4XvlGaGM7ODR8H1K3uTPmhwPpDanmbaTz96nfgD6cYnBKmPxv_rDSjR0Y4l180s95vR_CNvAwlkXajizK8NM34HKlMc1baBEuFw408DM8sYzWSQlKAbg.jpg",
+      "image": "https://cdn5.telesco.pe/file/e-RMRjdWJaZHiceeFuIN6xr-qs9ZWcAVihzQJ6l7yWGZp57Pe_n9PIRALzZ405-bQuLKuS9RVDWDQv1M9W0RDsiOULZ8KyTTdSKAEf6oxyrtJwgVGiGAHvNZimJlYYAglbCj0OLJih2NqK-PK0b2Zq-jwCBm67qUtg6N2taZrVPMdHUu26ay7ISM_UPJ3RwIaInZ_FHG_hceKyvXyzyh1-dZLrruP76LqRRXfhAII-q03VZx9rBnLmdQA_46oCE2Vg0Vy1DIiPV9sBAlG-2uEnz1UpbWEwafAcsY-pm_DNVOQhkFNXe2aFvIphfYpjxHThhjYDBgjwr-fFkQC5beFQ.jpg",
       "bullets": [
         "🍵 Read more: bit.ly/4iGucik"
       ],
@@ -855,7 +878,7 @@
       "source": "@goodlobang",
       "category": "General",
       "title": "🌮 La Birria Tacos 🌮",
-      "image": "https://cdn5.telesco.pe/file/eKa0v_9W0hD5VRC0LIcAfvAkQRyBrwUJsTtN4U70YP2KnYg32PvDnxgmJiS6Nhy_C3_MNxvVYxEuLBRjcVXXeNa9u6USLwZAWW7h87tvPm8HlzciKxr2CdnUOgjRYx_EeREYqlQYjLZMh6JZadFa06WZnB5slDuJD2X6Gf1tmmzGwVpG2WJtLqAsZ0TBVjW8Xz9IwF916hH47GvlgxtlBiicOAihaXFL20CLbXJBy0MtqtBn7Gj2YxmZENV91gSYnPeRFU82J_FjQZej4cQz4DNSoB7_iIuta7PKDMoQSp1_ZKAHPHaEgJ9zsDOxeBi-1Ydioscj7uZuIsW_ulo59g.jpg",
+      "image": "https://cdn5.telesco.pe/file/Ulb4_QGnXiQExYlnsl2KmpuWd87ODXOG3WQpx7r4IfBh4exhZx9mmUY-eqHgknn7-FMho3rEIscXeMoDXCsnZM7IF2PcVaiIfEQ_ibOGrKs7JoU3cbYxt0eRTgJoyvSGiwIG0cFJA5EwsTJHQUf1b0789b-lIUInt4_HEuF25eau_Psv_STMia1OlkOCIAwFdS4olDJGsTO_z9EHMDQTzpvnFOOB5eepeHfy536vRd0YJDY1ZK50Pk8mkYEUJQtmEtZJ9SrPl8Lxa6pZBfOPv2qpRInD2PIu96JhfN15uwG0bZytl2UvszIEeZbKEOQLx6J5Pp6CttmwWfIuMztA-Q.jpg",
       "bullets": [
         "➡️ 1-for-1 Tacos",
         "➡️ Incl. Signature Quesa Birria, Sambal Belacan Fish & Al Pastor Chicken",
@@ -874,7 +897,7 @@
       "source": "@good2gosg",
       "category": "New",
       "title": "Butterbear’s Special Holiday Village 🧸",
-      "image": "https://cdn5.telesco.pe/file/TEi3aT_Vom9kOk-nrRyYhHQTlWkTAo2GNqVbfW41WvEbne0uZCkd7O-YPoIURWrvu_BTVfCo0qIVl7yXr4uJRBShs31PPtynp4Zsv2SFxBAKGgAzEl6ctmUHKGVqhL2lewfzk5DRyMk2YFCTSwGc_pRA7yVDg6IcFzIhLquFxgFbwTALF_9hgwD8lkl1pNdPHbfB2FVqR0ywNsMXiEoZEGzBecOLQ7JjG5ORbMvDFsZu2oV7MS8fjTOpLoUZOJ7ud3l3SVxREHrkqzCenV3moyqLUjK_Fbrta8mDAorXqD8CfMNXA96pB76AKGOLWkbkqT8h3cQj_nYkQPvdT5N2DQ.jpg",
+      "image": "https://cdn5.telesco.pe/file/Q5Txf6tJ4zSsU5zL7wm3ofnS_S69aClOtIj9QsUUJ1A_dnQp7hqATNcE4N3Fy5ZjMl7xD_em45vwskso2w923JyFoBErMTcOkklwKoirsoTDL2XAb22qLIsgjURikkyl708woMgDUOU6wN8GwnGEpREtdNZuG9BBYXlSlxuKKfnHwE-3LkmH0JATRAAgyL1zBcGbcs8HLdicoZtqSTJhQx82UmlEahh1xSe2fz7YbtBAqfNnR6P9AA9FiHw5xi0vEOsyBVp7uUv0jJsWrKllok8ryi6ZuQUN4vrhr838SjDA-Wj0xoVLhmY7BpviIShK8n4hlYMcdyEAl7S3vPtEGA.jpg",
       "bullets": [
         "➡️ Ft. candy house installation, Christmas-themed photo spots, character displays & more",
         "➡️ Redeem festive collectibles incl. charm blind boxes, rugs & shopping vouchers (with qualifying spend)",
@@ -912,7 +935,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🩵️️ Zenyum 8th Anniversary Promo 🦷",
-      "image": "https://cdn5.telesco.pe/file/PCA47V5mDuHXsQEfosYM9TYOXoIg9WBISHfUFxmlheTavgJgldAFqkPOZctewptlUr3LoLZeJxFoCgwBr_qPLM72S5Qfi_VT5Tl59Lyh8TuPWhwbQjUchO8XoPLa2-nR7KzT_W3EsCYSfP8v5XXvJlycOzb7rJZToQhw8fMSicGTG9iMq9-_98KFatOHiaxLMWWimmISLnuF_vdsUjVo7YWe-xD3om6BecHxqXQ0xXpgB8VzYbr9rXCwOZV60CVrogiiuaeaZvyfp2tT4yrn9MsDZrvGRlyNEuUPJdfXsun3kJQHrkO1jwQX6pd4tj-MWRPFB2GAzr8dGccs4NBBAg.jpg",
+      "image": "https://cdn5.telesco.pe/file/ogSlOyB0836K3erkA77guOhj9BDX5rNODox-6uUR0GND7Y1LZZ11fLEfm2iGf7AUCuaIgzP48FFrkzSqO6iqa8q1JNp2SEBm-fXsnhHwpbora9tNplg-H4OEsGXd1wfdRw_TwyLFHAiqR53NB0HDGBCc4baBPQC9i_2By3zsj-I9mjzDEG12V-l8_azwij_jqPQkP3mRP-LTMgaqrU9urDnmrJRjFLwHeLMTe0QnGE6lXxhU7UWBV10e26HKEDjw62mPGNm8dGMVCiGXO9KFYI9yj1Eq0W7iNH4jT-q-eVktDbdBfZc9tNaL0zxaTNk8E9YzbAPH0E57JI_f3tht6A.jpg",
       "bullets": [
         "👍 Save up to $900 on Invisible Braces",
         "👍 Shopee users get up to an additional $200 OFF",
@@ -932,7 +955,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🩵️️ Zenyum 8th Anniversary Promo 🦷",
-      "image": "https://cdn5.telesco.pe/file/PCA47V5mDuHXsQEfosYM9TYOXoIg9WBISHfUFxmlheTavgJgldAFqkPOZctewptlUr3LoLZeJxFoCgwBr_qPLM72S5Qfi_VT5Tl59Lyh8TuPWhwbQjUchO8XoPLa2-nR7KzT_W3EsCYSfP8v5XXvJlycOzb7rJZToQhw8fMSicGTG9iMq9-_98KFatOHiaxLMWWimmISLnuF_vdsUjVo7YWe-xD3om6BecHxqXQ0xXpgB8VzYbr9rXCwOZV60CVrogiiuaeaZvyfp2tT4yrn9MsDZrvGRlyNEuUPJdfXsun3kJQHrkO1jwQX6pd4tj-MWRPFB2GAzr8dGccs4NBBAg.jpg",
+      "image": "https://cdn5.telesco.pe/file/ogSlOyB0836K3erkA77guOhj9BDX5rNODox-6uUR0GND7Y1LZZ11fLEfm2iGf7AUCuaIgzP48FFrkzSqO6iqa8q1JNp2SEBm-fXsnhHwpbora9tNplg-H4OEsGXd1wfdRw_TwyLFHAiqR53NB0HDGBCc4baBPQC9i_2By3zsj-I9mjzDEG12V-l8_azwij_jqPQkP3mRP-LTMgaqrU9urDnmrJRjFLwHeLMTe0QnGE6lXxhU7UWBV10e26HKEDjw62mPGNm8dGMVCiGXO9KFYI9yj1Eq0W7iNH4jT-q-eVktDbdBfZc9tNaL0zxaTNk8E9YzbAPH0E57JI_f3tht6A.jpg",
       "bullets": [
         "👍 Save up to $900 on Invisible Braces",
         "👍 Shopee users get up to an additional $200 OFF",
@@ -952,7 +975,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🏝 You don’t need a boarding pass for a getaway. Wheeler’s Tropikana brings resort vibes to Singapore, with slow-paced tropical vibes & cocktails to match.",
-      "image": "https://cdn5.telesco.pe/file/Q4pPb8y_eYngKk0wcJHo-UQNy1SbBBfi2iN-VWhYCiGolHESE87NzDWr8D0ZGm2i6GjS_G6mpFyp7gnn2ju1GqOq8_QdulVCULiouJyx2PBMsH41BHIBbN0qe0xqJ65QA-41YlVNtq0bmcWt05KdiR5FD9AanCFE1rthC1tYx-kqOrpV62qbpcqv30tBEBeycC1nyGZztDXWwZHut2MUrnQX59AhafwtYN386lcYiB_ILFYkqQypUlBrE_GLmIIySX6J9dYG0QTSaGktHYyj3auQzLjeSAdtN_HsaiCpvIFPiBBbCyQxULpbMPpf9Pz9mcCOhIYZ5xfPTae4YQTT0g.jpg",
+      "image": "https://cdn5.telesco.pe/file/Ylw8TR0b6EcDxlEz8JWfaYAsPFaYf1EscXGPQa7VswWXwdWp4e7zyLZcP3Q1X459sgsUaCRyexglT55p0jzSkpj7k1RjaE3ddVHF1Ll803ZgzBw_aynkzT0kfbmersa57zJ2rAXRfWE-EriDgzC-E6LPVTkh9VPeDt_9NOi0MfySoar-nCVjUchhh-viBiLgn6IIUxsv-oLG571KgWi1IMzM9Elxi84xqZ5HNgojWcLYosbpFpjlHiuB-10GNfWwINbge2llqiFEacOz4WeHDUxp8ltWQ8HiBG3WCvh73jlYqW6qe4JDRKp6OYqVADVTCG6UWKT5ukGQT6Y5lPsfzA.jpg",
       "bullets": [
         "🍍 Read more: bit.ly/4jknDkL"
       ],
@@ -969,7 +992,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🏝 You don’t need a boarding pass for a getaway. Wheeler’s Tropikana brings resort vibes to Singapore, with slow-paced tropical vibes & cocktails to match.",
-      "image": "https://cdn5.telesco.pe/file/Q4pPb8y_eYngKk0wcJHo-UQNy1SbBBfi2iN-VWhYCiGolHESE87NzDWr8D0ZGm2i6GjS_G6mpFyp7gnn2ju1GqOq8_QdulVCULiouJyx2PBMsH41BHIBbN0qe0xqJ65QA-41YlVNtq0bmcWt05KdiR5FD9AanCFE1rthC1tYx-kqOrpV62qbpcqv30tBEBeycC1nyGZztDXWwZHut2MUrnQX59AhafwtYN386lcYiB_ILFYkqQypUlBrE_GLmIIySX6J9dYG0QTSaGktHYyj3auQzLjeSAdtN_HsaiCpvIFPiBBbCyQxULpbMPpf9Pz9mcCOhIYZ5xfPTae4YQTT0g.jpg",
+      "image": "https://cdn5.telesco.pe/file/Ylw8TR0b6EcDxlEz8JWfaYAsPFaYf1EscXGPQa7VswWXwdWp4e7zyLZcP3Q1X459sgsUaCRyexglT55p0jzSkpj7k1RjaE3ddVHF1Ll803ZgzBw_aynkzT0kfbmersa57zJ2rAXRfWE-EriDgzC-E6LPVTkh9VPeDt_9NOi0MfySoar-nCVjUchhh-viBiLgn6IIUxsv-oLG571KgWi1IMzM9Elxi84xqZ5HNgojWcLYosbpFpjlHiuB-10GNfWwINbge2llqiFEacOz4WeHDUxp8ltWQ8HiBG3WCvh73jlYqW6qe4JDRKp6OYqVADVTCG6UWKT5ukGQT6Y5lPsfzA.jpg",
       "bullets": [
         "🍍 Read more: bit.ly/4jknDkL"
       ],
@@ -986,7 +1009,7 @@
       "source": "@goodlobang",
       "category": "General",
       "title": "⏳ [CHEAPEST] 5G DATA + PREMIUM AI ACCESS @ $6/MONTH ⏳",
-      "image": "https://cdn5.telesco.pe/file/YJnWD55zQxRY4eem8aesj5p-glOpLoDSYV6WT6xqWaikk0m-ut8xOezBfV0ODYpE6ns342VvykzPHXtGZgohhzBay93BgT_l8cKiU81Fve5DmI9iF-WUxF_JYOaTFrTzYbE_VlsEJvfMLQAkqNF8mSYJ9kfPc7VmWSGCE-9AKC_2sexvKRjx4sDRVWx-6H_n7I9nK2QvS3L1Gl0swjdyG6u0HSFB2UarXQSslNVB7TgAMxxTel_8sO0xIXvMD59eagblLgVZSvEYlHan6k651DCtdKXHyDl_AnSYw01eXJ_eLVzjrU7FLRKbP2UV2mqqA40wwkQv0h4r9SSwwLXnqg.jpg",
+      "image": "https://cdn5.telesco.pe/file/Rrmt6yeB3jUWHnerM5p33oBsIb6WbMHWeeOSCGXe_vixsK9cKx7pzcGHqT_GTEDBiUgd6l5ckbMLlZ4gIb1kuv2_9wlomMN5nep6_2zfRxrRkm9LlegqANnmN7w4WZVv2cBO1lw3pvtPNK0F9iCMUC3PYA9tUjLEltxvfXF4WYqPbmjl-HMxeE1O0xaDu2cX_znT-opwXmo29zMESzCNbcdsiqASQMI5DrUBaWWLZnOkFdVbUTq25liH3ZbxwQAVi5MlNaWoD2RSUQsDfReF2b-4i2gLlJ1HMcISXfDbF0RiBKFpC2c7bTAWo5t4v-a_Z4a8tZxWNMw5njowTV1M2A.jpg",
       "bullets": [
         "✨LAST CHANCE to get 60% OFF Telegram Exclusive: Get 1TB 5G data + access to 6 premium AI tools for just $6/month (U.P. $15/month)",
         "➡️ 1TB blazing-fast 5G data + unlimited talktime",
@@ -1009,7 +1032,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🥪 Wondering what delicious new openings and events to look out for in Singapore? Check out our top reads from last week and don’t miss any!",
-      "image": "https://cdn5.telesco.pe/file/TqSuEal41n1__lQa4O9bKR-2QLfe9Pnf6fsMJTnNYq1z3p0ZsOFYZGHF0FyNP2NvenNRR0ShRszLw7_ZOslKYQR4e99KQAGMRc_nGT-65zX3vW2r_Bhz9wqTrX8rrV8Ih0hRxzhvgILqbvWvGIEVTMghemW9a9t71w12WJHbRtacQPQd7kIjErmKMCulPGfk_zzjQQLAlGnHDktObq7eWPcmf8zo_UJUg6I5SuTaVzUW9ZV03vx3FFnhVuup4_wrz5pWQusEtFVwjLjsdbQCkEcgul15Oht80hz5ZVwuHsBv_0_pU5Pq1ThTASJ_yfPOgV5obp3CUqp2IP2A6QfcVA.jpg",
+      "image": "https://cdn5.telesco.pe/file/BQ6vv-Kgp2KmmiSdwmUrHJbmAcES1cHIs7oHBh8u6SDaA62TqnMHUNuviWEsP7E3IGsZ96ekoL0vGKW7-SiSbFiun7h2wa8efoEHqz4dMxJBFYpqFAtgViU1fbaRVQF0AMTi-IL6T3xAQ9RM2ifIlJE_W7PxMMiB58sgqU0cTqIgbi7H16EVbQbHlrfG4Rombmw9h2-V9gXHhFSHWISzXUB6nLI9VCa43JrnbJzCarlHixv5gu0SZEHED4hcCRs5gcihbTpXu1z3EGLoBRNnNRQpJZcUQbuAAHn3ZVWgzrW3C8-Z9yKx93IQh9axvGnkOXEzH-pousyuAMTBvZnRrg.jpg",
       "bullets": [
         "✨ Canton Paradise refreshes menu for the first time in a decade",
         "✨ Explore Singapore Writers Festival with SG Culture Pass",
@@ -1030,7 +1053,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🥪 Wondering what delicious new openings and events to look out for in Singapore? Check out our top reads from last week and don’t miss any!",
-      "image": "https://cdn5.telesco.pe/file/TqSuEal41n1__lQa4O9bKR-2QLfe9Pnf6fsMJTnNYq1z3p0ZsOFYZGHF0FyNP2NvenNRR0ShRszLw7_ZOslKYQR4e99KQAGMRc_nGT-65zX3vW2r_Bhz9wqTrX8rrV8Ih0hRxzhvgILqbvWvGIEVTMghemW9a9t71w12WJHbRtacQPQd7kIjErmKMCulPGfk_zzjQQLAlGnHDktObq7eWPcmf8zo_UJUg6I5SuTaVzUW9ZV03vx3FFnhVuup4_wrz5pWQusEtFVwjLjsdbQCkEcgul15Oht80hz5ZVwuHsBv_0_pU5Pq1ThTASJ_yfPOgV5obp3CUqp2IP2A6QfcVA.jpg",
+      "image": "https://cdn5.telesco.pe/file/BQ6vv-Kgp2KmmiSdwmUrHJbmAcES1cHIs7oHBh8u6SDaA62TqnMHUNuviWEsP7E3IGsZ96ekoL0vGKW7-SiSbFiun7h2wa8efoEHqz4dMxJBFYpqFAtgViU1fbaRVQF0AMTi-IL6T3xAQ9RM2ifIlJE_W7PxMMiB58sgqU0cTqIgbi7H16EVbQbHlrfG4Rombmw9h2-V9gXHhFSHWISzXUB6nLI9VCa43JrnbJzCarlHixv5gu0SZEHED4hcCRs5gcihbTpXu1z3EGLoBRNnNRQpJZcUQbuAAHn3ZVWgzrW3C8-Z9yKx93IQh9axvGnkOXEzH-pousyuAMTBvZnRrg.jpg",
       "bullets": [
         "✨ Canton Paradise refreshes menu for the first time in a decade",
         "✨ Explore Singapore Writers Festival with SG Culture Pass",
@@ -1051,7 +1074,7 @@
       "source": "@goodlobang",
       "category": "General",
       "title": "🥢 Suki-Ya 🥢",
-      "image": "https://cdn5.telesco.pe/file/p9JalHBLp_fS5-pW44E3YzQpBQ4oF0dJnoNAq7mfAvPok1yobYpJ7Flhlyu4oyqCiE7p-V-NGaPDOt6kuADrmC1VRSVvF_ZMLwrkjygghBGoniCD-bCmqm8lbbychOPd4BzAi42zeycOU0ggzsDAhDIEwx2GnpmhqF-q53Nva4UO0ep38Ox1t9DhySrC9cGz4LbRpp_chYvzfFOCTulC-jwh4MCq33hkZ5n3VgGhKh7cJsKTbB1Lb1cH2xRKlb8ZlOdu4ZH_tElaaCkRmIdaz4SGZ2BZL43OH2oSPwiLXgbE5yCtRpql2-v_Huwd7STGZl3M6NgAbGUNL3jgiX34yA.jpg",
+      "image": "https://cdn5.telesco.pe/file/m0PbVip2k46wZ-38kPKkDNWKuXB8AyzE6k21H3CgdzOk7_njZmAq1asY5aenbOdZYp4IjVz83Lde9H3BJqYL8-RYuFvuBhm5fXjtQ8NIp4jIBBUwHx_gv9r2REZW8gCT9LlzXozFtowB5m7FTpLujgaECDtAQZMlQCnieJypDjj_agTz3vPWCzH-ioNy_gZYIGkKFHCVA4akuc3g42gBZPTH9As7k4Of0x6d3OEBgM5JOx1uqCirx1PGeOM4z8psXdSps5vMEWUpMwbOv_shlZkMWjod9fn2RDcmskmAhClRpWoj9VVZ2_xNh3da0lSwXSEiupqFK4a83jzdJRaqdg.jpg",
       "bullets": [
         "➡️ 1-for-1 Sukiyaki Buffet",
         "💃 Purchase a drink at $2.90++ per pax to redeem",
@@ -1070,7 +1093,7 @@
       "source": "@sgweekend",
       "category": "General",
       "title": "Free entry to Something Strange Festival 💀",
-      "image": "https://cdn5.telesco.pe/file/eRmFiBflDcrwDzHrJw31wnCq2N1rgUgLHQGkSgeGceH_XRBWvtPtRcJ0dq_bAEfuZa8PLBkBN9m7LrDq_g5CBhEXhLHZ_BIIZcR5mm6Vd-lwzD58w8W4e50IfWizE604sbCLpBV705lf1M6-RbB6QT9iAAb7ePIdMKJgz6TzacoW_XpWZkS3PG93sxEHAKandfafvgVSJA-lhYLUNtHiseMdr-hkpUFdgYaQ3p61Q4LYIOCYFQj_abmrIBCF8ctHwL8OeeKG2naNhQatRDgNNXk2Z9mKwoxN8fS0mR9ByQ3uEyvNgXedLcd6AFKyqvj17JkQ-UNi-6cl6JqBUbSeHQ.jpg",
+      "image": "https://cdn5.telesco.pe/file/Eor-o2Ga7-NWZfhz_S0k7Etu21SiJNJKG5fFAYlUUAz5-M8WK0S47iSsucsUIOjl8IO7snSzIU0qNGQkDJFaeCeAec_Jxlpb7PMCp24pju0xIoxiTpiD5OrLe6Ilr-Oq1ElMAH3DioDZzip1iKXg0db-gFkQVKdFp2HABya9acU11KKdVjKg2QF99Va4Ykzs5mArxjp2jqZtfnr0qEVzZlLFJvtMAO1C3NV8eaKp0xoHnkMRaEzrqh63QmsJdO-be-bmRyZIYVsFk3L6v6pzYxhxFDpB8r5J6M3p2a3s_BLo_LMf2WEYWPRfQrKODP0GnnPwKPB9yOsh2DzJP_d0Uw.jpg",
       "bullets": [
         "✨ Step into SG's first festival of horror, mystery, folklore & the unexplained",
         "✨ Expect the Curiosity Market, eerie installations & a lively social night",
@@ -1091,7 +1114,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🍿 Film chosen, blanket ready, dinner pending. Here are 5 takeaway & delivery food picks that will make it a perfect night in.",
-      "image": "https://cdn5.telesco.pe/file/AiB3Io7JwjP0zKS5QRaQa6C5UglP74dnbi-YRhCmJ8K0Db_XFjShDdYmxOTYNqKRyIGpCXJMe-BbADvLDUIpfQjJNj2yMVjkb0HsPt0x7CbC1x6Oat-Xaaue3RHM_A8XydFjqANnLTZXBafJeJiZeSEOMq9QKkIBUwnfMZ7cy2-f_4zbNT_gb2szBIfmwhuBHzQuqM-cL6r0pvEOyMoFS3xjcU0ZpufJkbAIk_LSrZAq6lUM_rbyjfw2Kzxx47jbC39uwjEfxkJrm_hJAGqNtf0Ng7wdlkNmnmQb4OdbDp-V-lfeVyZ7gj85C06aySImalzd432qAmjHqSrvxv6bew.jpg",
+      "image": "https://cdn5.telesco.pe/file/UEF7M68Tnb8FkbsLLdeDlo-9Zl0nJaJ4UASo_4q601qt1E4332DK4ht93BSn36VwwQpSrQ1AJ-9uU93gHYNTmRqfuPrEsVLD1vOlVT-4JRi1kej1i8LkjHp9KqBQhqLQeiY9WelZumBnkIIKPAfGbnxMzuoTL3htNKQaxBX1NH-Tlk96iETSvQ6oVi4CLLJBDJKY84xVhSFAedsOzuW_BeETIO6yXwzsbI1Ubrja46-v-YXV1jArsb0DPBBN5384H2hSuJn9qXwpsTmmLc7Rsn7nd0TucMTOlQvsMS8hl4WZ9m0eO-We8-3GFcqE8TLEEwuRg_97_Mof1LvixlGmTQ.jpg",
       "bullets": [
         "🎥 Read more: bit.ly/48AhJXL"
       ],
@@ -1108,7 +1131,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🍿 Film chosen, blanket ready, dinner pending. Here are 5 takeaway & delivery food picks that will make it a perfect night in.",
-      "image": "https://cdn5.telesco.pe/file/AiB3Io7JwjP0zKS5QRaQa6C5UglP74dnbi-YRhCmJ8K0Db_XFjShDdYmxOTYNqKRyIGpCXJMe-BbADvLDUIpfQjJNj2yMVjkb0HsPt0x7CbC1x6Oat-Xaaue3RHM_A8XydFjqANnLTZXBafJeJiZeSEOMq9QKkIBUwnfMZ7cy2-f_4zbNT_gb2szBIfmwhuBHzQuqM-cL6r0pvEOyMoFS3xjcU0ZpufJkbAIk_LSrZAq6lUM_rbyjfw2Kzxx47jbC39uwjEfxkJrm_hJAGqNtf0Ng7wdlkNmnmQb4OdbDp-V-lfeVyZ7gj85C06aySImalzd432qAmjHqSrvxv6bew.jpg",
+      "image": "https://cdn5.telesco.pe/file/UEF7M68Tnb8FkbsLLdeDlo-9Zl0nJaJ4UASo_4q601qt1E4332DK4ht93BSn36VwwQpSrQ1AJ-9uU93gHYNTmRqfuPrEsVLD1vOlVT-4JRi1kej1i8LkjHp9KqBQhqLQeiY9WelZumBnkIIKPAfGbnxMzuoTL3htNKQaxBX1NH-Tlk96iETSvQ6oVi4CLLJBDJKY84xVhSFAedsOzuW_BeETIO6yXwzsbI1Ubrja46-v-YXV1jArsb0DPBBN5384H2hSuJn9qXwpsTmmLc7Rsn7nd0TucMTOlQvsMS8hl4WZ9m0eO-We8-3GFcqE8TLEEwuRg_97_Mof1LvixlGmTQ.jpg",
       "bullets": [
         "🎥 Read more: bit.ly/48AhJXL"
       ],
@@ -1125,7 +1148,7 @@
       "source": "@sgweekend",
       "category": "General",
       "title": "Things To Do This Weekend (13 - 15 Nov) 📝",
-      "image": "https://cdn5.telesco.pe/file/E79VCYyZKEiUOLhKlgspPicFOaUaiH8QKozCaRO01tRR2XrXXEmwOifMOHyt9IiWEBiGYqaeIm9nYK8dvCwjacAvTOkxpekM3pTd_8EjRIyVZXZqrbwqYcr7RYUohHpmpJNeKOLZcf_AGcKMcj1JoKlzQ3MyYtgAzf4wXBe5xIDDUzoq91JdfcY3EYB__sdDfc-na5N9n0g8Qa3WiHno1fSZkjA7u4m4-uXyx59buhSJKRkyTJlYjTp5SxO0pNwhucinE8zk6CutYcoLXCFvUQBt-1pfr-FDmOI-ZUers8_grUvb8fFIAckPUK1GjDGso61EAmXkgA-UOqrW4rhGbA.jpg",
+      "image": "https://cdn5.telesco.pe/file/LYjrR5tByZmXlWDGmCZ4sWpoofIMShqR6hoI-UE3Yqls1a47cwuIQzUVpmNuhbSHcTAeivRYYCGC433QlNGDVOuws3gOlG4pSD6FWAMzLiuSDpfLGFpM68WFlAj3EDrGLym893L6Iodn3LOjGxaT79CVf9aUI-AuMKFuwRQYMUudVgwJA1i-HCNmjgeiPEBS6hv2Di-dZj0nY-rBXVxY7j4oUBI0xFHA2j85TMEaiegdO8sTlj90PX7EteTvurCWocgAHRmiYFv4QH_51oEmf9hgHehQORru1NRVcQVHJMNNDZmsPXDFs8lPrSYZC8CzpBIL5893dcp6fPYeqUZlfg.jpg",
       "bullets": [
         "✨ Watch Quirky Films at Cartoons Underground",
         "✨ Free entry to Something Strange Festival",
@@ -1148,7 +1171,7 @@
       "source": "@goodlobang",
       "category": "General",
       "title": "🎧 For Real Fest - Louder at IMBA 🎧",
-      "image": "https://cdn5.telesco.pe/file/XdRb1lyTWNxANr1ILcNt6HwXXE9KtIUYoFUU31ZZLZ8gbqZOLz8ExXG5ph_jhY42GQdTFFZG6ZEF09uceySSTiTYn2340RW--u9pnau0aX96bBR9glboXR7nteqTpyfXKP7UpZFa5nVDb-iRzk8Z3AdG0nJHwMa5vO-mGmkZ0mwjUAoc5pMWwpmUVGSJ6X6asmTxCbHHt4jOM1A9gf9tnrLcc3u1a1UpQkCWf8UXnk72Im6OMFwhFMcA5guaar7CQXoZI37aUaIwplbgO6uGrFwTT6cAmUW1_Ftf9v5hkQDyvvoXTQg6Ld7KUC55Y6FYfNYDTA3EZZ--5QNnEEOJcw.jpg",
+      "image": "https://cdn5.telesco.pe/file/SztfZdomPSYGAPRzBQw1LvTBvGviC8aMwv0AE5CiRmH4ybwVzaaIPzl2ND-hmkJ6dZIhkikMRbdyNtmYpNE5IfR81iNZOGgC1mjPbdn1vV2mXT4Uu9qMcNW2HZ4t2GU6S6kKThhldAHn6cOG9Lne-xftcYQzXaQjmCLa6mN227ZVRMPeHrqpsWueCJJSgEC2LNwUMr6mw9UGapQg3QjkqbQgtllnCE8ukJkJZ6Bq-_LnOV42vHZfiDxJ5RB77yOodWpM9VbOyeiLMmC-f2sc1yxQVNf7vFmSwpJn7TPP6tltIz--pObPSzgTMBTITtT_1E5GhPmYUP8fG9GKWWwAIg.jpg",
       "bullets": [
         "➡️ IDEAS PLAYGROUND, LEVELLED UP: Go wilder with Mandai, get into real convos with Starbucks or play across generations with NTUC Health",
         "➡️ LOUDER BEATS, UNFILTERED: Beats from retro throwbacks & Asian classics to Top 40 & K-Pop",
@@ -1167,7 +1190,7 @@
       "source": "@goodlobang",
       "category": "General",
       "title": "🍗 Wingstop 🍗",
-      "image": "https://cdn5.telesco.pe/file/Bb6IeEfjjBbezA8cdR6PJvBWU1KFhP6qOldoIZ6WvHYKfxTjc29JJrfExS-EMlFX35NqxjeLgMCPwtv1-5F_BTJw5WUAkpM20xb6mtL-j7koL4TC3ibHVmLwWDpl5z-z7yooyjZespU-qeKr-QN9c7ontGmqD2gtdvlwlc3bbiA9XHaYzgC3nlKSqyjh8R855wB0DoodBX3bvKaN70u8sYWNq_OMfPjBOi_58uPQ0fy3V4CL_9VcjKXHNIq29Ujf677vSLnzFTM1Nlc8a8SSWM5qCWES2eV0TdL1D04dZnm1ABH-OdamJ2Yj0vK87kq3NpLBU-a7s1UC_WO9Jt_o1w.jpg",
+      "image": "https://cdn5.telesco.pe/file/Hp2YsOcG_ZbA3sP842yqocdiH8trf4LVWsj89YbckeeWeeu3ZI03Uf56OuFcupcAlUsq5t0EIrWDKoBBm6ZMtNOsIwk7zxkQI0TugYQfSfHfYIbYGAkyP_wGNFLnRaL7mcUgxWaIOSwdxallg9CzRBz-8md0jnbHnlyipj06YdVfIDoks7YW9pjIJQtCg-QPXFA8z6cNZCXCqLnhSwi7bswpt-u1Dau_ed7-0XzsuSkL9jdE1Rxm-cPp6pwHaG020QKDEhtTdVTYyk4y8stUj_kOohgGULYo0m0_f8aC4JJdlk73OYAOloN8TTk9VxcQZha9MbtYsf5CbbFK4j4jHg.jpg",
       "bullets": [
         "➡️ 50% off 6pc Boneless Wings Meal with purchase of 6pc Wings Meal"
       ],
@@ -1184,7 +1207,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🏖️ Who says getting a beach bod means no ice cream? HIIT The Beach at Sentosa for 8 fitness zones featuring Magnum brands.",
-      "image": "https://cdn5.telesco.pe/file/mEKcbR5bUuZOlmQwr48cSycgetzs7GHzbMlufyoMNLjvlVGPctxNaecaEHzUBJWTETkulj7L7efsrT04l1jLpTt3xqsM2rvRRrGO1pSI7JMNd3ff89PimmxRNcu7skAqwBCLdJxDZhUGeHXAModxiFUj5ct7KJoi3pblPqbLo0MezBepztAoKFsFWPs122RZD4ij-X0BEBcb9s-vYqz1lOMEtVmWRN0wbBTo5upBOZqY8BeEd1L4WU_bzwfRVZo25yGUXZT349ZWNFJFNEppkuc0ytMvrIenkUZxeQ9u-sbm5--Kvwn-wCusFylk33XOooaWvD-hU_m0iU4CuEJ9JA.jpg",
+      "image": "https://cdn5.telesco.pe/file/WS9z5N8MzotVJY8qWIDpVAEEvJdWu1A6DIk1oskSjXCyAKV8QZhjleQc48CwanFXc5WqHD4rZRkJmP5bKNd1u2uQY1KLT4HnkH-slsa3KZrp2rLoPnb-Wx4jUdYMjNWdZMcyZiGgqCoMmcjn53yGcjOXJgnU9JWpCvHhNyerpSxgsZZQQcSDsxJzrGsLtw8KzUt99DFAqlkmcp7Tdnu4V3AulhjRihIEvTM00Byo9os3ZgMo573uojETM_NXPgAH-B3WpW5wPAUBSQV_Bz-K84BJ8u116HFYMihieHsycwWH1Xr6XZZYcpRMMP34WYiejEzAGuCNc0zK6xJwehyTTg.jpg",
       "bullets": [
         "🍦 Read more: bit.ly/4iPynaa"
       ],
@@ -1201,7 +1224,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🏖️ Who says getting a beach bod means no ice cream? HIIT The Beach at Sentosa for 8 fitness zones featuring Magnum brands.",
-      "image": "https://cdn5.telesco.pe/file/mEKcbR5bUuZOlmQwr48cSycgetzs7GHzbMlufyoMNLjvlVGPctxNaecaEHzUBJWTETkulj7L7efsrT04l1jLpTt3xqsM2rvRRrGO1pSI7JMNd3ff89PimmxRNcu7skAqwBCLdJxDZhUGeHXAModxiFUj5ct7KJoi3pblPqbLo0MezBepztAoKFsFWPs122RZD4ij-X0BEBcb9s-vYqz1lOMEtVmWRN0wbBTo5upBOZqY8BeEd1L4WU_bzwfRVZo25yGUXZT349ZWNFJFNEppkuc0ytMvrIenkUZxeQ9u-sbm5--Kvwn-wCusFylk33XOooaWvD-hU_m0iU4CuEJ9JA.jpg",
+      "image": "https://cdn5.telesco.pe/file/WS9z5N8MzotVJY8qWIDpVAEEvJdWu1A6DIk1oskSjXCyAKV8QZhjleQc48CwanFXc5WqHD4rZRkJmP5bKNd1u2uQY1KLT4HnkH-slsa3KZrp2rLoPnb-Wx4jUdYMjNWdZMcyZiGgqCoMmcjn53yGcjOXJgnU9JWpCvHhNyerpSxgsZZQQcSDsxJzrGsLtw8KzUt99DFAqlkmcp7Tdnu4V3AulhjRihIEvTM00Byo9os3ZgMo573uojETM_NXPgAH-B3WpW5wPAUBSQV_Bz-K84BJ8u116HFYMihieHsycwWH1Xr6XZZYcpRMMP34WYiejEzAGuCNc0zK6xJwehyTTg.jpg",
       "bullets": [
         "🍦 Read more: bit.ly/4iPynaa"
       ],
@@ -1218,7 +1241,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🍽️ If you think you’ve seen every buffet Singapore has to offer, think again. These spots are redefining what “all you can eat” really means.",
-      "image": "https://cdn5.telesco.pe/file/P9vWrzdPo1AyEAJffCmKiOalZYFMzOjZSXqgir1o9wJa_7jD4GMExtLd6ya-t3eNeasIy69f3ZvEIZeOjUqbrY6WMhgkMhMEU0KOECGuZOe_35Z65nbaMGv6W-pEe3OkirJW3uKByvMOf6hrYewrLMeTp7ZO-QmME2mrnHgue2zxiGocy2DW04tRUWq0Yp2oxKFLaSgBCbUg90mHBnU9XZ4UkxhuWPeRqgl1-DMnPHnA6QDO313IDirmaR_GS-RqCYrF0g4a5pNIHej1F2pnt6mRtjXBGapbnM8RFOi9fpgHHdAsw5q10m-zSGSWRmtWLbSkhyVmPVXynGs25dN12Q.jpg",
+      "image": "https://cdn5.telesco.pe/file/SnV8SD2w9iYjnmercVb20_Bou7toQ7ArWDCCtwhVer_mxEa3B8DGL8BT_T9z5F6f53PpYFxZB7340DVGikAu07jH3We_G1MmpfVMnIcBARiGGH0ecMWvvqC2oMc6wmU6ip07hZxixLUhJuqcrqRfJk_DTQSNFJKOGmvfA2uGx7s0lIo3JmH0cFlRMCrJRytPzNMNDUB3X_XKGdCFFvBN_Z8G8xw662DeIYWKsowOrS_x92rLwVzfhtHNh5j-DZln66eO9kJx_DsqXD0SxfWar0-CFpAjPLh7b9aGbPlVfN9JuO1DphUAF_Pw84niSFP8ejf3rtPL2NVE4Ux8-pjkeg.jpg",
       "bullets": [
         "😋 Read more: bit.ly/4kdImZx"
       ],
@@ -1235,7 +1258,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🍽️ If you think you’ve seen every buffet Singapore has to offer, think again. These spots are redefining what “all you can eat” really means.",
-      "image": "https://cdn5.telesco.pe/file/P9vWrzdPo1AyEAJffCmKiOalZYFMzOjZSXqgir1o9wJa_7jD4GMExtLd6ya-t3eNeasIy69f3ZvEIZeOjUqbrY6WMhgkMhMEU0KOECGuZOe_35Z65nbaMGv6W-pEe3OkirJW3uKByvMOf6hrYewrLMeTp7ZO-QmME2mrnHgue2zxiGocy2DW04tRUWq0Yp2oxKFLaSgBCbUg90mHBnU9XZ4UkxhuWPeRqgl1-DMnPHnA6QDO313IDirmaR_GS-RqCYrF0g4a5pNIHej1F2pnt6mRtjXBGapbnM8RFOi9fpgHHdAsw5q10m-zSGSWRmtWLbSkhyVmPVXynGs25dN12Q.jpg",
+      "image": "https://cdn5.telesco.pe/file/SnV8SD2w9iYjnmercVb20_Bou7toQ7ArWDCCtwhVer_mxEa3B8DGL8BT_T9z5F6f53PpYFxZB7340DVGikAu07jH3We_G1MmpfVMnIcBARiGGH0ecMWvvqC2oMc6wmU6ip07hZxixLUhJuqcrqRfJk_DTQSNFJKOGmvfA2uGx7s0lIo3JmH0cFlRMCrJRytPzNMNDUB3X_XKGdCFFvBN_Z8G8xw662DeIYWKsowOrS_x92rLwVzfhtHNh5j-DZln66eO9kJx_DsqXD0SxfWar0-CFpAjPLh7b9aGbPlVfN9JuO1DphUAF_Pw84niSFP8ejf3rtPL2NVE4Ux8-pjkeg.jpg",
       "bullets": [
         "😋 Read more: bit.ly/4kdImZx"
       ],
@@ -1252,7 +1275,7 @@
       "source": "@good2gosg",
       "category": "New",
       "title": "Free Entry to Avengers: Doomsday Experience 🧪",
-      "image": "https://cdn5.telesco.pe/file/esfdGWfRIi7cw3_dh7wJrneuBEVDbs_xzjRpBqhYytnwF4iENRVhMjkoNOnh6Ecf23mJF1ajLFEvpwbArRNZqolYg67H7qYbeOa6cL_3tl-9iORGGEB9X9gl7hpk1h6BS4AwC2KEO_1hff9RtoB7ksRFE4Cc80G_mNo9Ke3sDYTO-1cZpkwW5ISlnbgtnmeYc6NC5dyg3tNZR5181tjY3Q-ifA3nHlVAEcTA3BqEHa0UoQ7xP0I-OIe2bb_XMiXJ-b6CUeKf1Zs4nenGg4KLGKzPwOl5JalHgdnzOJWdaSeCfp4coyTaeahEEfB_7KJsZrYfj6rEv00Lgkyu5istaQ.jpg",
+      "image": "https://cdn5.telesco.pe/file/CiXKTVu-wr4tyGxndNRcx6JWdnV9SdlFNQyfr4ITENvY0waviwwdYEA8OmsOaIoJF-M8TvQAaWG4PZJGQKkBxcms8l9naSnMhDwXF8wi89rlFwCXE2_-l6Ydvm1OCsOTMCR3UnYT-YmA9QhJfC83fUKl7f8wK7uxCBG4IXZwSfgindpe6qKSsZVeVwBd8SLvI3gj_4WJVlQQGNWM0k9cMoTqooENmf60piMkRwqOz7kKhDgIR7IODEB9h05BJf_D4cX5wLZbarx4VfgXcl5EUxE0BnWWZq9MZvC3XjpAgoD7lNuZA6N-wks0KOsKe_gHDXxoqQqiDaqHhsYR7S7Zyw.jpg",
       "bullets": [
         "➡️ Avengers: Doomsday-themed trail ft. X-Men, Avengers & Fantastic Four  experiential rooms & displays",
         "➡️ + Complete a stamp rally along Orchard Road to redeem a limited Marvel premium",
@@ -1271,7 +1294,7 @@
       "source": "@sgweekend",
       "category": "General",
       "title": "Relive old-school gadgets at this free exhibition 📺",
-      "image": "https://cdn5.telesco.pe/file/Yg3ogooYLU8nHPB7pq-PEr4FPEEpS2fqEMGvrRpdXjrOrGgi8EH1cdq7V3XzN3WDu5gKs-47M2yreyYky7BvfszUdxZYkVQ5BjF2IxPcgQJvLdJg98OS1PspvfFMgf1uttNInokO0dqOWNWD2owEykS_98kgqHnFM4Pv5PPBQ2LcysIh6bMmUyXI0xXOxmvQ0f8soaftR5yueiQM6NNbk_ujZfe9SDvj1e7-wY3buWOTMdUeS1UQQVl81DdTaaDqanXzQ4HqOSwg-ct9v-_s7ZtT1oec0KwdaHTB8XF4U0laBVE2ndFyS8xZHuP4wgEwQeLzsSWcL81idIK-G3VUPA.jpg",
+      "image": "https://cdn5.telesco.pe/file/sd0hOqH26xlXkHHQ62VhwMk9tyP15W66aHInn8Uf7O2h7hEgKQVUrYIfaGFBDwJB3F2ZI0tJpBkOdB0lAlEGk0RvAIpEfhFpAcqOIaWqh9cWP-MpQ2plOn8DRWDwVnwMUzG-YkTK-8SFlH6MbP7xKlaoCfNsPl7JTvKDVYlMgHK_cvzBhR-lPFndU7Dkcyx8yfbDdkVDiTFL-4XYRGR7ufjRl1w1PXBGGs0mG9RMSCc1WA-Z3-gH2QCLcbvjZQtoLulJiatsyG1p4cXIg9l8kcmvjVw0gx4Ypc2dFBl8lKUOk8ZQ91w-8-lBQF6GFQZjhtFHDJoolh1oXTdmt4gVCA.jpg",
       "bullets": [
         "✨ Take a trip down memory lane at A Walk Through Time, an interactive exhibition featuring technology from the past",
         "✨ Spot nostalgic gadgets like CRT TVs, pagers, Discmans, typewriters & early mobile phones",
@@ -1292,7 +1315,7 @@
       "source": "@goodlobang",
       "category": "General",
       "title": "🍞 Age.3 🍞",
-      "image": "https://cdn5.telesco.pe/file/bQUe8ZwLbaBLhsv__WWQ6qTX5JS3CG3iNSZnwTptQ1m3VBOCKPtDzM4AXTCM8kfHpMhla9fM34ukUMaVGO9o86z4jWd6pVyJgvFhRbYRUmmde89ryhMQGnNVFG-qfbH5cFgnArJWWC2jcxCOxSfjwr7BiSb7flmtbmiq4fh3cJVB3yEZcP1MSWYQVOEDLHiMHTvB3iq7kxcTimjfHFsjXScVpFbfB1pU8b5_mN4XiEIr5VM7kxIc4Wfq83gX9gLPlDjENAWgth1bC89lbciT_4pWKVHfwrw_Ale_n-oEh3OlxM3IMzIl3fYQZY-EwETnOLz0rthJA3-EwulI0V8bZg.jpg",
+      "image": "https://cdn5.telesco.pe/file/n5MHPX8LmJeECWF0DBgEo0sVigG6XLVQKi9Gwgx8mTx8lKtgUPZqNZoyt0P_EsyRbrVJC2AVZje19TBJ_r4_8ndtGccMuFYN78Asiv_YNHsruQ3otFFVwvosiMcOK8_tqGrQtXvqNi63yqqqgqsC5YJjvIiencJO_RhIeGP2stpI_NNyj4pSR-1SnfFGWdfK5-CmfrXX_RgriZmCke4FoSK-zIUdzulCHFdiU8PUgObuJnvpKE3sweyOrLDt-V2cwqwExSHmtn5QaQwnvYZ_bqvhfgTK-3G2IjMvl5_vRFtCfyBwo8HZWsoZoNeTzOnERFSQ9Vj58fCe9JuMSvvuQA.jpg",
       "bullets": [
         "➡️ $1 Whipped Cream Sando",
         "🕢 10am - 10pm",
@@ -1311,7 +1334,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🇫🇷 Ooh la la, we finally tried the legendary hot chocolate and more at Angelina Singapore – here’s our honest take.",
-      "image": "https://cdn5.telesco.pe/file/LCPhtVT56hjsZBK6OHz4bnLGXbDPF9Fmw_uG-J0qu2SGQGSSCaZLJqMEimnHFPJsllDMgj3L2J0mYmOr9Ajgct3vB9lMfa7QRYnXuBMzDspP5cIzK6GTXRm_uM0hxPJRioHbfEBufRzEGbGhUikwo2GzMFpXfIDm8ColfgqiEAo5oCWPYiWRyBbB7WTeysqirmVHbY-lcpfipEEksoi3Wdl9ahVLSyrxBT2wzhYJJKAdM9woK8VlJKQBeTlJ6Y6KRAM6320uUOU6uuDMGUUfdCGkLdmEihMyVrvgpVEQh0_zwoBQhThuYm51_sroJYRlun2mxZr2LK-WJLDmXtxVWg.jpg",
+      "image": "https://cdn5.telesco.pe/file/Uf2IpTljMo-7mTXbYasM0SSGVrVLPziTUGUGJCNKOmDYEe9Ogjek0m6usrohNB9Vs_w_BTZiJBa_Jh9ecCroeBpofYw7uk4Ycal10SXTES90wVHeAbkXUuvocIIqotXXjUWkMz26xry3sN4zAlGQSg1F-O7kIrSIQf9sYbz2pfIS3Km3eDq0rWD3w79aXFmmsLazaRMhbX96dQzW0VmSZRfSm5tQE9VLozT-bOGTx3PdJBf9VBuDiWLfGJ7xEZ4zRxvHxJSAihNbj0UqpK3WSIH0v8rqdoonBdglMOcw6nMp-xQ0G4gbSsm_YXDkqmbF1qKKvF7vAFRiad9oNn6dfg.jpg",
       "bullets": [
         "🥐 Read more: bit.ly/4sSTgG6"
       ],
@@ -1328,7 +1351,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "🇫🇷 Ooh la la, we finally tried the legendary hot chocolate and more at Angelina Singapore – here’s our honest take.",
-      "image": "https://cdn5.telesco.pe/file/LCPhtVT56hjsZBK6OHz4bnLGXbDPF9Fmw_uG-J0qu2SGQGSSCaZLJqMEimnHFPJsllDMgj3L2J0mYmOr9Ajgct3vB9lMfa7QRYnXuBMzDspP5cIzK6GTXRm_uM0hxPJRioHbfEBufRzEGbGhUikwo2GzMFpXfIDm8ColfgqiEAo5oCWPYiWRyBbB7WTeysqirmVHbY-lcpfipEEksoi3Wdl9ahVLSyrxBT2wzhYJJKAdM9woK8VlJKQBeTlJ6Y6KRAM6320uUOU6uuDMGUUfdCGkLdmEihMyVrvgpVEQh0_zwoBQhThuYm51_sroJYRlun2mxZr2LK-WJLDmXtxVWg.jpg",
+      "image": "https://cdn5.telesco.pe/file/Uf2IpTljMo-7mTXbYasM0SSGVrVLPziTUGUGJCNKOmDYEe9Ogjek0m6usrohNB9Vs_w_BTZiJBa_Jh9ecCroeBpofYw7uk4Ycal10SXTES90wVHeAbkXUuvocIIqotXXjUWkMz26xry3sN4zAlGQSg1F-O7kIrSIQf9sYbz2pfIS3Km3eDq0rWD3w79aXFmmsLazaRMhbX96dQzW0VmSZRfSm5tQE9VLozT-bOGTx3PdJBf9VBuDiWLfGJ7xEZ4zRxvHxJSAihNbj0UqpK3WSIH0v8rqdoonBdglMOcw6nMp-xQ0G4gbSsm_YXDkqmbF1qKKvF7vAFRiad9oNn6dfg.jpg",
       "bullets": [
         "🥐 Read more: bit.ly/4sSTgG6"
       ],
@@ -1345,7 +1368,7 @@
       "source": "@goodlobang",
       "category": "General",
       "title": "🌯 Subway 🌯",
-      "image": "https://cdn5.telesco.pe/file/jTx1PS8nUM6GeEDf4ysLgaefu4hyFU8dfv5fdKQQsM0BbUF-zc6p2aX_IEUP_jPGkj2ptZBzWKFZ5ZFIFlxYl8w2-iZlJE3pELw9JbAboacq0-K84tHdScrpJ4AMrAism-Ld5ELPpGKe4orkiNmGFKC2amPGZdA0DDxs1pxI8HK4Db5L33p8_ikUwuGi8GYR02K7jhxhkKeMn_kmq90MSq9l7V3aittN45WRwF5hPr2TCLAkw7cryn7jbI42EJc5WJbnRzcq8bBs3M_7dTt6AufMMYL-3TaeEYryud-ZyEishFHuUSpIhOixl-EG1L6xSAAx6kRyzkDH9p72Ro7sfg.jpg",
+      "image": "https://cdn5.telesco.pe/file/aiFGlDGC0oSdTEJm_6LBXW2WjwKj9oRfyuMNI5DrM1d7jd4wfDTULUOvRaBGUSp1bhEjz65-dB8iRdrG-QFtT0I0GLKnYBNgv_QNVJEVkBVYPUoeAvhXmevBs4C7uRYVCPohraa-eyjdH4QRSrLw2vDKF3EUv8UIWhiTIu7y0yDByZwGDnz35lGAqrGRsfsDj4bOp_TxSI8n8yiGDbZkRIjyqmu3GRVVOYPKh91zTzXhYu4H-ImC_Ha3E3Xv5HhTiNAOQfv7zuSMZvh0rdfQYkq0Wa4gLGR1nsZnQ8_RAjUlyMbgjg9L3Iqk4q2iScKCrv8zxR5FlQylifPN_qRoog.jpg",
       "bullets": [
         "➡️ FREE Breakfast Wrap with purchase of Breakfast Wrap & Coffee set",
         "❗️ While stocks last. T&Cs apply."
@@ -1363,7 +1386,7 @@
       "source": "@good2gosg",
       "category": "Pop-Ups",
       "title": "Super Mario Holiday Power-Up at VivoCity 🍄",
-      "image": "https://cdn5.telesco.pe/file/Fd4fKskQEeCRTv94gk8UtqayKsT3ZwD-Z2W-w5yUSKDFZ3VKg899h9B54bi8lwI7-XOPUD3oc1Iqo8k0NVoWGZjZ1wd-gLOJS44OjKd6zsk5zUOOyX_1nhJ2dHrjOT3xOoo-WEelbYlKfm3CRrP2KhbpUh5sJBFh5wkFJ3DHjLIGQIW1Vt9bcYrlxUzzUT1E31438z-MHqfSjFhOdzzlI859sJuObK2kQF9UGCXNmh_NFf_9vHQcXurboHOSEcQ_D137RPvQW3u4SCQH4C9kHLnlMC06AoP9ex5VidiFSTlZG-FUvvGNHWZ79Wf5FynjohgjqCjsEi91AT3lPGd3Nw.jpg",
+      "image": "https://cdn5.telesco.pe/file/Q11GQTqdWcVzmsRNImd80SkpcPZ_rL_MUs7bDCEOAh3dc2f0Ua3U2M_A77cG0omBaySEy9CfT-lfxTacix8ZtYXZmSxf98F9Z2bajtN6NJ7d1U1qTpvtt_d9uSoE1pqz85FHI_xBWl2pTjIwKhTMrq_UDjo_qvDIGswqmVdF0vGYklYDmazlXU3Mzv1t2DKE3NfinH7sLaby85rJCAzsW_vX5pWUaX9XYVwZJs2uPirtXj3mHVxBoK42N9THMoDgMqDZuUeY371Wdph1VOiFFsB-zjV_yWnaAQZDvyjCDcr3u1eTz6fjvaXHafHyQeOmq53p2KrPr0ZdwmYAYa_dyA.jpg",
       "bullets": [
         "➡️ 6 festive zones ft. 10m-tall Mario inflatable, nightly snow sessions, meet-and-greets with Mario & Luigi & more",
         "➡️ + Test out the latest demo games & participate in the Mario Kart World Challenge",
@@ -1382,7 +1405,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "💼 Clocked out, now what? Skip the rush home; here are after-work spots for good food, good drinks, and an easy wind-down.",
-      "image": "https://cdn5.telesco.pe/file/cVWE8LTB5yz3BezpmBKqGMTD74BhQ7FRW1uOtIBbEkSWsZ-lLe1xQjKpg1HaMND7jY4KDqudGiTfsLl63gKO4ERz5074hQVHqFYe0QDnyVU-IOfsaOQJwI8cfCeM9LrNJVm_ju340jsfgDeiRKt3izsuBAinMpxPDZFHsDksNKugy0cZFdzmT4NeuP07QQHZKOfQB5qGkh4WF53PPcPIpaN4s9AeqMHLbFDCKPIDbHPngPmcyWXgqAWdHMCjNgF5cOkJBrq6SFJVPlo-_HbQfT2AFpO_MBwWKhmP48ShcZv9LT-K4u-DeKTW0nnr3jkdzYVssMtiAlvCXr1XUdTPKA.jpg",
+      "image": "https://cdn5.telesco.pe/file/VWXQUudtYlwSkelv0RD30MohsZ_bu_bLJp7szs4tRl7IHeujavCk6yu9JTOgc6zb1AJwUyVpuZwWKTgGRbEHC8q_vjiXU0jRGrV3sJwJIRezCDFN7IIqhYCYMr3eI5Z4ArDQBLOirlgWDwAPEbyfmcydAgUNFYkRWWGguPJ6y540_aVuJavgPzx6_Yv_tQr-qZSPGPWFesCqkiSEEca1LfuviskPmwOqMeOfBCTzFNY-OUu9CGfIHcijD5WCepECDBQCYOYVhSRUqVhyHtvQ4IOP27XBrsXuiK2Fvxl8UBmBLAQayM6qUK6Bkr8vcdF1iBuGANDDqStwpZ8nzlIrpw.jpg",
       "bullets": [
         "🍸 Read more: bit.ly/4t4KncL"
       ],
@@ -1399,7 +1422,7 @@
       "source": "@confirmgood",
       "category": "General",
       "title": "💼 Clocked out, now what? Skip the rush home; here are after-work spots for good food, good drinks, and an easy wind-down.",
-      "image": "https://cdn5.telesco.pe/file/cVWE8LTB5yz3BezpmBKqGMTD74BhQ7FRW1uOtIBbEkSWsZ-lLe1xQjKpg1HaMND7jY4KDqudGiTfsLl63gKO4ERz5074hQVHqFYe0QDnyVU-IOfsaOQJwI8cfCeM9LrNJVm_ju340jsfgDeiRKt3izsuBAinMpxPDZFHsDksNKugy0cZFdzmT4NeuP07QQHZKOfQB5qGkh4WF53PPcPIpaN4s9AeqMHLbFDCKPIDbHPngPmcyWXgqAWdHMCjNgF5cOkJBrq6SFJVPlo-_HbQfT2AFpO_MBwWKhmP48ShcZv9LT-K4u-DeKTW0nnr3jkdzYVssMtiAlvCXr1XUdTPKA.jpg",
+      "image": "https://cdn5.telesco.pe/file/VWXQUudtYlwSkelv0RD30MohsZ_bu_bLJp7szs4tRl7IHeujavCk6yu9JTOgc6zb1AJwUyVpuZwWKTgGRbEHC8q_vjiXU0jRGrV3sJwJIRezCDFN7IIqhYCYMr3eI5Z4ArDQBLOirlgWDwAPEbyfmcydAgUNFYkRWWGguPJ6y540_aVuJavgPzx6_Yv_tQr-qZSPGPWFesCqkiSEEca1LfuviskPmwOqMeOfBCTzFNY-OUu9CGfIHcijD5WCepECDBQCYOYVhSRUqVhyHtvQ4IOP27XBrsXuiK2Fvxl8UBmBLAQayM6qUK6Bkr8vcdF1iBuGANDDqStwpZ8nzlIrpw.jpg",
       "bullets": [
         "🍸 Read more: bit.ly/4t4KncL"
       ],
@@ -1416,7 +1439,7 @@
       "source": "@good2gosg",
       "category": "Things2Do",
       "title": "Something Strange Festival 👽",
-      "image": "https://cdn5.telesco.pe/file/eqzygV5pbLqb44o1HZCjoFIOVvtNtmRUNPl_bSn1m_kQx9qtIJQygpAGR2t_B1iJRCR8xJwU1oRDuk3lhDhijYaoeEEhR0bPufp9aATchUwaZ74ZI3lzklwXxH5Hj6lhoo7XJMQZ_mC_aQb4yfLpXtmbvZgqEnogHRnfzDs3r1daJBXgvO5kYYROzdBCGJdTZEQIHNleYAxp_gjQb0hNqOpIOuivPUta116meYseEHAjU46hH29L2j9Pksgutwv131kFLvTBkwvfM0c-hBcTGaWWPTGN4SgyUgpgNE6fmjf0t6VpvG424mKSx_sdsDbhE-wh_IXgKbYcdlqBBhJeuQ.jpg",
+      "image": "https://cdn5.telesco.pe/file/e4dsDEZl-XqwqxU0f6b4BtAODvHyctmpM4li29bf6W-7EfqNV_4KMdh8uoEItx1bXtIzNAV5RJ_xc71oWYAxXwfG47HR64dY9nWjnoFP7CPSCcABAh_GEaewrnR20ntix0-EpVY3tx5xJOw1BGwWtEQfxDCU4BrXYveZ4QWhQskzqmjKJpFaPuLe0G2_cb61YWyrPNfj5X11yrTY17uvOIfRKKyHsOH2md86PTCFLe89uf0tG2GmacICOXXhFa36ZgSjdAdmGBwmojv8ERZvx-2IcxuMbgHKRYrfvRzlpnwX79s-rHpJCGxjbuF386Qmum6dYKymb3nocNIEk_yMcQ.jpg",
       "bullets": [
         "➡️ SG's first festival based around horror, mystery, folklore & all things unexplained",
         "➡️ Ft. a curiousity market, haunted heritage tours, live stage programmes & more",
@@ -1458,7 +1481,7 @@
       "source": "@goodlobang",
       "category": "General",
       "title": "🍕 Eat Pizza 🍕",
-      "image": "https://cdn5.telesco.pe/file/QPBcWqTJiiC2lSDwa4AWAyO8U-xpbq0mAnuNqkdjN7RJM1STMq3Gr_tgG49_Ofj2NSDjrggpdjCZ1aI-zfP-oF-IlfYDC5Cy-8BWE6-tEsBBKcWy-Av6MEE-XL31_otgBRd8rGEowI5DtSDrOCd4ejThzMiqXa59amcxbz25dWgyi2h5yEuh21_VouRYceH8l56NkaSliAfuX2cJANlYzjmWa9r6RaZYF-VHsZ0JZg0nJLn-lpbd2oaOz_uuc6CKNiTLzq0uSEKmOnsb1pvFU8JMC1BmPXq5kZL3BBNsgVWmG9ajArFR3DJXHOXh9ZH4o0Je6iHNTW3xpcvjJhRjdw.jpg",
+      "image": "https://cdn5.telesco.pe/file/VBFkK5uYOdh8BY4ugtkOsCg7BZyv6TIbhNwgLPSdBk4tsyUXj2xdFb0fpx2oWAULnGEySmc02uh0KD9J99XQjmmzO3IPErfS8C4vEJ3Q6EnuYqbct2yAgS-Z0qih0b_-s2ei5dOrcIB1OA4X__XAud28Xon2_kbMHOAFlXbZiaGyGXn4qlNOehWgo1275fPz3td7r1lzdZiButE6Yqh1n_DAK6zhJcB_c4N0AMGiIGUFxIOyHK2p1lMXWd-ugrIUSXqPmtQCQ1lw8ZJCqBpAlpzkAiUOTROJIb7gUgsGO14d0mxAkWjWKNQuPOt76ofnqOAn9TMgMx7oR1FffQ4Ruw.jpg",
       "bullets": [
         "➡️ $11 Pizza + Mac & Cheese (U.P. $15.80)",
         "➡️ Choose from any pizza & Gochujang or White Truffle Mac & Cheese"
@@ -1499,7 +1522,7 @@
       "source": "@goodlobang",
       "category": "General",
       "title": "🔥 Wisma Haidilao 🔥",
-      "image": "https://cdn5.telesco.pe/file/nrhKOPIt8aMGiiBh3sASY-ZFoK9qZz3r3-E_5yXDr7u5A8QZh_nhHmp5I1cq-fW3x3oF56tbi30QL4xWEGNTkKlVqL_XPcFheq2SHK4KyD6cWZCLlr1rngyPZjH3AqX8-zZIudkCbwmygCQ9Lygf2NDCb6m5tobPcwhV6fO_LUdw_6I1mzzPmHOIunae0k5LxS3kEfL-0PgxKYqNt2w6r4pfCaDPEAaaIjW_CoJrqQLtO97QhsUarC5PqOKvhD10Jgvmh729ht5OWJgdHIommw91pqNmRoSnpHuPT9vdRzekGXa6zXmfs1-rH-O48JpZyjfWupgwSGEO1OXefgzRPw.jpg",
+      "image": "https://cdn5.telesco.pe/file/pYTkkSJbFp_nR8Y196GZLsaTmJ6fP9Tzpe8ne7IFD19UCnHLzTCRSil9PFUyeMFYfiDDNDW_gjlDszmAktOVv7nXTFW_kUu8K1vgQr1ptAHcrLLE_HjHvcrrB-J1tzXnnftUcsIiNDX1Bt5mJjGAm92pnSU8LXd3wB3bgzZRWgrhlUxKBMKgEYO6GBXCtztf7EivyfjMbAbBwn87Zl6Q4hmyQzTZ4pR_Gzo4PLmK_EmwQ53SRuYs6vvykHV09ejzAY6WYHiumVeE3BxPNFOC6KEJ4s5Z0RjmNeSHZKW0kbdWByooGV1E32KpX_W-pEXZMRl6Vtye0TLjClSkvHyucQ.jpg",
       "bullets": [
         "➡️ 1-for-1 Shandong Pork Belly / Haidilao Beef",
         "➡️ $14++ Fresh Seafood incl. 1pc Female Chinese Mitten Crab & 6pc Fresh South African Abalone",
@@ -1518,7 +1541,7 @@
       "source": "@good2gosg",
       "category": "Pop-Ups",
       "title": "Tokyo’s Viral Mr. CHEESECAKE Lands in SG 🍰",
-      "image": "https://cdn5.telesco.pe/file/CiYTXoIwzAWi_guCUWlmisHMmdqIjWTB-uBjyFRvxiRVMo4GknjXoJOdre1BRA4RJMwbiB2budZhgMuIIHvoS5n1Qv9wRumZ8GlQ-NXP2U4MH2z4yBRe4ZKr7Gtc-6QdqjLxEi1zGYgdOlcIWKQpZBUab7EZWdkcbu4qo7opNS9hJv0ybYIJKIx0VhacImMchtkUMkDCTDjRM1B6G61JbN5Ik-fyVz6WxRw7THcS9QeN8tX2E33lpkWTlWS2uYT4rYPyiFgPogUI14eVOR9k9bmxM_nM82GN7eb4SXrGkt2o3Tg7hopwBGk9Qbo25A4mnS3riol7l-i8aNUwd0w-ow.jpg",
+      "image": "https://cdn5.telesco.pe/file/l00Dt_Wg5EN3FcToFXAB5_wZ6w6bBP997QQilDadlKpIkAiBJh5Xt67bq17L39FSjzJbEOMIrbxo1aWwsTS_UB4kSiyEOkV0e3-DMUUYwMU8nByLp42hFCvuApV-I8uwUYzxj-cckIkB5giuC-HJdQ_MeyteGaOETWTyBg3c9b-dAwABnD02N93gB6n323ltzB3__2SvMZAjgHQuuTWDLis-SgA-KaxSU9jfXruHv-zdenaOZdLNRxk8BWO-StE1jncAsBIZkw-5FQ_GrOS3f64_jc18k5GOJXd_Rnu6eWEEaSpa_yk3B7o_EtFPzwkrXnZaK6w-8Ds7FmL09qL8vA.jpg",
       "bullets": [
         "➡️ Founded by Michelin-starred chef Koji Tamura",
         "➡️ Cakes from $62 incl. Sakekasu Coconut, Matcha, Rich Tiramisu & more"
@@ -1536,7 +1559,7 @@
       "source": "@goodlobang",
       "category": "General",
       "title": "🎫 Ticketmaster 🎫",
-      "image": "https://cdn5.telesco.pe/file/FZ4r6w3RKjPrpZLOhth76w6FjTfksO7PvZcxpITSrZq69fxbaYTXXgt57i70PEjngp0s4UoIMByVRi-XdnH9_bDpUdRa_Xf78qtNbG5Z36R5yfIPZCX0fCv3PjoT1Yr8VSjy-lqrfYwYtfYjyRVr_sJTiay6jBQfBThLvSi16Gn8TcgQ3DRht0HFXKhQ0UvrlaZD9Z9Qu1K4YPeLRnaGsTjVOeJfAj2RYjWbzVE4R1T_vCXsP5Uy-j1gTxqMFTDM4IQ_DfZuHIlSPfB4_neWGivHzGNvtRk8L-ZjvMERPZ3qwTaufr2k3q2Gic-WFwV1UBoRo-G0P2OVCqBlf2h6Sg.jpg",
+      "image": "https://cdn5.telesco.pe/file/tKAgQsmrKpS3uN0O3uin_rRsqdqmG41VzlVvhJt4Obl5CjPZoebVS8WsIEWlRle2eZSLBGWBY164On_vD6dXX0zbXG15XUTwl8hc9_BHeqf71z09iOcl0nVcTFcUaBZuKL5czWnMYljKGlKnD7Hk5hr8QbVSWNvIKHbBl3JVfj5be7MtpKLBeUQUNLaoptFDo9bVQJ7sn_PTQkGPol3vEmhRWwH1CiHLsUgsw91Td1tRy_9esgWCz_YigJt5fi_WXwSI4bHpB0LI11SEyqGGXM7iin6mF319s6uWqQpi8cz1iXGnz0gGBxL8E6a8usvmeuBi7bumiGTgrNGB7rYCOA.jpg",
       "bullets": [
         "➡️ Up to 50% OFF Concert Tickets",
         "➡️ Incl. Maroon 5, Guns N' Roses, Joji & more",
@@ -1556,7 +1579,7 @@
       "source": "@good2gosg",
       "category": "Pop-Ups",
       "title": "Free Entry to Stacked Store Christmas Market 🎄",
-      "image": "https://cdn5.telesco.pe/file/DqgIhaSH-O0Mw9p1Xlz718Pdyq386PYAbxcqe9gDCWxy_PUi_rpsnfKTzIbphGQsop5PajNggGzh3E_O3gs4US21gSZORxbxl6hJQ4Sdx9EWRDOsesSOJvbQI4VvWyDLumVJdHFgQz3YSRCGrWSCme79XqW083eoY9qXvLaNMxJbZdGyZsPsK7ZQ92JcqBCp8RDXPnjtLu2fgwX2HXTT57PdA37K_y8Gt8NQBEUZJeeu23lqEt6BoF2SGMII5dgCj6bdCiMnelWqOjx5qNt04n8Q2jq39X7_K-_gUsI2TjXxq9yttk4u845XXuzaCBXaDfCAtfI4ogNTQ0AyJEVmCw.jpg",
+      "image": "https://cdn5.telesco.pe/file/LtOB0rD-joVviMyAbZm3aCQjYr4FVJj-q69zuPHx104wJ6NaHaNDfguBodOTwhxfrQlXQdzDGhWvOeIKxk3X5d5iflMWyVFtOxTu8jGFchI4Bppfrs2gAaX9XCpf940y9hQjsChJQ10de2QWXO8nWLVjcVTbUHAA9hb7nsNVus8rCp9ctyaMIcQ2KVBbczOMniVHFUvzcMdg3zGpH4KNdq9dwVa_aWLxDhsQ6PQRzfulwQduYtVlH3R5uNL4qLuNmyNjuZ52c7A1ZokzaE5C9jU404EPgKHQ4nF1_oYeDIcXnsKTq-QQuLBJpi5__S6LgjoOUbWacvH9yM2LXaHXOw.jpg",
       "bullets": [
         "➡️ Curated festive design market ft. 20+ independent local & regional brands",
         "➡️ Incl. handmade crafts, home goods, matcha & more"
@@ -1574,7 +1597,7 @@
       "source": "@goodlobang",
       "category": "General",
       "title": "🥳 11.11 Deals: Food 🍔",
-      "image": "https://cdn5.telesco.pe/file/ZSy4StXHZWjtRluC_V_KfWYGIc8gwwBTlouRKiMHI7h_NxDd4X_pfmL7YiGbT0_PYDesrjYnjbuqXPpc3Pmk8p4hUJVDnUeubnnKaIH1wPpUwu8knnqz2puUfcmmqE01HMCqIEKDbkWh1CyyzQuN_MWBvnSmRKBsPiow3ZnMbssXf3xMtRbSSvJ1b7DwmuIsHbzD8DaEvRR0DctB_3peyXHhFyApeNVWRbrz1OAVqmXnw20oYaFNDpaF5EKfnMF_mFKeEbF_zoHRrZDxfLSXbQKQAzi-oCDZtf_dbjhqhhcaPJBNh2qZoiIWi7tIc6x4Z4B2AJyfSse3pjBNXoYoaA.jpg",
+      "image": "https://cdn5.telesco.pe/file/WniYtzMUJRhd93nB94e_Y8zxjP18a1rDElPDY2iYv2yMOeCkq4-3VgxaQhRb-iv9pVz8dVEPMrqITdg7FOmLXY2Eh2UjSyQcKA1qIp6STxxfgRZDG98FKjLIr-VIJk2ZKbfH8dDqmssKZUv14iEgEnTyVsge4pXUrs9Mph9G6i0XFYhYyBY1bvE3MbwcLJ5ZgUVQ3BGQKs4MIt-ITYYszHiJQ_tBXVAvr1T1NF-dZkjSVSgRbzqzdx_AI-ZpzS8sPaA84md4U6Xtd5ayoftwqF5R7guwPndTldOen2Fu8jAPdZa_z1IoX8E6BrZl8a0T8dTSkKvjIkUunC8nKGMz-Q.jpg",
       "bullets": [
         "➡️ Burger King: 1-for-1 Whopper, Long Chicken, Iced MILO & more",
         "➡️ Dominos: $11 Large Pizza",
@@ -1596,7 +1619,7 @@
       "source": "@goodlobang",
       "category": "General",
       "title": "🛍️ PayLater by Grab x Lazada 🛍️",
-      "image": "https://cdn5.telesco.pe/file/FtaQmPYDaFIpj21Pm0FWc2LaRU4L6uJF6mpEqSwDhy6fxozQvf21W0DFQb4IfRZMy-LrTpO6Ocne1sFPoKhPTKjWZKeAU7cAQ_leE0kW35kdpr1pBfgBhxLM2J3IKCVES0ikyylVJaujCBJhEpbqOFAjr14G7XF77J3Ar4xcpGNngsTCMkRxRPlFvRmMxUOT3zExaIoBc5tWfuFgzbm0kxdlcWnhTIbVAFYeXtUveDB4lg_Njb6D6j0oOM4lDx8Mbp94LC18KsAG9UjFOBzuwjgdvs0F93H4hMDFqP4DGN4L-JF34QxFmHM6mB31lFVxN6DNgeDFpkk6nfVVeqASGw.jpg",
+      "image": "https://cdn5.telesco.pe/file/KZMbwHKFPI-G1p_KhiJW6uMEYDie7NJuG5zcC2Cc4eSYXDMaX9A18PgNb69i6FbUNMl4wUBiq0SrwdC1ka0F3X6IPiIY1FcnnMg8xJGpydjnwxWa--5rEFlHzXeh9exdQc-wcmmRzH_C_HirTN7EbEzXkJNpHL-3ExWjI_KGXlH4E9b-d8TjH6zRd6u14ZakE0fn9a_3PnSERn-gZy5p8jiI5F0GPhgcxut7SZvr2JBbL1GPgNiUklMNNUHvWUtmhqwGLhqCGmTOP-PtpjFPFThavWTFs_xCHjU_4sM3eMiOv2hQ3roW7ThDBY0-ok2_GCn_6GWnS5PPKXEuGNnBKQ.jpg",
       "bullets": [
         "➡️ Up to $100 OFF when you split your purchases with PayLater this 11.11!",
         "➡️ Get $15 OFF $250",
@@ -1616,7 +1639,7 @@
       "source": "@sgweekend",
       "category": "General",
       "title": "Experience Christmas Magic at The Christmas Atelier 2026 🎁",
-      "image": "https://cdn5.telesco.pe/file/Gjspd2kwHkvAb3G7veqSuoZgLjzLYof1dzF-QddukxqHvlSDUAlqnKYGKlHjNeGdXgtY066m8NRmZSiTXCuzxVbFimb01Zu3yTTwXYkFe6Pm124atyFnYdt6gPBAuZyCeGjWFFqES2gjc2EBk31xrZQOoUA7InBIQQ5Hu6CopEe6Nc3Fio1ZC_9vVvkzVpbhqX06zvgZMUNunvDSdJypdgMcH9yqkozrGUzSRGlf_oLlpnlc-WznQXFuvQLRdps5L7fXpc2EI2xWzF2Po8jd1pZI2i85fR5ee39BiXZAhMSQWkPCUNiSGCuzSibsr_lhfNIShsM4UCM7b9JMzJB_9A.jpg",
+      "image": "https://cdn5.telesco.pe/file/u7NSMQg43Y9rHAglIgB5y7nN4-2ER2JDmKhGHPtZZEGQyOVT5egqm5dp4qc-a8PEM2jCOVg6QnnAvDHpgFLkiMLa_1-ooVifurousyVV5k4JK7SWOdvVUD5VioZdDOLRXaGWZYd9e5BPPT8wjEt9aS1prw6X6x30rgneigmdr2mTdRsKGebmOZfxGXDA0AiT9LYwBhR8VIm0qi-QamqQZ4w2a_lO8Xq0Xif21Q7BSmfMvLwqj86zvMA_oq3us4-u4aWSlSo_UHQaaqicBrRad6NaPaHgoaaVW4TeVQydHMV_2sddNb-JPzndWB39vJdU6tLkQVJ5j1zsFV-6AAqgVw.jpg",
       "bullets": [
         "✨ Discover Singapore’s favourite holiday market with over 130 artisanal brands, bespoke gifts & gourmet treats",
         "✨ Expect popular brands like Cheeselads, Moom Health, Sweedy Cafesserie, Cheak, INGU & more",
@@ -1641,7 +1664,7 @@
       "source": "@good2gosg",
       "category": "Pop-Ups",
       "title": "The Christmas Atelier 2026  🎄",
-      "image": "https://cdn5.telesco.pe/file/joXT0A8PKxe-_ZE8Ov3zEP-qWiz4Zq_0NNPhqqYCqs-st7NKitpBVB9mdNV35en4cXu0ljdteMiU1FBZswJ9GwbT9KGsjPbT555bzHv7FnTHsJUtYPjIHyfr6oT7Ui7YtEqV9r7Va2Vl6NzKr_onUqUJzIdMkuG7PL2jEx9OR7fz_8KKPLXrED6C3sPhaS5VyAI7g1v04M8z71NIAYVsONvR0DCVVX_5GX_Spx_WFcxaxKYIIYwQYSwLLRp_me8cqHHbFF_77gGGPnwOy-OzFk605OrTfpE_gac6PGf--FNKBHWKIVZ9tNqO0GV4Z6_CNvEpg9aqkHtbQMS-fh981A.jpg",
+      "image": "https://cdn5.telesco.pe/file/tGY3Ve9Q1Uk-56cpEnEvgipBGO5mRIKNCfNIlwUSOqXAYSDv-FmgN8VHJAebpp_1aqDnogHPwOea0dGY-dHYC_Rl994_NGWFhXNLyU9s9stePm9vzZqD7Qi831WhYYh02kCACtI4YSSI_ykCrIaMeqvpaauHQYWrKEiGpQYkZAFgZ52qRvYVANzbf5exieHUj3QuauEmER5Al2oromFFfexUU4RkCoUfaf3Txk0HnsH999nV7iGQzqHO1aUsKnalzxt8lX33PaARip8kwWWhuc2K3cBwlr8yOVCuWD621QyWs5RPJ7-rkhAbI9pLZQbJS4XEDlst0vssH1hEODlMBQ.jpg",
       "bullets": [
         "➡️ Christmas market returns for its 8th edition ft. local & regional exhibitors",
         "➡️ Brands incl. Ingu, Hello Arigato, Cheru Crystals & more",
@@ -1660,7 +1683,7 @@
       "source": "@sgweekend",
       "category": "General",
       "title": "Visit NLB’s Snoopy Pop-Up Library 🐶",
-      "image": "https://cdn5.telesco.pe/file/IQGiJ5He14QOQ4xgRFtBZ6Mf1gef3TkHgzxHuZie-WxCDzwsPwMN4R4kAOTx7SQFsZ8zlACyNxBIQINkGNWL7JDu54i2-4Wd5Xj55ruwJP7VJHNAYRc8kCJ_efwcNDag7n1pIkjwhpltszMAimAY_Ya3k1xxxovUMXkhtD-fwmVG9J4oVafXo-EUCQI6gWa85qCtEq-wlry-Y1iAJtHzcsKJuuiwikasvylIFWgKu7uAYMZNTLgLQjzgltMJQ4Ws9zWAxGdfn-i2GgRoEqOAkNtDPG-_iN0H7DFyvzXF1-HiCiBBmVXrzsG2hy1I5Xoy9SZqWG322m9iH80FNMIQ5w.jpg",
+      "image": "https://cdn5.telesco.pe/file/FFjEiNf2SYNMpYBae20iYGK9RPzwhWm8UqkoHIeyWx-68m3WfPRmjS-FjL34upOXcZofkUaqSkgw2NtpumYD66fNt0m5xK9lJW_OR8HfcDXF2ytFQwUmwLwJyVocrzU86xgcYvwcPreJIpOTiNwaER4QvpSVgoyoO638YNM3hUwsR9JC7tqa32aWQpFOm7le3s72y05nk6D6wqDfRMYCifapypFBI798_sIsAODfyn_rbWjd1LYQzZphemVVelQ1-S7y8XGpcKZeCqXp75zbadREBE3gc12dZ6rPt-_rFF6wlv-Y0BV_QQidJBOrSKYFp9oualk1GyFmfG9Hv_IncA.jpg",
       "bullets": [
         "✨ Explore themed zones featuring Snoopy's Backyard, Charlie Brown's Classroom & more",
         "✨ Get book recommendations from Lucy’s iconic booth & browse through various Snoopy Comics",
@@ -1681,7 +1704,7 @@
       "source": "@good2gosg",
       "category": "Pop-Ups",
       "title": "FREE Entry To Public Garden Christmas 🎨",
-      "image": "https://cdn5.telesco.pe/file/RzvNOq0yRXXvf5XzFqsL9bj05IrgOUCm0KJJFbttEILlT37SIi4X7Sx1poBur-r8LBo-I0k9aa1KyA2bqIGPZJfa5h4oMcJKJnCR7gdeRE11FZ4GAOLhjJDlDlA88txvvKEY-QnfdFcTo6uvWLFJsTqslxh4w3Xcz89r0yBNUmWz78q-G2zN2KC1CKM7G-zQ8zxmCZyUu-96il0IhkcwtB0uPubfqoa7eNJqviJxcUf__4WgSpztt0LGpFWOzGQg4x-eaGLIWvFRoQT1POpkpbhnc3IFIE_uKyR6q-yQMU74TVCaQkWSeQ5laAGA87gJz9mHHu5Zt9b-AV-22Q9cJQ.jpg",
+      "image": "https://cdn5.telesco.pe/file/mKmAFJc714axrY-sXO_9hLZ8LtKrMR7lQusXGi7h8RM6-CIyZvYzQ5BwRo0TO1rGYWrAD-Haueicc4jgQyCh7yyv8FW21tJt1zyeqTpqTzAlDkHh-xoERxtJCgvlB4mcKoDQneU1rDtE4-SWw3ZWbng-TN3NIqVmPpdehIP0LBG11UriN-hjrqL8CfelF6wf0nezpP3Bk2HDlOA8Dy42PmKf1GObivYBl-M_u66vEGSpOPbcEzNyHkpLiD6lieHx_fxIWqzGbstyNnF1E071F-fMbmKWBxAtpPtPKoKZG9qChourUj3Atvnh09VL9GtreuYZBd8YtvS4EVy1RvAxLw.jpg",
       "bullets": [
         "➡️ Ft. independent local & regional brands",
         "➡️ Incl. handcrafted trinkets, accessories, stationery & more"
@@ -1699,7 +1722,7 @@
       "source": "@sgweekend",
       "category": "General",
       "title": "Visit a Live Turtle & Tortoise Museum 🐢",
-      "image": "https://cdn5.telesco.pe/file/o0_nXXuXXeD3BqPJ1LxidZX7ES_wf5RmeBPmmZTsAfPo0n8npaBNBltAW5gB0gNQFV7THZl3rDzXP3ZZs-fyPBiF3x4pWo0sFA1NFS2bUElYno7U9OLMBGKOGv-Xafku2iv6Do6CZakCLNYZKu1ckIWA3B5xcerEw_E8cSnxS3kfm8vytcVCSzXUpA4AZOc5dsnFMkihoVG87yjFjP1uA4h3pQuGIH6SmGnuLedCcUgKONGyFd8g2LiV-C_qlP0ybICdmswiecGh3kRU0-sklKRHnNbrTMflY10yDLp5XZRKTsjf3kfrfg1iq2ttdJ69gjdoJbTvOx1AF2DZ-cbIBA.jpg",
+      "image": "https://cdn5.telesco.pe/file/BHCeuuz8P3ejVG7CFzuUYN0AgmtrPh5gaLWa5x85UVnpSEj_piSoS-L4yLO76U2tb-tZWiEdgxLa7_o3PjPzUSoBx8WMyMYJdRwdOcVHs0NgCX8S_slkrQ52pXfYEDFQtNSR3sr-3LXSH1s1I1088yvu8u-0uHmjKY91dc9QriIVsSc3m34n-jSooR9l6wpWNP_aLwnwcdSlh5RLNN5FuEKBXDyCWDvMReTldWcxXZtkjKgwzHykGTAOq2VLcwmr83eaZpVs3o4WATEao2B4uPe4HPdGDk0bJ_q6I20Ck_0j1nXlGXMMcYwO_GOFN549ZAfRikv9S2Ept7FVCcQIKg.jpg",
       "bullets": [
         "✨ Get up close & interact with over 600 live turtles & tortoises in tanks or ponds",
         "✨ Feed the turtles & discover exotic species like Pig-Nosed Turtles, African Spurred Tortoises & more",
@@ -1721,7 +1744,7 @@
       "source": "@sgweekend",
       "category": "General",
       "title": "Museum of Ice Cream: 1-for-1 Premium Admission 🍦",
-      "image": "https://cdn5.telesco.pe/file/kebdcila8VoiUWeGmrOtvRNSXajhW_Bk_MAuHNGuf-20ubgrP0PxpdPzaQTfVOLOFY5z_B4muXISdfKRVJWp6_hFEpcBASbkQVJf-t9RXSV3tH285IoPVvrxlVYE7HI9EL6NfY8gM90605oQywjigXpcnh0FyJ2Dbrkj7dKhKBK6p759TPqHCch2dA5pkQIwzImgCvfBgk3uSFS2OGZ8hydiN2gEw61tZcq4mJe43Lz3cYrf1PfNOrZ2zbb9gXEmzAcQCkU11OCyxRKYiu8JTyZaf3gJ4A6du4CWi0jKCWz0zoBvRrXp_ePOJXknPA7t6e5MGZMtdXX79FhGCuPwYg.jpg",
+      "image": "https://cdn5.telesco.pe/file/hBHJpqI21-yCebVz2bg8NHl0r2DNUT_leUQuuGb3R2YUIRgAcYf2k43134GAekXHgq9ldGIVC0Jqf28R3c7IC0xT8M_DummIHU-cfbR5pNGQELpQEIcTt6nvQhz4YFzM4wfH5DYiIERrvgS9dAw_Rx4F5achkyJ-t9pYb_5zdcpPTvTqn1aVHbX5AxdSeeRPe9HIgu4paf66v7VgdusDZVUHbc_g-IgxvrIVKs6B5EonSpA67DPJ620NtxPMT027rInO8CjLIfJ542xuENRZGNnQkTvSpoH_Ta4VV34YHfnVxbywoOlinzffgBuVP35R_OhWdf5JT-7bCiOEQgktqQ.jpg",
       "bullets": [
         "✨ Expect unlimited ice cream across 5 dessert stations, 14 interactive play spaces, freebies & more",
         "✨ Simply apply the exclusive promo code from MOIC's IG when booking online to redeem",
@@ -1741,7 +1764,7 @@
       "source": "@sgweekend",
       "category": "General",
       "title": "Free entry to PokeXciting Pokemon Takeover ⚡️",
-      "image": "https://cdn5.telesco.pe/file/ddZ_RBpf79o-PSY1LsvYJ0va6Zly3cVYpn_I2BJPS4FvSrS1jYxNu5ZkY7B9to-XGYMupu3WuH2bs4n7bPRI7Ay6-I1McWq_Ry7KE2J5-Ls_Y7V1z56SoiSvQrwPuB33YJRZ4zsEzF0fDVI-nx27EsxY7S2FNee40PcQ_D2c7N0RTgF51CHVoUmsCAg6bx6iUKen8TvysFoydeCmgb7AL8ygGDT2_IrajPMDaMppqpfSSSc6k8HvAvcR3fY_-pKV--O0dfhC0TJKL5SEb-aW45EogkwqpEWHrOjPNZcRn6_y2b9idOYB6Ye0feZDM_ebIB-wXBbmzge6JlUUjVHfww.jpg",
+      "image": "https://cdn5.telesco.pe/file/G8XCR1WOw2ktlqVePmyTRBAdaK4RbaA6eeDMAtSDFpmTW7yoI49n_IiLRORrCAxiVI-cxGnD_r3WmJQ71oJcKGiad6KmUDnzRh4pNtH7pHA7hg5jjljaQZtxjNgOn5H0KBDMXJ_kfmbXVAFMoGKU8B02n-FXVdiUZ35wN3x1Vdy7WPs8b-MNSmIvJSIEReq7Y6Sb0Puyij94NhtDS3RB587SDLP963IJjgmuNQtJO3uOCDkr6dWMkTaAo8nH9Te-e8iS7wrRDYwfDt_FfvcHXi_S67TlFgo2qhZojtQLN6j7E58ngW149wo7aUbXQKmKjWmRmCYCK88bBNpMvTj5BQ.jpg",
       "bullets": [
         "✨ Catch all 27 starter Pokemon mascots in a massive parade marching around Jewel’s Forest Valley",
         "✨ Get moving with a high-energy EDM Pikachu Special Night Show",
@@ -1763,7 +1786,7 @@
       "source": "@sgweekend",
       "category": "General",
       "title": "Free entry to an Interactive Sound Experience at Sonos Pop-up 🎵",
-      "image": "https://cdn5.telesco.pe/file/F9sLrsOrGYdeAq8jScJ670TCo9Ky2w0LsV3Ss2viXS4jxjHcqhy3aQKjfSomtz3k5fm9d0nzb7FnantBxcfS6rMt6le3099h3mXsfreuk0AcmP4rLJUu4sYLhljiYQKS8ItYD821iOrVbFMwyTfiE9_phWG9xQv-7jBrGBrccnLVs3P-AxBTwdrg8ijMZnbcxRPr2ImHgtphxpFcAGKhbV6brJp-K6wqss11YMVJaihiE1OOVnOEtkkP7Dr3ZtqlgapKwfzB4U-OWkVnDeuHu30Ospsq-pIZJpAjG388L-qSEfSuS5POqonIBje9wAu6lWIx_UNphuyw9zQ0YmQ-4Q.jpg",
+      "image": "https://cdn5.telesco.pe/file/urky6Be4H35pJ04SMViSCX9WcOl0SSCETizggcPiVGdKr3yxjv_4yevF7jYjX4e-f3Z-bWCQjXzoPsrNKKN5ikNKVUtdcntj4O9BW_NuYefqY19zD-UEdQkPuGQ4SVDz8sjyR1ixCweHW6p3ILiEZVDmzBDSadBKCg8gWcLUGqTCDeKYHN5pGzneyZMURg0NighRyz3r_GTLr39CQ87uKoXoUPmn1VlTJcc9_8bFQX1jswPoxgFIshsYo5BgeQgSPiCQ510lRXyB3mylCqsyrPN4gMwRuFY5WwdCAc2J702LpF-C_eusior-6fMsPRarCnD88LsmvgZU0P0OI1no9g.jpg",
       "bullets": [
         "✨ Discover the full line-up & rich sound quality of Sonos speakers, headphones & more",
         "✨ Take a free music personality quiz & find speakers matched to your tastes, plus a free Sodaly drink",
@@ -1784,33 +1807,10 @@
       "posted_at": "2026-11-07T10:01:02+00:00"
     },
     {
-      "source": "@sgweekend",
-      "category": "General",
-      "title": "Win free flights to Korea at YouTrip's Jkook Lookalike Contest 👬",
-      "image": "https://cdn5.telesco.pe/file/hYF0f6V868i5rM5yH-akyneB7ch5xb7RKQo-eWpDbcmE43QBQPLCX6Hxu36czSTs-CPOKY1quWPcdj9EkcqPljutZAxwa8aprc1xgDWaaAG3mbOhBZlK8z15Kz4YecjhUygzodVq14Wz6vE3ONhxU0Wo4rV0foPoCAjME4AvtlhZ-B0Pl_04lTeV38NnQ1FhaUpn_RM_I22_EUkFZuxuz4IqAxs8KRazqDCMbR-oEGuSIf4P8Fel6yn-51DPVufGjQYqSM81gTmzFg3AEBtglaTCiiCmzW6DUxtJjEDZWC_Os56PHE44lGuBvk3kVB8Ww5xhliA_JeiSuE4BvjypNA.jpg",
-      "bullets": [
-        "✨ Enjoy free food & drinks while watching the top 10 Jkook lookalikes battle it out live",
-        "✨ On top of a  K-Pop trivia, stand to win free flights to Korea in the lucky draw",
-        "✨ Featuring an after-party with a DJ spinning your favourite K-Pop hits",
-        "📅 12 Nov (Thu)",
-        "⏰ Event: 8PM - 10PM",
-        "⏰ Afterparty: 10PM - 1AM",
-        "RSVP here: tco.sg/youtripjkxsgwp"
-      ],
-      "date": "",
-      "time": "",
-      "location": "Blu Jaz Cafe, Clarke Quay",
-      "is_free": true,
-      "is_weekend": true,
-      "post_url": "https://t.me/sgweekend/3867",
-      "external_link": "",
-      "posted_at": "2026-11-07T04:01:10+00:00"
-    },
-    {
       "source": "@good2gosg",
       "category": "Things2Do",
       "title": "FREE Gifts at Sony Days Roadshow 🎁",
-      "image": "https://cdn5.telesco.pe/file/Le_yejGnIWrigYWs81Y73xyW0TLkwScZ46dzuINnjoxi9eO4g5WC1jzOqCBT6wMD2TTU0rYsDTuyDDPNXKTBO31bEeUhTJWwfIc8vDFowTyukyqVJYaO58xXSrGVHfGFWqC1RM41hcozRac5rYLyNOXysW65346L47Euw6TwmP7_Ss8dIRWW57R8J4dH7fIWUndcNeFg4ryacJP65Hqi61FvBUdtfLOdifb9w2fnA_9RX99DdE0x3MdmmakdRDptP04zNNq7VwjskgylIUdDp-YWfEoI0w-_Rx-BTw3_cbPT6qsCFEr7LLpae0YqOeyqYLMic1V3Bg3VOA64mm6efw.jpg",
+      "image": "https://cdn5.telesco.pe/file/P16JhlUZvLG_qAKRBdccJCrj1yKagPi-qU2qqzUNBmm68vxOBOltINcj5G8RGe_E9Zsps0_UlnxokC8dgDeqpACM5ubHDXOU-l2SIhfyrhYrfnnIrN8C2Ptbrs7PlkGZ51w4ReEgnYNLP-D1-WDjlvmFiK-mg1jW4_Af0ax5G08aa5dLM0wRWjoQ-_99NgfgGW3Z5vrPcNtn4ISTx4yOZN0kL2ZmS3MDxKeaOUbuidsMNafMe4-aUYqJw6cUpqAJLDvhPzNXZRcqRX5OE04gYbPAjHk6KHOzMKyQF__DdkU0fhCgvTFFVyTXZTKJGEmoOuAt44alM0VEobx3j3SmtQ.jpg",
       "bullets": [
         "➡️ Sign up for a FREE My Sony Rewards membership & spin the Gashapon to redeem a FREE gift (no purchase needed)",
         "➡️ + exclusive festive discounts & deals across your favourite Sony gadgets"
@@ -1828,7 +1828,7 @@
       "source": "@good2gosg",
       "category": "Places2Go",
       "title": "30 Years of Pokémon at Jewel & Changi Airport ⚡",
-      "image": "https://cdn5.telesco.pe/file/roqzR4kX4rtbdrTa7UOPZmd6iASt4ULB9WtNkWFZQS3iQUGt85qj_26oWk8L6Z2UBkl7hoCS8nyQvqI7AppqlHEwiXQWb-3VCQ3OUGuBxaEnbYNgOIL_9BMxBkmtmu4wvcyK8uIc7d2PGcL1Fw-yfgekFLnx-86UKCSAi9sL4U8YgW9aU4JmiCAsMjkdpqal_01RK83mP1_KClnrc1UNi0Gl2OUkC5SCTdJe_vnckLe0pHXhHpzn3WPHP7KkBpfu1pki4LM0v8zMugdnsHgpOPLOEr4uVu9625jkvRsPFMOItHqOgRzrPuplqi3YFJvpZFLvGhQhXJ1HHzdn27iPJw.jpg",
+      "image": "https://cdn5.telesco.pe/file/OHkLybvtVwsD6E6cixx2F0CbgaZ36WwcSZq3-D52c3hzGrzn1fZsEjoZ-R0GfKJjw9Kzb6tz3zp5xtS8X1MlNqDJfmLZ3c9UleoygXePIcYqSCQluA1GhzlgdAHBqjVLCZZ378f00OpCx-TmWCczD2L1I9Yx1Q_Irl0DOGiNmpmUy9Vqe_hqZjN4VN5LDjdRDvPekDDFn-CsRdwd0Jvi5BAfDf1kFGq_4dRton8GGt5WmOrDti8myxj7rXSngvIZCPBMag8C5hmjL4N-SCBjtQLLjM2Pzo5VACVbYFZ3o6yHWJXtG0QIWwCyYBqRSKEhmTPLXks8t9TL9RhR73irpg.jpg",
       "bullets": [
         "➡️ PokéXciting! lands in SG ft. meet & greets, exclusive merch, FREE card fun packs & more",
         "➡️ Incl. this weekend-only events like Pokémon Parade, SG-only merch releases & a Pikachu EDM party",
@@ -1847,7 +1847,7 @@
       "source": "@good2gosg",
       "category": "Things2Do",
       "title": "FREE Entry to Defence Collective Festival 2026 🇸🇬",
-      "image": "https://cdn5.telesco.pe/file/Q5MWatt7XQ8BvkHsTOIEV1xx9IsaNFIkNz0Cu8OqFUV2e9QMmMJC6vlTUAtXeMH_RBYXNx5_AbtpE9VpF5_u5m7LspNPMlch3qJB4cgLym5gpDY9B4xvXMGLyiiX41HRlJiCmm7yy1Z6A5AveBC6Ko-cpv-Aa-8pq6AFCR-DYemrQm2eR80Erl7W4xI8d24CTWQ_mr3lGl99adjAxDxSUtD_tPagd6oO2ZDpwy5LVhfLSiniZJfXDkWI1m5MjuPALvz7_e7GsXd_H2YM44DqxHChubpk858FG8GG-OGoWEIynBKH4TW4eGkwtKJR-C18loV7Lo9lcSIkN_eLQHV4Tg.jpg",
+      "image": "https://cdn5.telesco.pe/file/YqroI_MqOwG5s_K5CPA0bt0ydNL8894mejQdSsX6yf88b3gloe4DSrtKumBWDG80W3bBUIStKMjCaSI0lu4H6k_hD0S_QE4cL5RhN_eDhmPAetEfEa1QHmLjN6KTNLWleEIBULPFhCzIZ9CR-jFTsW4zWi5rEJiA3yp49vfultJbly82gNHojPKqd3_3hlTgxeKtoko28Y_oMxf3G3UlpfqL8UkE6ROq50X7WRklN_IimuNtleJU8D8Rj12jZ2gDxnia2wddtYIcSVDg4DuV-57i5hUFcEHe9S0LwjKUmuM7GejRt3P4-QhCcVqIbl0YSBcGifLLhCk0VZreefbnUQ.jpg",
       "bullets": [
         "➡️ The festival returns for its 2nd edition with a weekend of family activities",
         "➡️ Explore gallery experiences, creative crafts & team challenges inspired by SG's land, sea & skies",
@@ -1867,7 +1867,7 @@
       "source": "@good2gosg",
       "category": "Things2Do",
       "title": "FREE Entry to Singapore Coffee Week ☕️",
-      "image": "https://cdn5.telesco.pe/file/HP-hGU2lsRZ41vbfbtEnaAb6QBnCxQY3vaA8QbxJZpPvSeGYvMh-eEidAhR0rbbvKdy9PfzbVPhf00JdqtZOp6YZWnrCkhUHxNYrXvaja5a_999g-S2m-Yd_T1gKCYI61jboXCtZzieAT_DGND_p6ZyIjLn7upzqKNbg64LDtl_PF7Ngiyx1S-4qNyoBYe1sJlKtyRrSZs1nfXqoZ8JzhkhdnB3anon6bUATghWtYBlDYEHFPp1gdx6gaHEbeREY-enH3ocnP9T0HWcqjtiMO0jghrmddGGzopJ7pnMj15bPIEfFbReX1XzTR5vpWJr7RaqRQ8Q4Mqzqw6vj1jJI2A.jpg",
+      "image": "https://cdn5.telesco.pe/file/evJiQ8NNVUzaZF0aA5X5OFYm29hJwEv1jO3pToLa8iG87HjjrnIArF7SXK2VQ69WCYROitXz_rui--7F8ti0VfuT3gzL_XiKCcEB6HHcp1RGbl_oE1IL9vab8Yal-l1ziIRDBmgnYphlbgw6aVHpnTeCS6p48ZEx9zHLKgYwkGSaIf4h-iQxYoLwcNjB-xTmLwu8xehJc4iLNuz5cgpFqjl-6Pxdyv8mCh_StEG5aYzqJl2rbIUGmdr9zCPwGoHHzd9FZ9NltwvKjzCDHv5ll9hFDwiYbb4k1nWObY88jURRvcygRx1mjHC5FDfTCRB6Yylx2wE16QAFuLHCyb4PzQ.jpg",
       "bullets": [
         "➡️ 50+ exhibitors ft. FREE coffee, Bean Discovery Bar, Golden Bean Hunt & more"
       ],
@@ -1884,7 +1884,7 @@
       "source": "@good2gosg",
       "category": "New",
       "title": "Disney's Frozen in Concert ❄️",
-      "image": "https://cdn5.telesco.pe/file/jD9Yo7-5R5Dm4RJqjzfDTX3pCbPXvugWRa3h23KtOyRD9G4bWxaFyAU8PD4Iqlh6Z7Xr_B6tg4BJnHUyTQEgc34tITJtesmZL5tVyvbRlvvuasNot98uLeIwZMbK2RROP47R_MQTgr5QcCah1B9Zl2GUM02RXEJpL4OhbaOrGXNG1zv2NnXIn4Z1UKSxDnMT78w9QuC_c0Xwn2tbTIs7zlpqe5x4lxeAdwRx0LZt3a-5-KbwdtckpPZMq9YBTTqcPxQ2w18yAJxauIxGGdlFamaE51bmj35w94XXO93oANyUqgla0lqcSrxFjh9VKcEIl_DCXDHKahArsOvGZpO99w.jpg",
+      "image": "https://cdn5.telesco.pe/file/OmKNXgzIysSu6nJtSIgUGsFqJbc1Gm437oz6YDANnwx3mHEjCoMF8Elbg70EmknMvs1oKi58ftz8EroE9DHB-D6m8ebeP9J4PKQLzsFDr20OZ_hF7IO9AauEOQGI5aWbitheMzTj_Np7mtcOUZgwV9_cig9n6jL4LXCDT9MuOQUwxCgEJBBqABPYkHTWZn8YRG9Z8AxF9EO0ZXCxIcGhvmpy0t5RZtE_Fzly1ggmwNfq06NBkG2JNarrkdANOWZMSdNXrAzM93So4fnXUiwWgBMA9zPAd2ITgvlVR_9XbxrmhQ41DsqN1bF8u5eUEOIHySfSg8rM-xNXGgpdypI0jg.jpg",
       "bullets": [
         "➡️ Movie screening with live orchestral score performed by Orchestra of the Music Makers",
         "➡️ Incl. “Let It Go”, “Do You Want to Build a Snowman?”, “For the First Time in Forever” & more",
@@ -1948,7 +1948,7 @@
       "source": "@thewackyduo",
       "category": "General",
       "title": "COE Sept  2022 2nd Bidding",
-      "image": "https://cdn5.telesco.pe/file/DGU5Cx8IPB6cagCHXzhrbntEehj5ee8iSEBch0LdrYav2yGD0tMdJArUVqytKIc7x_kD86GL2z3NBGbq_hzWrvvL53VWanvg5ykLx_K9ts9uquBZbAjNyMCo_L46uawPkLPNIB3V2OzGEdARJQi4o96OoZBLsbhoJx4VLnCCp_JBhPvIVOgHcfDwcDCLhPBcr6Ig4sj-du-5Fr0t_UQY5KsoRlfrO7Zyhsa6821__TacwpEswlvCV7kHyM4zWQxVKUwxiIp-9VhZq1k5fmbdkmPRsV6WK0nKcXNv7umBEIeB04JYdnoIWt8dd89rGRRjkVne1pn6q-mke3d5aZa5kg.jpg",
+      "image": "https://cdn5.telesco.pe/file/qqc9GxmUc14DIXlNgmT-HwbCzyAWUXREn0jhG9IAB0FKiSPEyaTxES5QcVkA5-cbUcZ805ezNxkmqCGNEYoZSCn1XMAI_o_61AjkEM1LeZfd9dUn5xCQFxeOI1Tt4zxMUDLYOp8q5DCuY_p6qY4R-8FS9q6JIsabbkC5adPLXMSU7bDpksW_ZpyOwO9rYozBT0no2uhw1exSbehS_BQwNYDXnoYYpF_PSB1wN7maTErb2GB2TMDTLzWWMDIveNEYEIFsT79OxsxPezgteAmjvBqnU5GgOWvbBx1Ni2MLYYu55zDeUQSk51gQY0y3uRNNyR8UhRI-O-t4TiWWiXfwAA.jpg",
       "bullets": [],
       "date": "",
       "time": "",
@@ -1978,7 +1978,7 @@
       "source": "@thewackyduo",
       "category": "General",
       "title": "Singapore Athletics to watch for Asian Games https://www.thewackyduo.com/2023/09/singapore-athletics-to-watch-in-asian-games-hangzhou-2023.html",
-      "image": "https://cdn5.telesco.pe/file/vG6x-wvHZi6dRumLXZZ3vC7BFIReFx3ClBA8uZMSfiBheQx-LYX-YjHcOFu4hom7Pm5J11HtFT8TJc-_L3g7qXOcqjphfZnYLJKbDLmTV4nTaS_kdFm5Ir9AUbajQ6PGGZiomoGEOecZ6wN6tMQ9-eTtI0RWHP9zTvCbRlf-x5QQT6UE_wJTVF3q3fOsHBf0mGUpZ5r6eD3jlmH30BnLAvPrIUguHL7Sz-RiktaBguSAtReQAOu4QhojV2SgpCWZxLuH7OnbfazOJqpwLn65pUoP4OlF6yXb7tA6Q4dGCWOdQ2BoeMjO7NaYGq7qq2Fb-FXkrUpYSc2nmVB12CG7lQ.jpg",
+      "image": "https://cdn5.telesco.pe/file/i1Ys3EeHsxEoIn6FxCVtfny_Fb5ue-yGV2k8SRKDALY1qKOS5obBbx4HrhxUbgGv_uY6BWci4zn6bIS29tFJtnJNX8lD1aCzWMrwgS4VPLZgk1mIi3QU8fwQZWppLOgSuTGwk9t2BJagN03OXA4rYR_Cdjr0nnCTPgWXkxGV7dLEGBbXU7UNHBQwlOonRC5qbRGfEsDnKw0XLDCDfabnzG1cm4lxKNSlCbHGq_tRgssetObz0l7TEc_So38try2bqpwQ7mHFYGMtv78osoSuZ7Ps9nKNPxGIpDTsiNePijySCWf7D5z8vmibpbwd-iRCjnY4XmIak02wWTQ9m66N-Q.jpg",
       "bullets": [],
       "date": "",
       "time": "",
@@ -1993,7 +1993,7 @@
       "source": "@thewackyduo",
       "category": "General",
       "title": "McDonald's deals this week https://www.thewackyduo.com/2023/09/mcdonalds-deals-for-this-week-18-22-sep.html",
-      "image": "https://cdn5.telesco.pe/file/v9GgW2S5VaVK-QcFF2Ti2fHgm555jNS4BJhOkHm1tKQ-ZLnx72XARkYWdb2NIouf9kRF6m64OFOwp19vlH5TuqP7R03MBAXDaFxfXleBCNyLxbvwqfkMToJjAhA5POVBjMUg11COYc519v6HeDalDBMG4ylOmwvTQKIIs8RcTeU-PnyBT9OAOGys0_o1Wg9DWZKEmmwINp0eQ7TVpQqIuZLZB7xiWK1cJLER3xZQLnTTPXgLhywsKqRV8Sq7D_m7CZ3QP8NOCvM53Mm2PWV7eJmijuwkCQstdda7X9jsvy5AYYDbqBD0AAErWmnMEXBLJaNkSd0gSmRKnAF5L9kGBA.jpg",
+      "image": "https://cdn5.telesco.pe/file/SWABF97jJFUXcpCQByvJaU2dOfJaWamzc5lyvTMbQdCpwYLe258UqDDN2YZX4jgiLQnfDqBdvA7xpjlRHAk-T62CmqQEPi9aE1Zpsq6GhOW1giCbQ4SSykVCsuz1t0Y8h_RVqCQ03ZO6wtve-KzGDX2kFjsVwTKgvQlaHCAFvx_MfhdtsmhA9-UcaUZAszBJ0agEWVf3SlTLOE1A2COk6Lwb2HfZ_uomz74rNORDqXZuhdcdtFHWaZ-Lyrgwpxp7GR1qOIzQ112mCl1CAvG6joCHywBBFbc0TMqKjytSKYFwM6mttuKzpQIBEkC4lxR669_Y0zr3TGAw2G-jcdRqSg.jpg",
       "bullets": [],
       "date": "",
       "time": "",
@@ -2008,7 +2008,7 @@
       "source": "@thewackyduo",
       "category": "General",
       "title": "iPhone 15 prices singaproe https://www.thewackyduo.com/2023/09/iphone-15-prices-singapore.html",
-      "image": "https://cdn5.telesco.pe/file/tGlQWhgPoKznfO8y5fbY8oGkh3kiBVTF2c_BpeNvU7yuhQKvLKMkB0ljd4MrPdofNLNuuFeHFSk-IYO3SIoudloNS-vTeXWP3i35WMpXKe66FAldozubR-83H3RwSbJnW_SeCinzeGE_dO4YZxAoMPYVZhR1ejr3ETojjhkAjbpGLwjK4MBkcax6DNCMnvNdZmbYOYOdyP6JaP-q7xiL_5jd3mPg1SYzaiFFC8MeLRYVi3UonB9Z_Up52MKC9fGAbz3YJ_cMoQQmBTtveXgLHrZ0om6jK0XzoLkBSSHOxKNXc1QRPgT54TPD6skdAIaP2BfZaMMDHKAojc2EEppd5A.jpg",
+      "image": "https://cdn5.telesco.pe/file/ng1MXgGjpzOWfat2K51Q1P4j1B7ryu_EaeyE74TlZw3yuNFTcqiYh1IhPGdAacEMYX8QTAmnSKtxjWey2Ks6MQGkgNEv6kufmmSjwzvX8dfFVQH08zeQy9odvu6p3e9wWY1omyBjXuzlVg2cJZPjMNNIiZfEiZIRFyEPPtfm2ceQPCTr55zVpJeLCB_3Owre7I-bJ1ZDKj5kFNoGOwM5isMtyUohUwGLTPFm1Ae8XUyxN75iuKKSO2aljWPiB0LcGR8bX5RTp_DjHhB4iMrKSggWYTKwMKySzqzqdz3oO65gQlHn5mPGLlJsBeY0zgHBI3AAExqn0_gmCNsrS8J4nw.jpg",
       "bullets": [],
       "date": "",
       "time": "",
@@ -2023,7 +2023,7 @@
       "source": "@thewackyduo",
       "category": "General",
       "title": "SQ Promo Fares for 2023/2024 https://www.thewackyduo.com/2023/09/sia-promo-fares-2023-2024-from-168.html",
-      "image": "https://cdn5.telesco.pe/file/QOl-6fus-ZaYqSj0FotKKmY0508yJqKHnMjjnD305CRT993cjLkCzYT7-ozLFf7BAt6OUsEDtWktH-QcL6GP64gQf2NXYx5MZK33CEqYupYU8UAIkcem_PYvFoWhnv3pRGYcrW9OBK41bWDKVPNyR_olvfG_b5wCw6nXPJFA7RqxE4KWHo2ILTFzMzJitjBi-FcmE_ruFh8Rh-QszUbvUhnq6k_HD00iWaUd3nZZgLW9exmEGXZtYrIjt_9ujeLRW2sylaAQXbfRyY-7p3e3kQJxdIHMIrwXT98lPFR-PoYPdDcyvHqiTagbP9D71R-MaUK1DFibjgxexJzeUUXzqQ.jpg",
+      "image": "https://cdn5.telesco.pe/file/f3l_7mH6vow_B_xp2RCcywOexoSZKpiRuP8GFnP1BI5aAXXgoJwmh1OTJZUGfwR2EMXzNQmFOXNUBikfzuT8o84vVKUlMLaeztlM17_Q5eVhpUSqDVI0S6WowtCwXJISED9UvSJjX_oRKR_pCaoLrE1vBseblcBJKBTO3XOJUfjqCyzMp7niUVUIPHzir9cSs89NGsxL3jIWXyGxpPPtaVWX_-1iyOKEcNX-4KTrTCvxs_uipnuRfzwqpIVB3yYZKlA3MC1LHYATW1N_6-u_lpTgt1b9vC2InDXpJ0LCF_JxAV6OFTVHKY8sHsRzsQtQ0TnyM5QL0Tgj3ZGpV9dBlQ.jpg",
       "bullets": [],
       "date": "",
       "time": "",
@@ -2038,7 +2038,7 @@
       "source": "@thewackyduo",
       "category": "General",
       "title": "Mid Autumn Festival @ Gardens By the Bay . All lanterns guide. https://www.thewackyduo.com/2023/09/mid-autumn-festival-2023-lanterns.html",
-      "image": "https://cdn5.telesco.pe/file/qmCm5UYSQbllYTV0cEv0qLttU207pTI0uHEpSd02sHcE7MGql9-Q_7pm4IBUwX3Q9WyF7VXkSNcrrSW09ZAU6FD5WJaXPMLwMirJb-hPcSUfhtB8r_MxChGugQ0rjeB78jxu6zYatnw9XIZiqIUtfCLAS9Q9Mi1xA0qyl3RcOaB6wkA6j7k-14PjCOoazZSVmTFNkuHLzWHFt64nYDD99WrGtyGrOYtEbP-ww6zRnEScYdLq7HgI8SQRr3Y2KbKupB7vEAaeN72UCKkhBEHQvwz63BYjDDeNMreL-Wpwabb0bvB17JWMxdqixA1-2YTzuWLd77NEaqaN2w3BF89mIg.jpg",
+      "image": "https://cdn5.telesco.pe/file/IJhcYGRLsAg8gfylZW8cpl3pPC-0xqIt9womgsPbEgCF2C4tyVfm34LNynzCsOs2POoVo10e0eB3X4VkC4eaGrKOezg6AqNE1_dC667A47mJVp8_9iDyoYPtKzpJWOt0tvgJA28O-Tp9D0FIzBGT_bq6vJ0-3-2Fw9mLntQGwO_inFx_rAgDf-ecD_r_dFWOF5TCKxJizPGhyBhXlQ-ywl1scr8lIyxVsXPx4C9l-PWjha2o32FIe9IIr2LIsjzoTxYTnRg2sE7nTp3d8EdBuLRYJG-0D4stzhkmPiyx2Plk7fdXkarQnP4H10VAh0hHVjAogq-GvLFw9ewl2PQ9JQ.jpg",
       "bullets": [],
       "date": "",
       "time": "",
@@ -2053,7 +2053,7 @@
       "source": "@thewackyduo",
       "category": "General",
       "title": "Gang : The Awaken Warrior Exhibit https://www.thewackyduo.com/2023/09/gang-awakened-warrior-paragon.html",
-      "image": "https://cdn5.telesco.pe/file/WPdPhgqPdTh_BbjnwsS15i-O7eshr1q8Qvk5VbsvYmGpLAwF2i4ohsQ1MO0wLVg6XGCAY8B0tqwjq-OXxrLmOb0bIvTls9x5Aug7yr25Ris7DlKGGY5r9PJl-UPJciexk4CdoaGjIiDYdI8q8ZkTc0a4KpSSDG9Y_9PibgaA3lNqY7XDSqH8pCbzWZgbWWVWEXbeB59JEgO3DEQkLt8GaIdb2Wo_KMssaZ0a53ynud0fzsWvxLNks30M1Yx8Hp9V5iJ0uVM4XwlERFZOc648d_hL0uPe-bRwDrdTPWwGglI4gdLZeMhprRAy8KJ56Gf3iU-CI7A5fu6MTHy6QTs1XA.jpg",
+      "image": "https://cdn5.telesco.pe/file/eAhq99cK4ukI322fVX9Da-VHRkforzZZobV4BChCorkduYrIhfhY1lFvsy4F4QbUWJaiN9MaZHwUTvUQtmVFIbwgb--MHFC9S0X6-n05lACCXO6AOAKzR7BN1baQNJKWoL3dmxgg4vxe3dQK6XCFgBoxpPH5wugGT4U34gfbHmpqY-S5Fsnf-tpcDv3aYXJUfupEmisDFcbrf7n_FrD1Yb45d17qg_vxHyQ0HMh2Cet3tg9lyLbxz-sNgkTQMSXhplRsLnLjjIw20nMxVAP05_NYdw1Q8WAUGECxlgHHQe6276lwmctd7gM5Wb4dhTUyZCq-1SzR5cginpMCEC-EfQ.jpg",
       "bullets": [],
       "date": "",
       "time": "",
@@ -2068,7 +2068,7 @@
       "source": "@thewackyduo",
       "category": "General",
       "title": "Yellow Ribbon Bakery Mooncakes https://www.thewackyduo.com/2023/09/yellow-ribbon-bakery-mooncake.html",
-      "image": "https://cdn5.telesco.pe/file/mavLJ6wVblYDFlnXKj-R1trvjQe66ataqyJbTkc_yH5hXOUQe6ecjKUT8tgK1UaPyGo1YiY18Vd9IELO_1A_AIhykSfmQvV6vtwBR9fZYP3GzahwY29dbn9O5Gi9qHncoS8btDUkJB_Wbirv64atyZz3wDrx8NbY8cmo5P7SdcXoQCNWYZXkD4GFHk13bZxxDZGQwd2kGX2rxkUaxWL8SXsAbSNP5KOQEJQOGmFBl7DfnBfgwopymvc-1-8O5UszU7X7MlIDIp7Zs8VLTbasNtGSycKNNMetqh_4kPz7jUwQoQt_HsEJYuRFgAUpornLjZK_0YdfniFb-onYSDFHoQ.jpg",
+      "image": "https://cdn5.telesco.pe/file/neQj9oRvw9s1tS1uHQFIbh9Hj3ktScX0CfeG_cEFOSObulFHbNHw_SZiV9nbLOlJ5VnCogVajWtR7mkukFJwlYwW9mYSZ_p9HGlkuxsHHL3-eOYZoYuSa8c3lPfyR1YPkFYCGyS4a3HRkgidPOFv5gFk0gYmfBT1QM05NRVcTuvugNPIGKKvfL_GtVjTPk-3mKc-spqvQ45ya6bq_0uXgRX0WxjAu7w_6vGGRBTQRqS2RAIjD9igh_OuELpR575U6LIReVAdcVX43UgyoMEUIp45LCb7VxYzdzEF0_zveevd1_ZJWFtzVEiHiodZ5A0VV17YQwtfRux32v5cWWHRRA.jpg",
       "bullets": [],
       "date": "",
       "time": "",
@@ -2083,7 +2083,7 @@
       "source": "@thewackyduo",
       "category": "General",
       "title": "Comic Con prelude this weekend at City Square Mall https://www.thewackyduo.com/2023/09/singapore-comic-con-prelude-2023.html",
-      "image": "https://cdn5.telesco.pe/file/WuEf_BuFJ1wduzYpmZazuoyI7ItHE7HNqd-PREJWVlZkIusxMJhzRcY59dmaFMAsLd4oJZOTcKGd-aMw1csy4bjQow2_Q0geMo5jBJcx4teaqE0eQj2lqB3y89f5H-hUiKWy3wvPIHad1iD1p_T5EMB---Wk59iIsLLLn77ZES63wCN-OID80R-1JmYaxZCp6U-RsTgLWEPh49tUQ2cPvByJ6MMu-qi6FAm5LSGAbRjSLJ6agWkna8khKu_Y1Tdc7yJxwsbyNobysbZycpKQYUSc97zFXfNqtA0dc2GSS66JxKkEQTfW2whqhQiWO3kqx9G18iK_kd8zqGE2vJ-S3g.jpg",
+      "image": "https://cdn5.telesco.pe/file/Z2WM9PgR9dxDZ3kk5-ATjb6AOPtZjYl15id5FyIrtvhTVM2rcTCbwNFdLsvxV7dDCrv7x8CntYnRUZCYuFiRcIn7jlgDME3KeqMAgc7-_iYAwyT6CDZuPgPcsH6n0mmlnRRI8KnqLmlFAwvsAknYe9x3jTzVUVO8rlos1G0w_yIfpg1iaMhs-tK_3pdpOUQnSrHV72qPOEYHHsGLcei5sNyMMHdJkttUjpPuvkdAm5qI1uL7u89uSBgVlYnjLNRjIaNP7cf9I4orIeLrs7peBgda33LzoROk97WVz9crYFefbSktwvrGWTGCMrznxBgE6WgqRpINozahvVNkikUT6Q.jpg",
       "bullets": [],
       "date": "",
       "time": "",
@@ -2098,7 +2098,7 @@
       "source": "@thewackyduo",
       "category": "General",
       "title": "F1 road closure 2023 https://www.thewackyduo.com/2023/09/f1-road-closure-formula-1-singapore.html",
-      "image": "https://cdn5.telesco.pe/file/VRnxOwFBWQ1OBkFTlUJ5eUhQHhQaWLNzWcIHpOVs8yOHA13Ek5PdqzOGcUR7rOoAdRMzyor8Lx0MUOnv0cNkEnwz2sifX7gnNfZ8Lrckd8xodJFpbJolWfZ0412vtGywSODneEM0L9pJp8J-QrAJQgMTjH16H1asvyXSnIxnd2Rr5cUbOzK0oMjBQ0VqSbuwFrISU9IDfEWacj697ldqeXW3LslN8JASftkADOPNfYaUHKR4PLjA4J8ET3BDp-N45giHhVZG2Mb3BBfvao_Krlq1pheBe4tWopYXBFxuk4Eq32xNk_6pmrqjnhBKasDf2O59L9uRMvKZXwVVjPa9OA.jpg",
+      "image": "https://cdn5.telesco.pe/file/kjQxf2cFjTr9QTtErtn_5jlJqYqkQ3WY-XXDp8Mi3eimJD8nujv8bJ2dLSx72yj8C5pjDNeUz-ftOAn9GTOv7zbSTsK6ySsbFv59ZRCcNUmiKKBwLJEHs4p5fia4nHaP5ucfTaOJcZNMy5-9D3r1hMbrzul7Cdim8r6zTHNEqiH-Lpj2tE4NEANGEi5pecuZNvX0bazKZU1b3JMO-JiWwEjlVVj-keCtp2ZEcUGVMz_4X-VqytZtJCnptxFPTuPpLoXUEmd-8NydXdgge5B4gPlYBJjDHEOG4e8iPR_r9vPiBOtNiIphwnMfMwfoweLKxwkxR_FaZnPOYPzeoBcA2w.jpg",
       "bullets": [],
       "date": "",
       "time": "",
@@ -2113,7 +2113,7 @@
       "source": "@thewackyduo",
       "category": "General",
       "title": "Casetify X Chainsaw Man Collab https://www.thewackyduo.com/2023/09/casetify-x-chainsaw-man-review.html",
-      "image": "https://cdn5.telesco.pe/file/oQykhgGzctuh7ADC0gLs509CV5i2G4Iw1uCDYzN6Ugpl0wS13oiRKe-XGu4CAyM3bpdQWwMOLTHo6y7Aji3ZtvqGA2uBtNeXylReSq8VkvG-kBOpm3xPQv2QnbTsbL7iRaWekn5pJ12u-4GaTsZpMrz2jzHnZD47dL3Y2aAp5gFQKWB6jKSqfi9V8gmkIrOAKhUpPe_5sGEF3b8y6vDI9NvIuAL6yByCZefqgawOrmgRzeytrYwXepAuQgq6BK2-TqQLx1aDinrrQ4sQmHe11E9mbOkL8bb-hNSYkRhQzFXurdqr2VkaN0lM3-KPtuN-TxsI-mhudVSiQhNghAgEHA.jpg",
+      "image": "https://cdn5.telesco.pe/file/m9s3zAcitAgO6LoaZ37yz28vbev__Vnl37PiAqEi5nJSwFTM2V72MIZMDXzcCHG0Daiolyl3UE4pwqEuReaHXBTM3fFutHsp9dmlivEKT-C-JPGEPn8nX0BOiUVZFGxrWOK51jCJxYo8kctHn_vVlkZ_Miw-jnOy9ZEcFJ74vmxDHiomECejOBxELbdQEZPcdPjjyaBA0WmnAAzrQsTM_DPTNoaktIWWETnE-apqbd_bqP-4ijAkLAo2ATc8mt3iTH5j67Ah1_jSez58HuXKOCvIgdaaC5A02LoQOmUxJGa-S7pcz0RaPiU2Nug_WnTo6175jHOHEzJzRsaF_C6A8g.jpg",
       "bullets": [],
       "date": "",
       "time": "",
@@ -2128,7 +2128,7 @@
       "source": "@thewackyduo",
       "category": "General",
       "title": "Ikea Swedish Restaurant September Promo  https://www.thewackyduo.com/2023/09/ikea-swedish-restaurant-september-promo.html",
-      "image": "https://cdn5.telesco.pe/file/Tww-j5AKa_JVhH7XBg5PP8u3sYvoKFdygICc1QcfXk3zOs2Hip-8g8y3b-ijd-oEilh4ul3w4Y7Ltz4VSYC4aiONsH3HmUjvR9ZegpAh2sDX4G-5goMB7NWmyNLY_0nDkLmyHqfLch31S2B1JfwotQkm8ly5fvzOSGE7x5ytv0XaE2NTZT4pm8_JNxijVANFd8ClDWZ_DIuYqW35qDqBwUtZmKUY8sR9z37MbyH5KQ5ND8dnwcjCxGWUvdvzoNxDYFiSs7J6xyvMm_3MR2Bm4SS6yBVs2BGsAxQDaGpk5Rr4on9MbQI7bbRFpPxT5U-twhBaBPv5jyXVpGDqdAOL9w.jpg",
+      "image": "https://cdn5.telesco.pe/file/UpT96X90XQrhwNsLyP-SYnLMfLYknYMMf8Gax30T9VWVUU4s18CYh04P7CJGFO0SP6wW5iLhKlQBzBcmHCthLoTG-nsbmDMoKdjH_OOSq8luEmfmag77U3BO71eCdwcOFzYO-6tXeM8vhPC10veKyXiaZ35hMO5kIdaE7gP-56N8p5ejMbtE77fCc0btWYsa2AcTVgLKkRk0BG7dzQ1TAqRVORQa4b0QvdT5TsEI4I0Hh-hKIIHUB7RTYiXuCKZybQE1HjH1ecWM_bRXo18YREL4jGfOaKohCbBLnhmhbEI2uPlXz3fr8oZZwtg1HJHu5SvVq1qAyOVl05VBbCyOgQ.jpg",
       "bullets": [],
       "date": "",
       "time": "",
@@ -2143,7 +2143,7 @@
       "source": "@thewackyduo",
       "category": "General",
       "title": "POSB Run for kids early bird ends 31st Aug https://www.thewackyduo.com/2023/08/posb-passion-run-for-kids-2023.html",
-      "image": "https://cdn5.telesco.pe/file/kmUPGYH61LqI6A_FzACpCXMqZduAkmwOT9rN7GPY9b14OP3ixJD2k1SasH5Te9zj5RVEME3Sz-T7PbKqmPC-lbRvi78_TT1_cC8R66BgfxGKEnHS76AWb0ZioLO_oAINLuytSxiGu3puJRRxevzUvkecguIqBStdWOrCxTSA_ul3-VXtmeKAoC4Bx4y2oj4pmrr0646b6PhkdwL9LXHbnOExDO5BBMB_nJlqkKZuLhotFQK4exbKY3gD4hVGedX1OlMszAdlEJEDBWY9GSFeZck9HBc4oRDJrLyP2ywEq8Mi9pJxrKGspzs-nXZW1LLeaFcIuWqsVI0clOr49GJ3pw.jpg",
+      "image": "https://cdn5.telesco.pe/file/DuhGvpBG-Wb8lO1lvYerNLG7LksCqZxustP-Nmb0rJvhBs40P8AYaGmpGG3AbjCeqi3XOTmIo1aSaNjJCtnssyQ0qnsH_fCiDPqbecGMnz7Av-PjYuWqohwwrh4h_SE2wYF9s_JL-aqNxJymmhgC6Tv7ghS6zKik-r0t1wjxl7V3trMjxA7p8cJ8ArzGqqWl-J6STU4xeql-JnWwj74APKnC0RUT0AZJ0kkED79HxeAwNCr0uiEcdwvofJtGDB90PvYtlvKOu_W-rbQysrvZ5Gb44wMdS3sfW7bmLYeXTdgjY2bOkb3rMx64sRP86eQFpicsw6jKYPj9Wc9fiaZDWg.jpg",
       "bullets": [],
       "date": "",
       "time": "",
@@ -2158,7 +2158,7 @@
       "source": "@thewackyduo",
       "category": "General",
       "title": "September school holiday activities for kids https://www.thewackyduo.com/2023/08/september-school-holiday-activities-for-kids-2023-Singapore.html",
-      "image": "https://cdn5.telesco.pe/file/dlOa_esMabTermQjFk4-Lrxf9UvCMW3G3JFrmvXx7-fb7Vgb4s5AIHgN0dcIRx_cOqW32Nvl0PMzy7S9WYik0fMSqbaiWUmF01IvXStpH4cKm6-ehScJCBW6UTGwu6NafHlTINDJdnv65rv1sBxjy1W4G4erJyd0NhvG6xjizmAEZupPikMxWAoNoXLlbutYdR_Lqw2sdgNlUf5ztXV4Q8LIwmZ6dx6ROUsRjEV1XkIURBDs42FJaz6mU5p4bb9CT5rtAua4NQ1J0r7wRVnViKRkY3Q6mSSCeEaVL2sjWC5SY0o15RtHTNe5vuxx8AJirL4COJ3clWtNI-Rd332vYQ.jpg",
+      "image": "https://cdn5.telesco.pe/file/haL_dSPZhiCRVJWuo_LUPkvJ1RB1gxKyr4_jTJfWv87OcMIWziTeTaXy_5Th2ir2JFJwtdMTYE2PqlJevOujiyoQE-hUv8mqls1LySyQ6deK71bhYujDR2nmsXqupOTvj5nX0HNBAQC9aRIv3mSwhSOAKB2jF8UfuboKXa1H04pVGueJ0hdt13b42EoI04JiqSmHdjhf-Mrr0_aRTMtMd4eaCvJLjUEw-lf9bC5zx2nx0WD5R-nfDlCb7IxkdPFtUCJlb0hz_NQB20quvq9X33nPWO_1WR9bgs2oCBomgzDtH0kFiIsQO1_VC9SysqeRpNIk3PH3qJA8CgNLLv-4tw.jpg",
       "bullets": [],
       "date": "",
       "time": "",
@@ -2188,7 +2188,7 @@
       "source": "@thewackyduo",
       "category": "General",
       "title": "Guide to Presidential Election https://www.thewackyduo.com/2023/08/mcdonalds-happy-meal-toys-august-september.html",
-      "image": "https://cdn5.telesco.pe/file/f3hw6MB3uPUwlvATEo48oxOjRLZNZzlE67XJmlFp6bzSXEHw6TeH6nSkjk0e04Ab8tGoeman_QaXe5B-DnWnQOUrh5_nzV_4MHenSYBdU3y405aLCimmYfKnMnaXc0WFuUXvSS73N6BvFX35_dszbV7O4OLLUwD-0IaCzJRt3O-VP5blmWFnezJHzxNd2_3T1Y2y87AAjwka2M_gsnqqKXd9XsRVQSdlYEeyQXg1y4WeM9bM693EcbwYXR-Ma0ZC73mpjfjqmZONXBOPSwY6v5uyW4duA_e5wTMF0qRJioVjuFLXuYdalD2gMPA18-Q-qMjloNjBlzUolu1U41hgyQ.jpg",
+      "image": "https://cdn5.telesco.pe/file/gJK2I_TtEppo8OgvZg3xlZ0TYz5a7THMncpzdPOoDkLYJNIg-rz5G3HREqDeFnUxB4D7iZd-1xU7hLwZUYfoewAD-dkNjKYQOWCrWJnfN-N-9zhuDxoJlUznchg55DD-ZQRrQyKykoIuCGUoX0SNEiOUfAdMyP10yNd76j0HkP7F0FzOC_A27nocE7WbCIxJtPvwQJNEOKJYdnJ0PE98WoanPp3WLMbN_sbPcrDrpYZPnxiJlW2uJRCb_k5tz6cqb0AZiGusmpSJRoBPhjmcAVt1ppAejw59b2qMzfbNCtr_23kQ971v05vt4UMyMTRomiqExLUb8diURKF-eHxwyA.jpg",
       "bullets": [],
       "date": "",
       "time": "",
